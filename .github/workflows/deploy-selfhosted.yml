@@ -1,0 +1,20 @@
+name: Deploy (Self-Hosted Runner)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    # Requer um runner self-hosted com labels: vps, prod
+    runs-on: [self-hosted, vps, prod]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Docker Compose Up
+        run: |
+          docker compose pull || true
+          docker compose build || true
+          docker compose up -d
+      - name: Health Check
+        run: |
+          sleep 5
+          curl -fsS http://localhost:3001/health || (docker compose logs --tail=200 backend && exit 1)
