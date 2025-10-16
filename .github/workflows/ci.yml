@@ -1,0 +1,14 @@
+
+name: ci
+on: { pull_request: { branches: [main] } }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - uses: pnpm/action-setup@v3
+        with: { version: 9 }
+      - run: pnpm -w install --no-frozen-lockfile
+      - run: pnpm -w -r run build --if-present

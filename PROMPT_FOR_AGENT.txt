@@ -1,0 +1,1 @@
+Use este pacote para criar/higienizar o repo, habilitar CI, proteção de branch, gitleaks e gerar evidências.

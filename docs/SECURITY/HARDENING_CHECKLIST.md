@@ -1,0 +1,9 @@
+- [ ] .gitignore
+- [ ] .env.example
+- [ ] Branch protection
+- [ ] Secret scanning
+- [ ] Traefik headers
+- [ ] Nest Throttler
+- [ ] Backups Neon
+- [ ] Uptime monitor
+- [ ] CI PR

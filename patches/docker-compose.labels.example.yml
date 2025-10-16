@@ -1,0 +1,8 @@
+services:
+  api:
+    labels:
+      - "traefik.http.middlewares.sgi-sec.headers.stsSeconds=31536000"
+      - "traefik.http.routers.sgi-api.middlewares=sgi-sec@docker"
+  web:
+    labels:
+      - "traefik.http.routers.sgi-web.middlewares=sgi-sec@docker"
