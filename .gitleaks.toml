@@ -1,0 +1,20 @@
+title = "SGI Platform - Gitleaks Config"
+
+[allowlist]
+description = "Allowlist for common false positives"
+paths = [
+  "\.github/",
+  "LICENSE",
+  "CHANGELOG",
+  "docs/"
+]
+regexes = [
+  "(?i)dummy|example|sample|test|localhost"
+]
+
+[[rules]]
+id = "generic-credential"
+description = "Generic credential, key, or secret"
+regex = '''(?i)(api[_-]?key|secret|token|password|passwd|pwd|bearer)[\s\S]{0,20}['\"]?[A-Za-z0-9_\-]{12,}'''
+entropy = 3.7
+tags = ["key", "secret", "token"]
