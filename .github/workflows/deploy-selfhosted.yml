@@ -3,18 +3,31 @@ name: Deploy (Self-Hosted Runner)
 on:
   workflow_dispatch:
 
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
 jobs:
   deploy:
-    # Requer um runner self-hosted com labels: vps, prod
-    runs-on: [self-hosted, vps, prod]
+    runs-on: [self-hosted, linux, vps, prod]
     steps:
-      - uses: actions/checkout@v4
-      - name: Docker Compose Up
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull images & build
         run: |
           docker compose pull || true
-          docker compose build || true
+          docker compose build
           docker compose up -d
-      - name: Health Check
+
+      - name: Healthcheck
         run: |
-          sleep 5
-          curl -fsS http://localhost:3001/health || (docker compose logs --tail=200 backend && exit 1)
+          set -e
+          for i in $(seq 1 30); do
+            curl -fsS "http://localhost:3001/health" && exit 0
+            sleep 2
+          done
+          echo "Healthcheck failed"; exit 1
