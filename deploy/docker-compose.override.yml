@@ -1,0 +1,51 @@
+version: "3.9"
+
+services:
+  db:
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  api-backend:
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:${API_PORT}/health || curl -fsS http://localhost:${API_PORT}/health || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 20
+    depends_on:
+      db:
+        condition: service_healthy
+
+  web-frontend:
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:${WEB_PORT}/ || curl -fsS http://localhost:${WEB_PORT}/ || exit 1"]
+      interval: 20s
+      timeout: 5s
+      retries: 20
+    depends_on:
+      api-backend:
+        condition: service_healthy
+
+  appsmith:
+    volumes:
+      - appsmith_stacks:/appsmith-stacks
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost/ || curl -fsS http://localhost/ || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 20
+
+  n8n:
+    volumes:
+      - n8n_data:/home/node/.n8n
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:5678/ || curl -fsS http://localhost:5678/ || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  appsmith_stacks:
+  n8n_data:
