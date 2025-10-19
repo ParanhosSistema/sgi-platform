@@ -1,0 +1,24 @@
+{
+  "annotations": {"list": []},
+  "editable": true,
+  "gnetId": null,
+  "graphTooltip": 0,
+  "panels": [
+    {
+      "id": 1,
+      "title": "Erros 5xx por minuto",
+      "type": "graph",
+      "targets": [
+        {"expr": "sum(rate(http_requests_total{code=~\"5..\"}[5m]))"}
+      ],
+      "gridPos": {"h": 9, "w": 24, "x": 0, "y": 0}
+    }
+  ],
+  "schemaVersion": 36,
+  "style": "dark",
+  "tags": ["slo"],
+  "time": {"from": "now-1h", "to": "now"},
+  "timezone": "",
+  "title": "SLO - Visão Geral",
+  "version": 1
+}

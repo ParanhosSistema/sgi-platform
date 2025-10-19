@@ -1,0 +1,68 @@
+databases:
+  - name: sgi-db
+    databaseName: sgi_db
+    plan: free
+
+services:
+  - type: web
+    name: sgi-api
+    env: docker
+    plan: starter
+    image:
+      url: ghcr.io/luishspontes/sgi-api:latest
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: sgi-db
+          property: connectionString
+    routes:
+      - type: custom-domain
+        customDomain: api.paranhospr.com.br
+
+  - type: web
+    name: sgi-web
+    env: docker
+    plan: starter
+    image:
+      url: ghcr.io/luishspontes/sgi-web:latest
+    healthCheckPath: /
+    envVars:
+      - key: NEXTAUTH_URL
+        value: https://paranhospr.com.br
+      - key: OIDC_ISSUER_URL
+        value: https://iam.setu.pr.gov.br
+      - key: API_BASE_URL
+        value: https://api.paranhospr.com.br
+    routes:
+      - type: custom-domain
+        customDomain: paranhospr.com.br
+
+  - type: web
+    name: brandin-portal
+    env: docker
+    plan: starter
+    image:
+      url: appsmith/appsmith-ce:latest
+    healthCheckPath: /
+    routes:
+      - type: custom-domain
+        customDomain: portal.brandin.com.br
+
+  - type: web
+    name: brandin-n8n
+    env: docker
+    plan: starter
+    image:
+      url: n8nio/n8n:latest
+    healthCheckPath: /
+    envVars:
+      - key: N8N_HOST
+        value: n8n.brandin.com.br
+      - key: N8N_PROTOCOL
+        value: https
+      - key: WEBHOOK_URL
+        value: https://n8n.brandin.com.br/
+    routes:
+      - type: custom-domain
+        customDomain: n8n.brandin.com.br

@@ -1,0 +1,71 @@
+# SGI / ParanhosPR / Brandin — Blueprint de Arquitetura (Microsserviços)
+# Gerado em 2025-10-19 11:19:07
+meta:
+  owner: "SETU - Governo do Paraná"
+  requester: "Luís Henrique Silva Pontes"
+  projects: [sgi-platform, paranhospr, brandin-orchestrator]
+  domains: [paranhospr.com.br, brandin.com.br]
+  principles: [security-first, domain-driven, events-first, GitOps, observability-by-default]
+traffic_and_identity:
+  api_gateway:
+    vendor: "Traefik v2 + WAF"
+    features: [rate_limiting, ip_allowlist/denylist, jwt_validation (OIDC), redirect_http_to_https, headers_security_policy]
+    entrypoints: [443, 80]
+    domains: {"web": "paranhospr.com.br", "api": "api.paranhospr.com.br", "portal": "portal.brandin.com.br", "n8n": "n8n.brandin.com.br"}
+  ingress: {cluster: "Docker/K8s (futuro)"}
+  service_mesh: {status: "planejado", mTLS: true, retries: true, circuit_breakers: true, timeouts_ms: 2000}
+  iam:
+    provider: "OIDC (Keycloak/AUTH0/GovBR compatível)"
+    tokens: "JWT (access/refresh)"
+    roles_scopes: [admin, gestor_setu, conteudista, analista_dados, visitante]
+    rotation: {jwks_rotation_days: 14}
+data_and_ops:
+  databases:
+    api_backends:
+      - {name: sgi_db, engine: "PostgreSQL 15", host: db, port: 5432, user: sgi, secret_ref: DB_PASSWORD}
+      - {name: analytics_lakehouse, engine: "S3/Lake (Delta/Iceberg)", note: "consumido por BI/IA"}
+  event_bus:
+    type: "Kafka/Redpanda (ou NATS JetStream)"
+    topics: ["turismo.municipio.atualizado","turismo.evento.publicado","cadastro.usuario.criado","conteudo.post.agendado"]
+    patterns: {outbox_cdc: true, schema_registry: true, versioning: "semver"}
+  cdc: {tool: Debezium (Postgres), guarantees: {atleast_once: true, idempotent_consumers: true}}
+  observability:
+    traces: OpenTelemetry
+    metrics: Prometheus
+    logs: Loki
+    dashboards: Grafana
+    slos:
+      - {name: "Disponibilidade Web", target: "99.5%", window: "30d", alert: "2% budget burn em 6h"}
+      - {name: "Latência API P95", target: "800ms", window: "7d"}
+      - {name: "Erros 5xx", target: "< 1% por hora"}
+  cicd:
+    model: "GitHub Actions + GitOps"
+    environments: [dev, staging, prod]
+    strategies: [canary, blue_green, feature_flags]
+    compliance_gates: [sec_scan_images, iac_policy_check, unit_e2e_tests]
+security:
+  secrets: {store: "Docker/K8s Secrets ou Vault", rotation_days: 90}
+  network: {mTLS_internal: true, strict_egress: true}
+  data:
+    encryption_at_rest: true
+    pii_masking: true
+    retention: {raw_events_days: 90, analytics_months: 24}
+services:
+  - {name: web-frontend, tech: "Next.js 14", image: "ghcr.io/luishspontes/sgi-web:latest", port: 3000, route: "paranhospr.com.br"}
+  - {name: api-backend, tech: "Node/Express (ou FastAPI)", image: "ghcr.io/luishspontes/sgi-api:latest", port: 4000, route: "api.paranhospr.com.br"}
+  - {name: appsmith-portal, tech: "Appsmith", image: "appsmith/appsmith-ce:latest", port: 8080, route: "portal.brandin.com.br"}
+  - {name: n8n, tech: "n8n", image: "n8nio/n8n:latest", port: 5678, route: "n8n.brandin.com.br"}
+deploy:
+  runtime: "Docker + Traefik"
+  network: "traefik-network"
+  volumes:
+    - {name: "pgdata", mount: "/var/lib/postgresql/data"}
+  compose_labels_examples:
+    web-frontend:
+      - "traefik.enable=true"
+      - "traefik.http.routers.web.rule=Host(`paranhospr.com.br`)"
+      - "traefik.http.services.web.loadbalancer.server.port=3000"
+    api-backend:
+      - "traefik.enable=true"
+      - "traefik.http.routers.api.rule=Host(`api.paranhospr.com.br`)"
+      - "traefik.http.services.api.loadbalancer.server.port=4000"
