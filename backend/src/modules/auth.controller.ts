@@ -21,9 +21,10 @@ export class AuthController {
       throw new UnauthorizedException('Invalid email or password');
     }
 
+    // @ts-expect-error TypeScript has issues with jwt.sign overloads
     const token = jwt.sign(
       { sub: 'admin', email: adminEmail, role: 'ADMIN' },
-      jwtSecret,
+      jwtSecret as string,
       { expiresIn: process.env.JWT_EXPIRES_IN || '7d' }
     );
 
