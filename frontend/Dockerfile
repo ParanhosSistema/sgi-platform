@@ -1,46 +1,25 @@
-# Multi-stage build for Next.js production
-FROM node:20-alpine AS base
-
-# Install dependencies only when needed
-FROM base AS deps
-RUN apk add --no-cache libc6-compat
+# Next.js production image using npm
+FROM node:20-alpine AS deps
 WORKDIR /app
-
-# Copy package files
-COPY package.json package-lock.json* ./
+COPY frontend/package*.json ./
 RUN npm ci
 
-# Rebuild the source code only when needed
-FROM base AS builder
+FROM node:20-alpine AS builder
 WORKDIR /app
-
 COPY --from=deps /app/node_modules ./node_modules
-COPY . .
-
-# Build Next.js application
-ENV NEXT_TELEMETRY_DISABLED=1
+COPY frontend ./
+# Build Next.js
 RUN npm run build
 
-# Production image, copy all the files and run next
-FROM base AS runner
+FROM node:20-alpine AS runner
 WORKDIR /app
-
 ENV NODE_ENV=production
-ENV NEXT_TELEMETRY_DISABLED=1
-
-RUN addgroup --system --gid 1001 nodejs
-RUN adduser --system --uid 1001 nextjs
-
-# Copy built application
+# Copy built app and minimal runtime files
+COPY --from=builder /app/.next ./.next
 COPY --from=builder /app/public ./public
-COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
-COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
-
-USER nextjs
-
+COPY --from=builder /app/package.json ./package.json
+COPY --from=builder /app/node_modules ./node_modules
+# Expose and start
 EXPOSE 3000
-
 ENV PORT=3000
-ENV HOSTNAME="0.0.0.0"
-
-CMD ["node", "server.js"]
+CMD ["npm","start"]
