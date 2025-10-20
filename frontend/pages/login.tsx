@@ -10,21 +10,46 @@ export default function Login() {
   const submit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError(null);
+    
+    const API_URL = process.env.NEXT_PUBLIC_API_URL;
+    if (!API_URL) {
+      setError('Erro: URL da API não configurada');
+      console.error('NEXT_PUBLIC_API_URL não está definida');
+      return;
+    }
+
+    console.log('Tentando fazer login em:', `${API_URL}/auth/login`);
+    
     try {
-      const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/auth/login`, {
+      const res = await fetch(`${API_URL}/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),
       });
+      
+      console.log('Status da resposta:', res.status);
+      
       if (!res.ok) {
-        setError('Credenciais inválidas');
+        const errorData = await res.json().catch(() => ({}));
+        console.error('Erro na resposta:', errorData);
+        setError(errorData.message || 'Credenciais inválidas');
         return;
       }
+      
       const data = await res.json();
+      console.log('Login bem-sucedido');
+      
+      if (!data.token) {
+        setError('Erro: token não retornado');
+        console.error('Token não encontrado na resposta');
+        return;
+      }
+      
       localStorage.setItem('sgi_token', data.token);
       router.push('/dashboard');
-    } catch {
-      setError('Erro de rede');
+    } catch (err) {
+      console.error('Erro ao fazer login:', err);
+      setError('Erro de conexão com o servidor');
     }
   };
 
