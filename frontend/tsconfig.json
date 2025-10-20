@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
     "target": "es2020",
-    "lib": ["dom", "es2020"],
+    "lib": [
+      "dom",
+      "es2020"
+    ],
     "module": "esnext",
     "jsx": "preserve",
     "moduleResolution": "node",
@@ -12,8 +15,22 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "incremental": true,
-    "baseUrl": "."
+    "baseUrl": ".",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
