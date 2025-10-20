@@ -20,19 +20,28 @@ export class AuthController {
       throw new UnauthorizedException('Missing credentials');
     }
 
+    console.log('🔍 [AUTH] Login attempt for:', body.email);
+
     // Buscar usuário no banco de dados
     const user = await this.prisma.user.findUnique({
       where: { email: body.email }
     });
 
     if (!user) {
+      console.log('❌ [AUTH] User not found:', body.email);
       throw new UnauthorizedException('Invalid email or password');
     }
+
+    console.log('👤 [AUTH] User found:', user.email, '| Role:', user.role);
+    console.log('🔐 [AUTH] Comparing password...');
 
     // Verificar senha usando bcrypt
     const isPasswordValid = await bcrypt.compare(body.password, user.password);
 
+    console.log('✅ [AUTH] Password valid:', isPasswordValid);
+
     if (!isPasswordValid) {
+      console.log('❌ [AUTH] Password comparison failed');
       throw new UnauthorizedException('Invalid email or password');
     }
 

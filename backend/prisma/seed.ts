@@ -10,9 +10,17 @@ async function main() {
   const adminEmail = process.env.ADMIN_EMAIL || 'admin@paranhospr.com.br';
   const adminPassword = process.env.ADMIN_PASSWORD || 'Lxp0pwz7dsR8ok8EtH0x';
 
+  console.log('📧 Email configurado:', adminEmail);
+  console.log('🔑 Senha configurada:', adminPassword ? '***' + adminPassword.slice(-4) : 'NOT SET');
+  console.log('📝 Usando ENV vars:', {
+    hasAdminEmail: !!process.env.ADMIN_EMAIL,
+    hasAdminPassword: !!process.env.ADMIN_PASSWORD
+  });
+
   // Hash da senha usando bcrypt
   console.log('🔐 Gerando hash da senha...');
   const hashedPassword = await bcrypt.hash(adminPassword, 10);
+  console.log('✅ Hash gerado:', hashedPassword.substring(0, 20) + '...');
 
   // Criar ou atualizar usuário admin
   console.log(`👤 Criando usuário admin: ${adminEmail}`);
