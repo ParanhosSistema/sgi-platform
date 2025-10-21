@@ -1,5 +1,5 @@
 import { Controller, Get, Param } from '@nestjs/common';
-import { PrismaService } from './prisma.service';
+import { PrismaService } from '../prisma.service';
 
 @Controller('territorios')
 export class TerritoriosController {
