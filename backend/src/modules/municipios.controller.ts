@@ -7,7 +7,7 @@ export class MunicipiosController {
 
   @Get()
   async findAll() {
-    return this.prisma.municipio.findMany({
+    const municipios = await this.prisma.municipio.findMany({
       include: {
         territorio: true,
       },
@@ -15,15 +15,29 @@ export class MunicipiosController {
         nome: 'asc',
       },
     });
+    
+    // Convert BigInt to String for JSON serialization
+    return municipios.map(m => ({
+      ...m,
+      ibgeCode: m.ibgeCode ? m.ibgeCode.toString() : null,
+    }));
   }
 
   @Get(':id')
   async findOne(@Param('id') id: string) {
-    return this.prisma.municipio.findUnique({
+    const municipio = await this.prisma.municipio.findUnique({
       where: { id: parseInt(id) },
       include: {
         territorio: true,
       },
     });
+    
+    if (!municipio) return null;
+    
+    // Convert BigInt to String for JSON serialization
+    return {
+      ...municipio,
+      ibgeCode: municipio.ibgeCode ? municipio.ibgeCode.toString() : null,
+    };
   }
 }
