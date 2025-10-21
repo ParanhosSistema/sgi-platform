@@ -1,11 +1,14 @@
-// frontend/app/lib/api.ts
-export const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'https://sgi-platform-backend.onrender.com';
+export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://sgi-platform-backend.onrender.com';
 
-export async function apiGet<T>(path: string, init?: RequestInit): Promise<T> {
-  const res = await fetch(`${API_BASE}${path}`, { cache: 'no-store', ...init });
+export async function apiFetch<T>(path: string, init: RequestInit = {}): Promise<T> {
+  const url = `${API_URL.replace(/\/$/, '')}/${path.replace(/^\//, '')}`;
+  const res = await fetch(url, {
+    ...init,
+    // Revalidate on server side every 120s for SSG
+    next: { revalidate: 120 },
+  });
   if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`GET ${path} -> ${res.status}: ${text}`);
+    throw new Error(`API error ${res.status} fetching ${url}`);
   }
   return res.json() as Promise<T>;
 }
