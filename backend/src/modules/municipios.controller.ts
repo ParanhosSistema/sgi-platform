@@ -40,4 +40,30 @@ export class MunicipiosController {
       ibgeCode: municipio.ibgeCode ? municipio.ibgeCode.toString() : null,
     };
   }
+
+  @Get(':ibge/stats')
+  async getStats(@Param('ibge') ibge: string) {
+    const stats = await this.prisma.municipioStats.findUnique({
+      where: { ibge: parseInt(ibge) },
+    });
+    
+    return stats;
+  }
+
+  @Get(':ibge/mandates')
+  async getMandates(@Param('ibge') ibge: string) {
+    const mandates = await this.prisma.mandate.findMany({
+      where: { ibge: parseInt(ibge) },
+      include: {
+        person: true,
+        party: true,
+      },
+      orderBy: [
+        { role: 'asc' },
+        { person: { name: 'asc' } },
+      ],
+    });
+    
+    return mandates;
+  }
 }
