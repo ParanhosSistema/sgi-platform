@@ -39,3 +39,65 @@ model Municipio {
 
   @@map("municipio")
 }
+// prisma/schema.additions.prisma
+// Additive models to enrich municipalities with IBGE/TSE data without touching existing tables.
+// These models are intentionally decoupled from the existing Municipio model to avoid migration risk.
+// They are linked by the unique IBGE code (field: ibge).
+
+enum MandateRole {
+  PREFEITO
+  VICE_PREFEITO
+  VEREADOR
+}
+
+model MunicipioStats {
+  // IBGE 7-digit code for the municipality (e.g., 4106902 for Curitiba)
+  ibge        Int      @id
+  year        Int
+  population  Int?
+  electors    Int?
+  updatedAt   DateTime @default(now())
+
+  @@index([year])
+}
+
+model Party {
+  // TSE party acronym, e.g. "MDB", "PT", "UNIÃO".
+  sigla    String  @id
+  name     String
+  tseCode  Int?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Person {
+  id        String   @id @default(cuid())
+  name      String
+  photoUrl  String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  mandates  Mandate[]
+}
+
+model Mandate {
+  id         String      @id @default(cuid())
+  ibge       Int
+  role       MandateRole
+  startYear  Int
+  endYear    Int?
+  personId   String
+  partySigla String?
+
+  // Soft references for safety; use joins by ibge and sigla in queries
+  person     Person      @relation(fields: [personId], references: [id])
+  party      Party?      @relation(fields: [partySigla], references: [sigla])
+
+  createdAt  DateTime    @default(now())
+  updatedAt  DateTime    @updatedAt
+
+  @@index([ibge, role, startYear])
+  @@index([partySigla])
+}
+
+// === Schema merged from schema.additions.prisma ===
