@@ -2,2395 +2,2794 @@
   {
     "municipio": "Abatiá",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 7321,
-    "eleitores_tse_2024": 5789
+    "uf": "PR",
+    "populacao": 7321,
+    "eleitores": 5789
   },
   {
     "municipio": "Adrianópolis",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 8556,
-    "eleitores_tse_2024": 4678
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 8556,
+    "eleitores": 4678
   },
   {
     "municipio": "Agudos do Sul",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 10092,
-    "eleitores_tse_2024": 7012
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 10092,
+    "eleitores": 7012
   },
   {
     "municipio": "Almirante Tamandaré",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 122032,
-    "eleitores_tse_2024": 90567
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 122032,
+    "eleitores": 90567
   },
   {
     "municipio": "Altamira do Paraná",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 3435,
-    "eleitores_tse_2024": 1311
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 3435,
+    "eleitores": 1311
   },
   {
     "municipio": "Altônia",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 18735,
-    "eleitores_tse_2024": 17654
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 18735,
+    "eleitores": 17654
   },
   {
     "municipio": "Alto Paraná",
-    "territorio": "Águas do Arenito Caiuá",
-    "populacao_ibge_2022": 13897,
-    "eleitores_tse_2024": 10789
+    "territorio": "Águas Do Arenito Caiuá",
+    "uf": "PR",
+    "populacao": 13897,
+    "eleitores": 10789
   },
   {
     "municipio": "Alto Piquiri",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 9646,
-    "eleitores_tse_2024": 8345
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 9646,
+    "eleitores": 8345
   },
   {
     "municipio": "Alvorada do Sul",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 11672,
-    "eleitores_tse_2024": 8765
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 11672,
+    "eleitores": 8765
   },
   {
     "municipio": "Amaporã",
-    "territorio": "Águas do Arenito Caiuá",
-    "populacao_ibge_2022": 4765,
-    "eleitores_tse_2024": 4678
+    "territorio": "Águas Do Arenito Caiuá",
+    "uf": "PR",
+    "populacao": 4765,
+    "eleitores": 4678
   },
   {
     "municipio": "Ampére",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 19506,
-    "eleitores_tse_2024": 14532
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 19506,
+    "eleitores": 14532
   },
   {
     "municipio": "Anahy",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 3107,
-    "eleitores_tse_2024": 2345
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 3107,
+    "eleitores": 2345
   },
   {
     "municipio": "Andirá",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 20234,
-    "eleitores_tse_2024": 14987
+    "uf": "PR",
+    "populacao": 20234,
+    "eleitores": 14987
   },
   {
     "municipio": "Ângulo",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 3447,
-    "eleitores_tse_2024": 2345
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 3447,
+    "eleitores": 2345
   },
   {
     "municipio": "Antonina",
-    "territorio": "Litoral do Paraná",
-    "populacao_ibge_2022": 17261,
-    "eleitores_tse_2024": 14345
+    "territorio": "Litoral Do Paraná",
+    "uf": "PR",
+    "populacao": 17261,
+    "eleitores": 14345
   },
   {
     "municipio": "Antônio Olinto",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 6520,
-    "eleitores_tse_2024": 5789
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 6520,
+    "eleitores": 5789
   },
   {
     "municipio": "Apucarana",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 135969,
-    "eleitores_tse_2024": 98765
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 135969,
+    "eleitores": 98765
   },
   {
     "municipio": "Arapongas",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 118573,
-    "eleitores_tse_2024": 93456
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 118573,
+    "eleitores": 93456
   },
   {
     "municipio": "Arapoti",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 25541,
-    "eleitores_tse_2024": 20876
+    "uf": "PR",
+    "populacao": 25541,
+    "eleitores": 20876
   },
   {
     "municipio": "Arapuã",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 3537,
-    "eleitores_tse_2024": 2678
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 3537,
+    "eleitores": 2678
   },
   {
     "municipio": "Araruna",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 14520,
-    "eleitores_tse_2024": 10789
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 14520,
+    "eleitores": 10789
   },
   {
     "municipio": "Araucária",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 166699,
-    "eleitores_tse_2024": 106234
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 166699,
+    "eleitores": 106234
   },
   {
     "municipio": "Ariranha do Ivaí",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 2340,
-    "eleitores_tse_2024": 1890
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 2340,
+    "eleitores": 1890
   },
   {
     "municipio": "Assaí",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 17628,
-    "eleitores_tse_2024": 10543
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 17628,
+    "eleitores": 10543
   },
   {
     "municipio": "Assis Chateaubriand",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 36400,
-    "eleitores_tse_2024": 24567
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 36400,
+    "eleitores": 24567
   },
   {
     "municipio": "Astorga",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 25477,
-    "eleitores_tse_2024": 18765
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 25477,
+    "eleitores": 18765
   },
   {
     "municipio": "Atalaia",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 3978,
-    "eleitores_tse_2024": 3100
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 3978,
+    "eleitores": 3100
   },
   {
     "municipio": "Balsa Nova",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 14608,
-    "eleitores_tse_2024": 9567
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 14608,
+    "eleitores": 9567
   },
   {
     "municipio": "Bandeirantes",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 31309,
-    "eleitores_tse_2024": 23876
+    "uf": "PR",
+    "populacao": 31309,
+    "eleitores": 23876
   },
   {
     "municipio": "Barbosa Ferraz",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 10766,
-    "eleitores_tse_2024": 9123
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 10766,
+    "eleitores": 9123
   },
   {
     "municipio": "Barracão",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 9886,
-    "eleitores_tse_2024": 7456
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 9886,
+    "eleitores": 7456
   },
   {
     "municipio": "Barra do Jacaré",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 3022,
-    "eleitores_tse_2024": 2210
+    "uf": "PR",
+    "populacao": 3022,
+    "eleitores": 2210
   },
   {
     "municipio": "Bela Vista da Caroba",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 3416,
-    "eleitores_tse_2024": 2789
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 3416,
+    "eleitores": 2789
   },
   {
     "municipio": "Bela Vista do Paraíso",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 14789,
-    "eleitores_tse_2024": 11678
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 14789,
+    "eleitores": 11678
   },
   {
     "municipio": "Bituruna",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 15443,
-    "eleitores_tse_2024": 12654
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 15443,
+    "eleitores": 12654
   },
   {
     "municipio": "Boa Esperança",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 4552,
-    "eleitores_tse_2024": 3100
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 4552,
+    "eleitores": 3100
   },
   {
     "municipio": "Boa Esperança do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 2411,
-    "eleitores_tse_2024": 2210
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 2411,
+    "eleitores": 2210
   },
   {
-    "municipio": "Boa Ventura de São Roque",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 6347,
-    "eleitores_tse_2024": 4678
+    "municipio": "Boa Ventura De São Roque",
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 6347,
+    "eleitores": 4678
   },
   {
     "municipio": "Boa Vista da Aparecida",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 7876,
-    "eleitores_tse_2024": 5789
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 7876,
+    "eleitores": 5789
   },
   {
     "municipio": "Bocaiúva do Sul",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 16292,
-    "eleitores_tse_2024": 9123
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 16292,
+    "eleitores": 9123
   },
   {
     "municipio": "Bom Jesus do Sul",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 3942,
-    "eleitores_tse_2024": 3012
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 3942,
+    "eleitores": 3012
   },
   {
     "municipio": "Bom Sucesso",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 6583,
-    "eleitores_tse_2024": 5234
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 6583,
+    "eleitores": 5234
   },
   {
     "municipio": "Bom Sucesso do Sul",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 3540,
-    "eleitores_tse_2024": 2678
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 3540,
+    "eleitores": 2678
   },
   {
     "municipio": "Borrazópolis",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 7706,
-    "eleitores_tse_2024": 4987
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 7706,
+    "eleitores": 4987
   },
   {
     "municipio": "Braganey",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 5212,
-    "eleitores_tse_2024": 4321
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 5212,
+    "eleitores": 4321
   },
   {
     "municipio": "Brasilândia do Sul",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 3703,
-    "eleitores_tse_2024": 2100
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 3703,
+    "eleitores": 2100
   },
   {
     "municipio": "Cafeara",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 2620,
-    "eleitores_tse_2024": 5567
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 2620,
+    "eleitores": 5567
   },
   {
     "municipio": "Cafelândia",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 18262,
-    "eleitores_tse_2024": 13234
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 18262,
+    "eleitores": 13234
   },
   {
     "municipio": "Cafezal do Sul",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 4474,
-    "eleitores_tse_2024": 3345
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 4474,
+    "eleitores": 3345
   },
   {
     "municipio": "Califórnia",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 9438,
-    "eleitores_tse_2024": 6789
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 9438,
+    "eleitores": 6789
   },
   {
     "municipio": "Cambará",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 23956,
-    "eleitores_tse_2024": 18765
+    "uf": "PR",
+    "populacao": 23956,
+    "eleitores": 18765
   },
   {
     "municipio": "Cambé",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 107220,
-    "eleitores_tse_2024": 80567
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 107220,
+    "eleitores": 80567
   },
   {
     "municipio": "Cambira",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 10482,
-    "eleitores_tse_2024": 5890
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 10482,
+    "eleitores": 5890
   },
   {
     "municipio": "Campina da Lagoa",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 15737,
-    "eleitores_tse_2024": 11234
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 15737,
+    "eleitores": 11234
   },
   {
     "municipio": "Campina do Simão",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 3937,
-    "eleitores_tse_2024": 3100
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 3937,
+    "eleitores": 3100
   },
   {
     "municipio": "Campina Grande do Sul",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 52083,
-    "eleitores_tse_2024": 50789
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 52083,
+    "eleitores": 50789
   },
   {
     "municipio": "Campo Bonito",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 4266,
-    "eleitores_tse_2024": 3100
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 4266,
+    "eleitores": 3100
   },
   {
     "municipio": "Campo do Tenente",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 7583,
-    "eleitores_tse_2024": 5123
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 7583,
+    "eleitores": 5123
   },
   {
     "municipio": "Campo Largo",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 144165,
-    "eleitores_tse_2024": 99876
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 144165,
+    "eleitores": 99876
   },
   {
     "municipio": "Campo Magro",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 31678,
-    "eleitores_tse_2024": 22123
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 31678,
+    "eleitores": 22123
   },
   {
     "municipio": "Campo Mourão",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 99170,
-    "eleitores_tse_2024": 74789
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 99170,
+    "eleitores": 74789
   },
   {
-    "municipio": "Cândido de Abreu",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 16727,
-    "eleitores_tse_2024": 6456
+    "municipio": "Cândido De Abreu",
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 16727,
+    "eleitores": 6456
   },
   {
     "municipio": "Candói",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 14922,
-    "eleitores_tse_2024": 11345
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 14922,
+    "eleitores": 11345
   },
   {
     "municipio": "Cantagalo",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 10589,
-    "eleitores_tse_2024": 7890
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 10589,
+    "eleitores": 7890
   },
   {
     "municipio": "Capanema",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 19205,
-    "eleitores_tse_2024": 14210
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 19205,
+    "eleitores": 14210
   },
   {
     "municipio": "Capitão Leônidas Marques",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 14644,
-    "eleitores_tse_2024": 11876
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 14644,
+    "eleitores": 11876
   },
   {
     "municipio": "Carambeí",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 23386,
-    "eleitores_tse_2024": 17876
+    "uf": "PR",
+    "populacao": 23386,
+    "eleitores": 17876
   },
   {
     "municipio": "Carlópolis",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 16908,
-    "eleitores_tse_2024": 10789
+    "uf": "PR",
+    "populacao": 16908,
+    "eleitores": 10789
   },
   {
     "municipio": "Cascavel",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 350644,
-    "eleitores_tse_2024": 239588
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 350644,
+    "eleitores": 239588
   },
   {
     "municipio": "Castro",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 75956,
-    "eleitores_tse_2024": 54056
+    "uf": "PR",
+    "populacao": 75956,
+    "eleitores": 54056
   },
   {
     "municipio": "Catanduvas",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 11246,
-    "eleitores_tse_2024": 8567
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 11246,
+    "eleitores": 8567
   },
   {
     "municipio": "Centenário do Sul",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 10836,
-    "eleitores_tse_2024": 8345
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 10836,
+    "eleitores": 8345
   },
   {
     "municipio": "Cerro Azul",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 16145,
-    "eleitores_tse_2024": 13234
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 16145,
+    "eleitores": 13234
   },
   {
     "municipio": "Céu Azul",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 11081,
-    "eleitores_tse_2024": 8765
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 11081,
+    "eleitores": 8765
   },
   {
     "municipio": "Chopinzinho",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 21646,
-    "eleitores_tse_2024": 14567
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 21646,
+    "eleitores": 14567
   },
   {
     "municipio": "Cianorte",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 82232,
-    "eleitores_tse_2024": 62345
+    "uf": "PR",
+    "populacao": 82232,
+    "eleitores": 62345
   },
   {
     "municipio": "Cidade Gaúcha",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 11467,
-    "eleitores_tse_2024": 8345
+    "uf": "PR",
+    "populacao": 11467,
+    "eleitores": 8345
   },
   {
     "municipio": "Clevelândia",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 17321,
-    "eleitores_tse_2024": 12433
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 17321,
+    "eleitores": 12433
   },
   {
     "municipio": "Colombo",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 238780,
-    "eleitores_tse_2024": 181234
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 238780,
+    "eleitores": 181234
   },
   {
     "municipio": "Colorado",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 22902,
-    "eleitores_tse_2024": 17876
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 22902,
+    "eleitores": 17876
   },
   {
     "municipio": "Congonhinhas",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 8336,
-    "eleitores_tse_2024": 6789
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 8336,
+    "eleitores": 6789
   },
   {
     "municipio": "Conselheiro Mairinck",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 4354,
-    "eleitores_tse_2024": 2987
+    "uf": "PR",
+    "populacao": 4354,
+    "eleitores": 2987
   },
   {
     "municipio": "Contenda",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 17435,
-    "eleitores_tse_2024": 14345
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 17435,
+    "eleitores": 14345
   },
   {
     "municipio": "Corbélia",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 17466,
-    "eleitores_tse_2024": 12654
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 17466,
+    "eleitores": 12654
   },
   {
     "municipio": "Cornélio Procópio",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 44599,
-    "eleitores_tse_2024": 35678
+    "uf": "PR",
+    "populacao": 44599,
+    "eleitores": 35678
   },
   {
     "municipio": "Coronel Domingos Soares",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 7007,
-    "eleitores_tse_2024": 5689
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 7007,
+    "eleitores": 5689
   },
   {
     "municipio": "Coronel Vivida",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 26413,
-    "eleitores_tse_2024": 15876
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 26413,
+    "eleitores": 15876
   },
   {
     "municipio": "Corumbataí do Sul",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 3752,
-    "eleitores_tse_2024": 2987
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 3752,
+    "eleitores": 2987
   },
   {
     "municipio": "Cruzeiro do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 4137,
-    "eleitores_tse_2024": 3456
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 4137,
+    "eleitores": 3456
   },
   {
     "municipio": "Cruzeiro do Oeste",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 23852,
-    "eleitores_tse_2024": 15876
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 23852,
+    "eleitores": 15876
   },
   {
     "municipio": "Cruzeiro do Sul",
-    "territorio": "Águas do Arenito Caiuá",
-    "populacao_ibge_2022": 4495,
-    "eleitores_tse_2024": 3678
+    "territorio": "Águas Do Arenito Caiuá",
+    "uf": "PR",
+    "populacao": 4495,
+    "eleitores": 3678
   },
   {
     "municipio": "Cruz Machado",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 15993,
-    "eleitores_tse_2024": 14345
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 15993,
+    "eleitores": 14345
   },
   {
     "municipio": "Cruzmaltina",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 3150,
-    "eleitores_tse_2024": 2345
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 3150,
+    "eleitores": 2345
   },
   {
     "municipio": "Curitiba",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 1871789,
-    "eleitores_tse_2024": 1423722
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 1871789,
+    "eleitores": 1423722
   },
   {
     "municipio": "Curiúva",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 13272,
-    "eleitores_tse_2024": 11234
+    "uf": "PR",
+    "populacao": 13272,
+    "eleitores": 11234
   },
   {
     "municipio": "Diamante do Norte",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 5151,
-    "eleitores_tse_2024": 3987
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 5151,
+    "eleitores": 3987
   },
   {
     "municipio": "Diamante do Sul",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 3173,
-    "eleitores_tse_2024": 2678
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 3173,
+    "eleitores": 2678
   },
   {
     "municipio": "Diamante D'Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 5106,
-    "eleitores_tse_2024": 3987
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 5106,
+    "eleitores": 3987
   },
   {
     "municipio": "Dois Vizinhos",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 44828,
-    "eleitores_tse_2024": 29876
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 44828,
+    "eleitores": 29876
   },
   {
     "municipio": "Douradina",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 9168,
-    "eleitores_tse_2024": 6123
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 9168,
+    "eleitores": 6123
   },
   {
     "municipio": "Doutor Camargo",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 6290,
-    "eleitores_tse_2024": 4678
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 6290,
+    "eleitores": 4678
   },
   {
     "municipio": "Doutor Ulysses",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 6216,
-    "eleitores_tse_2024": 4321
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 6216,
+    "eleitores": 4321
   },
   {
     "municipio": "Enéas Marques",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 5995,
-    "eleitores_tse_2024": 4678
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 5995,
+    "eleitores": 4678
   },
   {
     "municipio": "Engenheiro Beltrão",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 12444,
-    "eleitores_tse_2024": 10234
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 12444,
+    "eleitores": 10234
   },
   {
     "municipio": "Esperança Nova",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 1845,
-    "eleitores_tse_2024": 1456
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 1845,
+    "eleitores": 1456
   },
   {
     "municipio": "Entre Rios do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 4511,
-    "eleitores_tse_2024": 3456
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 4511,
+    "eleitores": 3456
   },
   {
     "municipio": "Espigão Alto do Iguaçu",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 5915,
-    "eleitores_tse_2024": 3345
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 5915,
+    "eleitores": 3345
   },
   {
     "municipio": "Farol",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 3052,
-    "eleitores_tse_2024": 2456
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 3052,
+    "eleitores": 2456
   },
   {
     "municipio": "Faxinal",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 16338,
-    "eleitores_tse_2024": 13234
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 16338,
+    "eleitores": 13234
   },
   {
     "municipio": "Fazenda Rio Grande",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 167315,
-    "eleitores_tse_2024": 121456
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 167315,
+    "eleitores": 121456
   },
   {
     "municipio": "Fênix",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 4492,
-    "eleitores_tse_2024": 3876
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 4492,
+    "eleitores": 3876
   },
   {
     "municipio": "Fernandes Pinheiro",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 6288,
-    "eleitores_tse_2024": 4678
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 6288,
+    "eleitores": 4678
   },
   {
     "municipio": "Figueira",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 8064,
-    "eleitores_tse_2024": 6123
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 8064,
+    "eleitores": 6123
   },
   {
     "municipio": "Floraí",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 6569,
-    "eleitores_tse_2024": 3876
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 6569,
+    "eleitores": 3876
   },
   {
     "municipio": "Flor da Serra do Sul",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 4230,
-    "eleitores_tse_2024": 3678
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 4230,
+    "eleitores": 3678
   },
   {
     "municipio": "Floresta",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 11559,
-    "eleitores_tse_2024": 4678
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 11559,
+    "eleitores": 4678
   },
   {
     "municipio": "Florestópolis",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 11475,
-    "eleitores_tse_2024": 8234
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 11475,
+    "eleitores": 8234
   },
   {
     "municipio": "Flórida",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 2651,
-    "eleitores_tse_2024": 2100
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 2651,
+    "eleitores": 2100
   },
   {
     "municipio": "Formosa do Oeste",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 7641,
-    "eleitores_tse_2024": 5234
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 7641,
+    "eleitores": 5234
   },
   {
     "municipio": "Foz do Iguaçu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 286323,
-    "eleitores_tse_2024": 204343
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 286323,
+    "eleitores": 204343
   },
   {
     "municipio": "Foz do Jordão",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 4845,
-    "eleitores_tse_2024": 3890
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 4845,
+    "eleitores": 3890
   },
   {
     "municipio": "Francisco Alves",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 8141,
-    "eleitores_tse_2024": 4678
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 8141,
+    "eleitores": 4678
   },
   {
     "municipio": "Francisco Beltrão",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 96622,
-    "eleitores_tse_2024": 71745
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 96622,
+    "eleitores": 71745
   },
   {
     "municipio": "General Carneiro",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 11053,
-    "eleitores_tse_2024": 10234
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 11053,
+    "eleitores": 10234
   },
   {
     "municipio": "Godoy Moreira",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 2977,
-    "eleitores_tse_2024": 2567
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 2977,
+    "eleitores": 2567
   },
   {
     "municipio": "Goioerê",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 28470,
-    "eleitores_tse_2024": 22123
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 28470,
+    "eleitores": 22123
   },
   {
     "municipio": "Goioxim",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 6570,
-    "eleitores_tse_2024": 5987
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 6570,
+    "eleitores": 5987
   },
   {
     "municipio": "Grandes Rios",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 5625,
-    "eleitores_tse_2024": 5789
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 5625,
+    "eleitores": 5789
   },
   {
     "municipio": "Guaíra",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 31971,
-    "eleitores_tse_2024": 24567
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 31971,
+    "eleitores": 24567
   },
   {
     "municipio": "Guairaçá",
-    "territorio": "Águas do Arenito Caiuá",
-    "populacao_ibge_2022": 6582,
-    "eleitores_tse_2024": 4678
+    "territorio": "Águas Do Arenito Caiuá",
+    "uf": "PR",
+    "populacao": 6582,
+    "eleitores": 4678
   },
   {
     "municipio": "Guamiranga",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 7856,
-    "eleitores_tse_2024": 6123
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 7856,
+    "eleitores": 6123
   },
   {
     "municipio": "Guapirama",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 4627,
-    "eleitores_tse_2024": 3100
+    "uf": "PR",
+    "populacao": 4627,
+    "eleitores": 3100
   },
   {
     "municipio": "Guaporema",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 2186,
-    "eleitores_tse_2024": 2100
+    "uf": "PR",
+    "populacao": 2186,
+    "eleitores": 2100
   },
   {
     "municipio": "Guaraci",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 4751,
-    "eleitores_tse_2024": 3678
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 4751,
+    "eleitores": 3678
   },
   {
     "municipio": "Guaraniaçu",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 14398,
-    "eleitores_tse_2024": 10234
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 14398,
+    "eleitores": 10234
   },
   {
     "municipio": "Guarapuava",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 190342,
-    "eleitores_tse_2024": 137234
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 190342,
+    "eleitores": 137234
   },
   {
     "municipio": "Guaraqueçaba",
-    "territorio": "Litoral do Paraná",
-    "populacao_ibge_2022": 7446,
-    "eleitores_tse_2024": 5789
+    "territorio": "Litoral Do Paraná",
+    "uf": "PR",
+    "populacao": 7446,
+    "eleitores": 5789
   },
   {
     "municipio": "Guaratuba",
-    "territorio": "Litoral do Paraná",
-    "populacao_ibge_2022": 42801,
-    "eleitores_tse_2024": 27234
+    "territorio": "Litoral Do Paraná",
+    "uf": "PR",
+    "populacao": 42801,
+    "eleitores": 27234
   },
   {
     "municipio": "Honório Serpa",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 5471,
-    "eleitores_tse_2024": 4123
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 5471,
+    "eleitores": 4123
   },
   {
     "municipio": "Ibaiti",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 30943,
-    "eleitores_tse_2024": 23456
+    "uf": "PR",
+    "populacao": 30943,
+    "eleitores": 23456
   },
   {
     "municipio": "Ibema",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 6218,
-    "eleitores_tse_2024": 4678
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 6218,
+    "eleitores": 4678
   },
   {
     "municipio": "Ibiporã",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 54917,
-    "eleitores_tse_2024": 41234
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 54917,
+    "eleitores": 41234
   },
   {
     "municipio": "Icaraíma",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 8992,
-    "eleitores_tse_2024": 5789
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 8992,
+    "eleitores": 5789
   },
   {
     "municipio": "Iguaraçu",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 5478,
-    "eleitores_tse_2024": 3345
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 5478,
+    "eleitores": 3345
   },
   {
     "municipio": "Iguatu",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 2142,
-    "eleitores_tse_2024": 1789
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 2142,
+    "eleitores": 1789
   },
   {
     "municipio": "Imbaú",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 11619,
-    "eleitores_tse_2024": 9567
+    "uf": "PR",
+    "populacao": 11619,
+    "eleitores": 9567
   },
   {
     "municipio": "Imbituva",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 29893,
-    "eleitores_tse_2024": 23876
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 29893,
+    "eleitores": 23876
   },
   {
     "municipio": "Inácio Martins",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 10776,
-    "eleitores_tse_2024": 8345
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 10776,
+    "eleitores": 8345
   },
   {
     "municipio": "Inajá",
-    "territorio": "Águas do Arenito Caiuá",
-    "populacao_ibge_2022": 2529,
-    "eleitores_tse_2024": 2456
+    "territorio": "Águas Do Arenito Caiuá",
+    "uf": "PR",
+    "populacao": 2529,
+    "eleitores": 2456
   },
   {
     "municipio": "Indianópolis",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 4223,
-    "eleitores_tse_2024": 3345
+    "uf": "PR",
+    "populacao": 4223,
+    "eleitores": 3345
   },
   {
     "municipio": "Ipiranga",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 14230,
-    "eleitores_tse_2024": 11234
+    "uf": "PR",
+    "populacao": 14230,
+    "eleitores": 11234
   },
   {
     "municipio": "Iporã",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 15730,
-    "eleitores_tse_2024": 10789
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 15730,
+    "eleitores": 10789
   },
   {
     "municipio": "Iracema do Oeste",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 2347,
-    "eleitores_tse_2024": 1987
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 2347,
+    "eleitores": 1987
   },
   {
     "municipio": "Irati",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 59253,
-    "eleitores_tse_2024": 45678
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 59253,
+    "eleitores": 45678
   },
   {
     "municipio": "Iretama",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 10681,
-    "eleitores_tse_2024": 8345
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 10681,
+    "eleitores": 8345
   },
   {
     "municipio": "Itaguajé",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 4489,
-    "eleitores_tse_2024": 3678
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 4489,
+    "eleitores": 3678
   },
   {
     "municipio": "Itaipulândia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 10909,
-    "eleitores_tse_2024": 8234
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 10909,
+    "eleitores": 8234
   },
   {
     "municipio": "Itambaracá",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 5920,
-    "eleitores_tse_2024": 5234
+    "uf": "PR",
+    "populacao": 5920,
+    "eleitores": 5234
   },
   {
     "municipio": "Itambé",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 6734,
-    "eleitores_tse_2024": 5123
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 6734,
+    "eleitores": 5123
   },
   {
-    "municipio": "Itapejara d'Oeste",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 13177,
-    "eleitores_tse_2024": 8234
+    "municipio": "Itapejara D'Oeste",
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 13177,
+    "eleitores": 8234
   },
   {
     "municipio": "Itaperuçu",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 31843,
-    "eleitores_tse_2024": 22123
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 31843,
+    "eleitores": 22123
   },
   {
     "municipio": "Itaúna do Sul",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 3566,
-    "eleitores_tse_2024": 2456
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 3566,
+    "eleitores": 2456
   },
   {
     "municipio": "Ivaí",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 13142,
-    "eleitores_tse_2024": 10234
+    "uf": "PR",
+    "populacao": 13142,
+    "eleitores": 10234
   },
   {
     "municipio": "Ivaiporã",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 32604,
-    "eleitores_tse_2024": 23876
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 32604,
+    "eleitores": 23876
   },
   {
     "municipio": "Ivaté",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 6771,
-    "eleitores_tse_2024": 6123
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 6771,
+    "eleitores": 6123
   },
   {
     "municipio": "Ivatuba",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 2786,
-    "eleitores_tse_2024": 2456
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 2786,
+    "eleitores": 2456
   },
   {
     "municipio": "Jaboti",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 5425,
-    "eleitores_tse_2024": 3987
+    "uf": "PR",
+    "populacao": 5425,
+    "eleitores": 3987
   },
   {
     "municipio": "Jacarezinho",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 40356,
-    "eleitores_tse_2024": 29876
+    "uf": "PR",
+    "populacao": 40356,
+    "eleitores": 29876
   },
   {
     "municipio": "Jaguapitã",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 15193,
-    "eleitores_tse_2024": 10234
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 15193,
+    "eleitores": 10234
   },
   {
     "municipio": "Jaguariaíva",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 35527,
-    "eleitores_tse_2024": 26789
+    "uf": "PR",
+    "populacao": 35527,
+    "eleitores": 26789
   },
   {
     "municipio": "Jandaia do Sul",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 23006,
-    "eleitores_tse_2024": 18765
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 23006,
+    "eleitores": 18765
   },
   {
     "municipio": "Janiópolis",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 5862,
-    "eleitores_tse_2024": 4678
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 5862,
+    "eleitores": 4678
   },
   {
     "municipio": "Japira",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 4971,
-    "eleitores_tse_2024": 3678
+    "uf": "PR",
+    "populacao": 4971,
+    "eleitores": 3678
   },
   {
     "municipio": "Japurá",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 9127,
-    "eleitores_tse_2024": 6456
+    "uf": "PR",
+    "populacao": 9127,
+    "eleitores": 6456
   },
   {
     "municipio": "Jardim Alegre",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 12070,
-    "eleitores_tse_2024": 9123
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 12070,
+    "eleitores": 9123
   },
   {
     "municipio": "Jardim Olinda",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 1280,
-    "eleitores_tse_2024": 1100
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 1280,
+    "eleitores": 1100
   },
   {
     "municipio": "Jataizinho",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 11857,
-    "eleitores_tse_2024": 8345
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 11857,
+    "eleitores": 8345
   },
   {
     "municipio": "Jesuítas",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 10508,
-    "eleitores_tse_2024": 7456
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 10508,
+    "eleitores": 7456
   },
   {
     "municipio": "Joaquim Távora",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 11870,
-    "eleitores_tse_2024": 9123
+    "uf": "PR",
+    "populacao": 11870,
+    "eleitores": 9123
   },
   {
     "municipio": "Jundiaí do Sul",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 3446,
-    "eleitores_tse_2024": 2678
+    "uf": "PR",
+    "populacao": 3446,
+    "eleitores": 2678
   },
   {
     "municipio": "Juranda",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 7773,
-    "eleitores_tse_2024": 5678
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 7773,
+    "eleitores": 5678
   },
   {
     "municipio": "Jussara",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 7477,
-    "eleitores_tse_2024": 5234
+    "uf": "PR",
+    "populacao": 7477,
+    "eleitores": 5234
   },
   {
     "municipio": "Kaloré",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 4579,
-    "eleitores_tse_2024": 3678
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 4579,
+    "eleitores": 3678
   },
   {
     "municipio": "Lapa",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 45620,
-    "eleitores_tse_2024": 34567
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 45620,
+    "eleitores": 34567
   },
   {
     "municipio": "Laranjal",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 5628,
-    "eleitores_tse_2024": 4321
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 5628,
+    "eleitores": 4321
   },
   {
     "municipio": "Laranjeiras do Sul",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 31953,
-    "eleitores_tse_2024": 23456
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 31953,
+    "eleitores": 23456
   },
   {
     "municipio": "Leópolis",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 3940,
-    "eleitores_tse_2024": 3100
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 3940,
+    "eleitores": 3100
   },
   {
     "municipio": "Lidianópolis",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 3936,
-    "eleitores_tse_2024": 2987
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 3936,
+    "eleitores": 2987
   },
   {
     "municipio": "Lindoeste",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 5147,
-    "eleitores_tse_2024": 3987
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 5147,
+    "eleitores": 3987
   },
   {
     "municipio": "Loanda",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 23149,
-    "eleitores_tse_2024": 17654
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 23149,
+    "eleitores": 17654
   },
   {
     "municipio": "Lobato",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 4600,
-    "eleitores_tse_2024": 3678
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 4600,
+    "eleitores": 3678
   },
   {
     "municipio": "Londrina",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 588125,
-    "eleitores_tse_2024": 432123
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 588125,
+    "eleitores": 432123
   },
   {
     "municipio": "Luiziana",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 6711,
-    "eleitores_tse_2024": 5234
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 6711,
+    "eleitores": 5234
   },
   {
     "municipio": "Lunardelli",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 5027,
-    "eleitores_tse_2024": 3876
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 5027,
+    "eleitores": 3876
   },
   {
     "municipio": "Lupionópolis",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 4812,
-    "eleitores_tse_2024": 3678
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 4812,
+    "eleitores": 3678
   },
   {
     "municipio": "Mallet",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 13378,
-    "eleitores_tse_2024": 10234
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 13378,
+    "eleitores": 10234
   },
   {
     "municipio": "Mamborê",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 13404,
-    "eleitores_tse_2024": 10234
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 13404,
+    "eleitores": 10234
   },
   {
     "municipio": "Mandaguaçu",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 31544,
-    "eleitores_tse_2024": 23456
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 31544,
+    "eleitores": 23456
   },
   {
     "municipio": "Mandaguari",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 36827,
-    "eleitores_tse_2024": 26789
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 36827,
+    "eleitores": 26789
   },
   {
     "municipio": "Mandirituba",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 33795,
-    "eleitores_tse_2024": 24567
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 33795,
+    "eleitores": 24567
   },
   {
     "municipio": "Manfrinópolis",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 2775,
-    "eleitores_tse_2024": 2210
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 2775,
+    "eleitores": 2210
   },
   {
     "municipio": "Mangueirinha",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 17287,
-    "eleitores_tse_2024": 13234
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 17287,
+    "eleitores": 13234
   },
   {
     "municipio": "Manoel Ribas",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 13702,
-    "eleitores_tse_2024": 10789
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 13702,
+    "eleitores": 10789
   },
   {
     "municipio": "Marechal Cândido Rondon",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 56530,
-    "eleitores_tse_2024": 41234
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 56530,
+    "eleitores": 41234
   },
   {
     "municipio": "Maria Helena",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 5872,
-    "eleitores_tse_2024": 4678
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 5872,
+    "eleitores": 4678
   },
   {
     "municipio": "Marialva",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 47028,
-    "eleitores_tse_2024": 34567
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 47028,
+    "eleitores": 34567
   },
   {
     "municipio": "Marilândia do Sul",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 9757,
-    "eleitores_tse_2024": 7456
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 9757,
+    "eleitores": 7456
   },
   {
     "municipio": "Marilena",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 7220,
-    "eleitores_tse_2024": 5234
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 7220,
+    "eleitores": 5234
   },
   {
     "municipio": "Mariluz",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 9846,
-    "eleitores_tse_2024": 7456
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 9846,
+    "eleitores": 7456
   },
   {
     "municipio": "Maringá",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 454146,
-    "eleitores_tse_2024": 332456
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 454146,
+    "eleitores": 332456
   },
   {
     "municipio": "Mariópolis",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 6356,
-    "eleitores_tse_2024": 4987
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 6356,
+    "eleitores": 4987
   },
   {
     "municipio": "Maripá",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 6639,
-    "eleitores_tse_2024": 5234
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 6639,
+    "eleitores": 5234
   },
   {
     "municipio": "Marmeleiro",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 15873,
-    "eleitores_tse_2024": 11234
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 15873,
+    "eleitores": 11234
   },
   {
     "municipio": "Marquinho",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 4348,
-    "eleitores_tse_2024": 3456
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 4348,
+    "eleitores": 3456
   },
   {
     "municipio": "Marumbi",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 4700,
-    "eleitores_tse_2024": 3678
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 4700,
+    "eleitores": 3678
   },
   {
     "municipio": "Matelândia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 18472,
-    "eleitores_tse_2024": 13234
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 18472,
+    "eleitores": 13234
   },
   {
     "municipio": "Matinhos",
-    "territorio": "Litoral do Paraná",
-    "populacao_ibge_2022": 39212,
-    "eleitores_tse_2024": 29876
+    "territorio": "Litoral Do Paraná",
+    "uf": "PR",
+    "populacao": 39212,
+    "eleitores": 29876
   },
   {
     "municipio": "Mato Rico",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 3279,
-    "eleitores_tse_2024": 2456
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 3279,
+    "eleitores": 2456
   },
   {
     "municipio": "Mauá da Serra",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 8937,
-    "eleitores_tse_2024": 6789
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 8937,
+    "eleitores": 6789
   },
   {
     "municipio": "Medianeira",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 54390,
-    "eleitores_tse_2024": 39876
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 54390,
+    "eleitores": 39876
   },
   {
     "municipio": "Mercedes",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 5945,
-    "eleitores_tse_2024": 4678
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 5945,
+    "eleitores": 4678
   },
   {
     "municipio": "Mirador",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 2240,
-    "eleitores_tse_2024": 1789
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 2240,
+    "eleitores": 1789
   },
   {
     "municipio": "Miraselva",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 1965,
-    "eleitores_tse_2024": 1456
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 1965,
+    "eleitores": 1456
   },
   {
     "municipio": "Missal",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 12951,
-    "eleitores_tse_2024": 9567
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 12951,
+    "eleitores": 9567
   },
   {
     "municipio": "Moreira Sales",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 11170,
-    "eleitores_tse_2024": 8345
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 11170,
+    "eleitores": 8345
   },
   {
     "municipio": "Morretes",
-    "territorio": "Litoral do Paraná",
-    "populacao_ibge_2022": 18396,
-    "eleitores_tse_2024": 14345
+    "territorio": "Litoral Do Paraná",
+    "uf": "PR",
+    "populacao": 18396,
+    "eleitores": 14345
   },
   {
-    "municipio": "Munhoz de Melo",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 3937,
-    "eleitores_tse_2024": 2987
+    "municipio": "Munhoz De Melo",
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 3937,
+    "eleitores": 2987
   },
   {
     "municipio": "Nossa Senhora das Graças",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 3677,
-    "eleitores_tse_2024": 2987
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 3677,
+    "eleitores": 2987
   },
   {
     "municipio": "Nova Aliança do Ivaí",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 1315,
-    "eleitores_tse_2024": 1100
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 1315,
+    "eleitores": 1100
   },
   {
     "municipio": "Nova América da Colina",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 3277,
-    "eleitores_tse_2024": 2456
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 3277,
+    "eleitores": 2456
   },
   {
     "municipio": "Nova Aurora",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 12848,
-    "eleitores_tse_2024": 9567
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 12848,
+    "eleitores": 9567
   },
   {
     "municipio": "Nova Cantu",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 6781,
-    "eleitores_tse_2024": 5234
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 6781,
+    "eleitores": 5234
   },
   {
     "municipio": "Nova Esperança",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 26616,
-    "eleitores_tse_2024": 20876
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 26616,
+    "eleitores": 20876
   },
   {
     "municipio": "Nova Esperança do Sudoeste",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 5592,
-    "eleitores_tse_2024": 4321
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 5592,
+    "eleitores": 4321
   },
   {
     "municipio": "Nova Fátima",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 7225,
-    "eleitores_tse_2024": 5678
+    "uf": "PR",
+    "populacao": 7225,
+    "eleitores": 5678
   },
   {
     "municipio": "Nova Laranjeiras",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 14132,
-    "eleitores_tse_2024": 10234
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 14132,
+    "eleitores": 10234
   },
   {
     "municipio": "Nova Londrina",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 12911,
-    "eleitores_tse_2024": 9567
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 12911,
+    "eleitores": 9567
   },
   {
     "municipio": "Nova Olímpia",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 5834,
-    "eleitores_tse_2024": 4321
+    "uf": "PR",
+    "populacao": 5834,
+    "eleitores": 4321
   },
   {
     "municipio": "Nova Santa Bárbara",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 4183,
-    "eleitores_tse_2024": 3100
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 4183,
+    "eleitores": 3100
   },
   {
     "municipio": "Nova Santa Rosa",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 8292,
-    "eleitores_tse_2024": 6456
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 8292,
+    "eleitores": 6456
   },
   {
     "municipio": "Nova Prata do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 10780,
-    "eleitores_tse_2024": 7890
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 10780,
+    "eleitores": 7890
   },
   {
     "municipio": "Nova Tebas",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 6848,
-    "eleitores_tse_2024": 5234
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 6848,
+    "eleitores": 5234
   },
   {
     "municipio": "Novo Itacolomi",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 4061,
-    "eleitores_tse_2024": 3100
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 4061,
+    "eleitores": 3100
   },
   {
     "municipio": "Ortigueira",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 26078,
-    "eleitores_tse_2024": 20876
+    "uf": "PR",
+    "populacao": 26078,
+    "eleitores": 20876
   },
   {
     "municipio": "Ourizona",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 3184,
-    "eleitores_tse_2024": 2456
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 3184,
+    "eleitores": 2456
   },
   {
     "municipio": "Ouro Verde do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 6808,
-    "eleitores_tse_2024": 5234
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 6808,
+    "eleitores": 5234
   },
   {
     "municipio": "Paiçandu",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 49999,
-    "eleitores_tse_2024": 36789
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 49999,
+    "eleitores": 36789
   },
   {
     "municipio": "Palmas",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 43769,
-    "eleitores_tse_2024": 33245
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 43769,
+    "eleitores": 33245
   },
   {
     "municipio": "Palmeira",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 36384,
-    "eleitores_tse_2024": 26789
+    "uf": "PR",
+    "populacao": 36384,
+    "eleitores": 26789
   },
   {
     "municipio": "Palmital",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 13080,
-    "eleitores_tse_2024": 10234
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 13080,
+    "eleitores": 10234
   },
   {
     "municipio": "Palotina",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 35063,
-    "eleitores_tse_2024": 26789
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 35063,
+    "eleitores": 26789
   },
   {
     "municipio": "Paraíso do Norte",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 13246,
-    "eleitores_tse_2024": 9567
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 13246,
+    "eleitores": 9567
   },
   {
     "municipio": "Paranacity",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 9561,
-    "eleitores_tse_2024": 7456
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 9561,
+    "eleitores": 7456
   },
   {
     "municipio": "Paranaguá",
-    "territorio": "Litoral do Paraná",
-    "populacao_ibge_2022": 157043,
-    "eleitores_tse_2024": 118765
+    "territorio": "Litoral Do Paraná",
+    "uf": "PR",
+    "populacao": 157043,
+    "eleitores": 118765
   },
   {
     "municipio": "Paranapoema",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 2406,
-    "eleitores_tse_2024": 1890
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 2406,
+    "eleitores": 1890
   },
   {
     "municipio": "Paranavaí",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 90969,
-    "eleitores_tse_2024": 67890
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 90969,
+    "eleitores": 67890
   },
   {
     "municipio": "Pato Bragado",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 5976,
-    "eleitores_tse_2024": 4678
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 5976,
+    "eleitores": 4678
   },
   {
     "municipio": "Pato Branco",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 94239,
-    "eleitores_tse_2024": 71745
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 94239,
+    "eleitores": 71745
   },
   {
     "municipio": "Paula Freitas",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 5616,
-    "eleitores_tse_2024": 4321
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 5616,
+    "eleitores": 4321
   },
   {
     "municipio": "Paulo Frontin",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 6460,
-    "eleitores_tse_2024": 4987
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 6460,
+    "eleitores": 4987
   },
   {
     "municipio": "Peabiru",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 13345,
-    "eleitores_tse_2024": 10234
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 13345,
+    "eleitores": 10234
   },
   {
     "municipio": "Perobal",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 7132,
-    "eleitores_tse_2024": 5234
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 7132,
+    "eleitores": 5234
   },
   {
     "municipio": "Pérola",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 11885,
-    "eleitores_tse_2024": 9123
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 11885,
+    "eleitores": 9123
   },
   {
-    "municipio": "Pérola d'Oeste",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 6197,
-    "eleitores_tse_2024": 4678
+    "municipio": "Pérola D'Oeste",
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 6197,
+    "eleitores": 4678
   },
   {
     "municipio": "Piên",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 13552,
-    "eleitores_tse_2024": 10234
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 13552,
+    "eleitores": 10234
   },
   {
     "municipio": "Pinhais",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 131048,
-    "eleitores_tse_2024": 98765
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 131048,
+    "eleitores": 98765
   },
   {
     "municipio": "Pinhalão",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 6564,
-    "eleitores_tse_2024": 4987
+    "uf": "PR",
+    "populacao": 6564,
+    "eleitores": 4987
   },
   {
-    "municipio": "Pinhal de São Bento",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 2762,
-    "eleitores_tse_2024": 2210
+    "municipio": "Pinhal De São Bento",
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 2762,
+    "eleitores": 2210
   },
   {
     "municipio": "Pinhão",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 29931,
-    "eleitores_tse_2024": 22123
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 29931,
+    "eleitores": 22123
   },
   {
     "municipio": "Piraí do Sul",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 23514,
-    "eleitores_tse_2024": 18765
+    "uf": "PR",
+    "populacao": 23514,
+    "eleitores": 18765
   },
   {
     "municipio": "Piraquara",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 131101,
-    "eleitores_tse_2024": 98765
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 131101,
+    "eleitores": 98765
   },
   {
     "municipio": "Pitanga",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 33640,
-    "eleitores_tse_2024": 24567
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 33640,
+    "eleitores": 24567
   },
   {
     "municipio": "Pitangueiras",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 3016,
-    "eleitores_tse_2024": 2456
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 3016,
+    "eleitores": 2456
   },
   {
     "municipio": "Planaltina do Paraná",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 4063,
-    "eleitores_tse_2024": 3100
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 4063,
+    "eleitores": 3100
   },
   {
     "municipio": "Planalto",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 14300,
-    "eleitores_tse_2024": 10789
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 14300,
+    "eleitores": 10789
   },
   {
     "municipio": "Ponta Grossa",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 391654,
-    "eleitores_tse_2024": 298765
+    "uf": "PR",
+    "populacao": 391654,
+    "eleitores": 298765
   },
   {
     "municipio": "Pontal do Paraná",
-    "territorio": "Litoral do Paraná",
-    "populacao_ibge_2022": 32985,
-    "eleitores_tse_2024": 24567
+    "territorio": "Litoral Do Paraná",
+    "uf": "PR",
+    "populacao": 32985,
+    "eleitores": 24567
   },
   {
     "municipio": "Porecatu",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 11596,
-    "eleitores_tse_2024": 9123
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 11596,
+    "eleitores": 9123
   },
   {
     "municipio": "Porto Amazonas",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 5543,
-    "eleitores_tse_2024": 4321
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 5543,
+    "eleitores": 4321
   },
   {
     "municipio": "Porto Barreiro",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 3111,
-    "eleitores_tse_2024": 2456
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 3111,
+    "eleitores": 2456
   },
   {
     "municipio": "Porto Rico",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 3194,
-    "eleitores_tse_2024": 2456
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 3194,
+    "eleitores": 2456
   },
   {
     "municipio": "Porto Vitória",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 3484,
-    "eleitores_tse_2024": 2678
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 3484,
+    "eleitores": 2678
   },
   {
     "municipio": "Prado Ferreira",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 3663,
-    "eleitores_tse_2024": 2987
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 3663,
+    "eleitores": 2987
   },
   {
     "municipio": "Pranchita",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 5705,
-    "eleitores_tse_2024": 4321
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 5705,
+    "eleitores": 4321
   },
   {
     "municipio": "Presidente Castelo Branco",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 4334,
-    "eleitores_tse_2024": 3345
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 4334,
+    "eleitores": 3345
   },
   {
-    "municipio": "Primeiro de Maio",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 10239,
-    "eleitores_tse_2024": 7890
+    "municipio": "Primeiro De Maio",
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 10239,
+    "eleitores": 7890
   },
   {
     "municipio": "Prudentópolis",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 49395,
-    "eleitores_tse_2024": 36789
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 49395,
+    "eleitores": 36789
   },
   {
     "municipio": "Quarto Centenário",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 4213,
-    "eleitores_tse_2024": 3345
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 4213,
+    "eleitores": 3345
   },
   {
     "municipio": "Quatiguá",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 8092,
-    "eleitores_tse_2024": 6123
+    "uf": "PR",
+    "populacao": 8092,
+    "eleitores": 6123
   },
   {
     "municipio": "Quatro Barras",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 26452,
-    "eleitores_tse_2024": 20876
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 26452,
+    "eleitores": 20876
   },
   {
     "municipio": "Quatro Pontes",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 4051,
-    "eleitores_tse_2024": 3100
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 4051,
+    "eleitores": 3100
   },
   {
     "municipio": "Quedas do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 30785,
-    "eleitores_tse_2024": 23456
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 30785,
+    "eleitores": 23456
   },
   {
     "municipio": "Querência do Norte",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 10708,
-    "eleitores_tse_2024": 8345
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 10708,
+    "eleitores": 8345
   },
   {
     "municipio": "Quinta do Sol",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 5009,
-    "eleitores_tse_2024": 3876
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 5009,
+    "eleitores": 3876
   },
   {
     "municipio": "Quitandinha",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 19240,
-    "eleitores_tse_2024": 14345
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 19240,
+    "eleitores": 14345
   },
   {
     "municipio": "Ramilândia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 4848,
-    "eleitores_tse_2024": 3678
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 4848,
+    "eleitores": 3678
   },
   {
     "municipio": "Rancho Alegre",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 3511,
-    "eleitores_tse_2024": 2678
+    "uf": "PR",
+    "populacao": 3511,
+    "eleitores": 2678
   },
   {
     "municipio": "Rancho Alegre D'Oeste",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 2615,
-    "eleitores_tse_2024": 2100
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 2615,
+    "eleitores": 2100
   },
   {
     "municipio": "Realeza",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 18928,
-    "eleitores_tse_2024": 14345
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 18928,
+    "eleitores": 14345
   },
   {
     "municipio": "Rebouças",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 14524,
-    "eleitores_tse_2024": 11234
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 14524,
+    "eleitores": 11234
   },
   {
     "municipio": "Renascença",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 6839,
-    "eleitores_tse_2024": 5234
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 6839,
+    "eleitores": 5234
   },
   {
     "municipio": "Reserva",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 26786,
-    "eleitores_tse_2024": 20876
+    "uf": "PR",
+    "populacao": 26786,
+    "eleitores": 20876
   },
   {
     "municipio": "Reserva do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 7009,
-    "eleitores_tse_2024": 5234
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 7009,
+    "eleitores": 5234
   },
   {
     "municipio": "Ribeirão Claro",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 12357,
-    "eleitores_tse_2024": 9567
+    "uf": "PR",
+    "populacao": 12357,
+    "eleitores": 9567
   },
   {
     "municipio": "Ribeirão do Pinhal",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 13053,
-    "eleitores_tse_2024": 10234
+    "uf": "PR",
+    "populacao": 13053,
+    "eleitores": 10234
   },
   {
     "municipio": "Rio Azul",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 14032,
-    "eleitores_tse_2024": 10789
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 14032,
+    "eleitores": 10789
   },
   {
     "municipio": "Rio Bom",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 3755,
-    "eleitores_tse_2024": 2987
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 3755,
+    "eleitores": 2987
   },
   {
     "municipio": "Rio Bonito do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 13955,
-    "eleitores_tse_2024": 10234
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 13955,
+    "eleitores": 10234
   },
   {
     "municipio": "Rio Branco do Ivaí",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 3866,
-    "eleitores_tse_2024": 2987
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 3866,
+    "eleitores": 2987
   },
   {
     "municipio": "Rio Branco do Sul",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 32566,
-    "eleitores_tse_2024": 24567
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 32566,
+    "eleitores": 24567
   },
   {
     "municipio": "Rio Negro",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 31406,
-    "eleitores_tse_2024": 23456
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 31406,
+    "eleitores": 23456
   },
   {
     "municipio": "Rolândia",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 71344,
-    "eleitores_tse_2024": 52345
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 71344,
+    "eleitores": 52345
   },
   {
     "municipio": "Roncador",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 11253,
-    "eleitores_tse_2024": 8345
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 11253,
+    "eleitores": 8345
   },
   {
     "municipio": "Rondon",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 9093,
-    "eleitores_tse_2024": 6789
+    "uf": "PR",
+    "populacao": 9093,
+    "eleitores": 6789
   },
   {
     "municipio": "Rosário do Ivaí",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 5697,
-    "eleitores_tse_2024": 4321
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 5697,
+    "eleitores": 4321
   },
   {
     "municipio": "Sabáudia",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 8819,
-    "eleitores_tse_2024": 6789
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 8819,
+    "eleitores": 6789
   },
   {
     "municipio": "Salgado Filho",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 4144,
-    "eleitores_tse_2024": 3345
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 4144,
+    "eleitores": 3345
   },
   {
     "municipio": "Salto do Itararé",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 5195,
-    "eleitores_tse_2024": 3987
+    "uf": "PR",
+    "populacao": 5195,
+    "eleitores": 3987
   },
   {
     "municipio": "Salto do Lontra",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 14006,
-    "eleitores_tse_2024": 10789
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 14006,
+    "eleitores": 10789
   },
   {
     "municipio": "Santa Amélia",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 3396,
-    "eleitores_tse_2024": 2678
+    "uf": "PR",
+    "populacao": 3396,
+    "eleitores": 2678
   },
   {
     "municipio": "Santa Cecília do Pavão",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 3361,
-    "eleitores_tse_2024": 2678
+    "uf": "PR",
+    "populacao": 3361,
+    "eleitores": 2678
   },
   {
-    "municipio": "Santa Cruz de Monte Castelo",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 8630,
-    "eleitores_tse_2024": 6456
+    "municipio": "Santa Cruz De Monte Castelo",
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 8630,
+    "eleitores": 6456
   },
   {
     "municipio": "Santa Fé",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 11397,
-    "eleitores_tse_2024": 8345
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 11397,
+    "eleitores": 8345
   },
   {
     "municipio": "Santa Helena",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 24917,
-    "eleitores_tse_2024": 18765
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 24917,
+    "eleitores": 18765
   },
   {
     "municipio": "Santa Inês",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 1744,
-    "eleitores_tse_2024": 1456
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 1744,
+    "eleitores": 1456
   },
   {
     "municipio": "Santa Isabel do Ivaí",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 8897,
-    "eleitores_tse_2024": 6789
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 8897,
+    "eleitores": 6789
   },
   {
     "municipio": "Santa Izabel do Oeste",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 12444,
-    "eleitores_tse_2024": 9567
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 12444,
+    "eleitores": 9567
   },
   {
     "municipio": "Santa Lúcia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 3668,
-    "eleitores_tse_2024": 2987
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 3668,
+    "eleitores": 2987
   },
   {
     "municipio": "Santa Maria do Oeste",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 9811,
-    "eleitores_tse_2024": 7456
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 9811,
+    "eleitores": 7456
   },
   {
     "municipio": "Santa Mariana",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 11111,
-    "eleitores_tse_2024": 8345
+    "uf": "PR",
+    "populacao": 11111,
+    "eleitores": 8345
   },
   {
     "municipio": "Santa Mônica",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 3357,
-    "eleitores_tse_2024": 2678
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 3357,
+    "eleitores": 2678
   },
   {
     "municipio": "Santana do Itararé",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 5514,
-    "eleitores_tse_2024": 4321
+    "uf": "PR",
+    "populacao": 5514,
+    "eleitores": 4321
   },
   {
     "municipio": "Santa Tereza do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 12928,
-    "eleitores_tse_2024": 9567
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 12928,
+    "eleitores": 9567
   },
   {
-    "municipio": "Santa Terezinha de Itaipu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 23236,
-    "eleitores_tse_2024": 17654
+    "municipio": "Santa Terezinha De Itaipu",
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 23236,
+    "eleitores": 17654
   },
   {
     "municipio": "Santo Antônio da Platina",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 45261,
-    "eleitores_tse_2024": 34567
+    "uf": "PR",
+    "populacao": 45261,
+    "eleitores": 34567
   },
   {
     "municipio": "Santo Antônio do Caiuá",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 2499,
-    "eleitores_tse_2024": 1890
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 2499,
+    "eleitores": 1890
   },
   {
     "municipio": "Santo Antônio do Paraíso",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 2122,
-    "eleitores_tse_2024": 1789
+    "uf": "PR",
+    "populacao": 2122,
+    "eleitores": 1789
   },
   {
     "municipio": "Santo Antônio do Sudoeste",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 19677,
-    "eleitores_tse_2024": 14345
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 19677,
+    "eleitores": 14345
   },
   {
     "municipio": "Santo Inácio",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 6184,
-    "eleitores_tse_2024": 4678
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 6184,
+    "eleitores": 4678
   },
   {
     "municipio": "São Carlos do Ivaí",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 6588,
-    "eleitores_tse_2024": 4987
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 6588,
+    "eleitores": 4987
   },
   {
     "municipio": "São Jerônimo da Serra",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 10742,
-    "eleitores_tse_2024": 8345
+    "uf": "PR",
+    "populacao": 10742,
+    "eleitores": 8345
   },
   {
     "municipio": "São João",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 11683,
-    "eleitores_tse_2024": 9123
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 11683,
+    "eleitores": 9123
   },
   {
     "municipio": "São João do Caiuá",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 5585,
-    "eleitores_tse_2024": 4321
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 5585,
+    "eleitores": 4321
   },
   {
     "municipio": "São João do Ivaí",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 10665,
-    "eleitores_tse_2024": 8345
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 10665,
+    "eleitores": 8345
   },
   {
     "municipio": "São João do Triunfo",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 13725,
-    "eleitores_tse_2024": 10234
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 13725,
+    "eleitores": 10234
   },
   {
-    "municipio": "São Jorge d'Oeste",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 9308,
-    "eleitores_tse_2024": 6789
+    "municipio": "São Jorge D'Oeste",
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 9308,
+    "eleitores": 6789
   },
   {
     "municipio": "São Jorge do Ivaí",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 5159,
-    "eleitores_tse_2024": 3987
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 5159,
+    "eleitores": 3987
   },
   {
     "municipio": "São Jorge do Patrocínio",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 6520,
-    "eleitores_tse_2024": 4987
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 6520,
+    "eleitores": 4987
   },
   {
     "municipio": "São José da Boa Vista",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 5968,
-    "eleitores_tse_2024": 4678
+    "uf": "PR",
+    "populacao": 5968,
+    "eleitores": 4678
   },
   {
     "municipio": "São José das Palmeiras",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 4063,
-    "eleitores_tse_2024": 3100
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 4063,
+    "eleitores": 3100
   },
   {
     "municipio": "São José dos Pinhais",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 327746,
-    "eleitores_tse_2024": 245678
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 327746,
+    "eleitores": 245678
   },
   {
     "municipio": "São Manoel do Paraná",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 2132,
-    "eleitores_tse_2024": 1789
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 2132,
+    "eleitores": 1789
   },
   {
     "municipio": "São Mateus do Sul",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 44313,
-    "eleitores_tse_2024": 33245
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 44313,
+    "eleitores": 33245
   },
   {
     "municipio": "São Miguel do Iguaçu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 29285,
-    "eleitores_tse_2024": 22123
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 29285,
+    "eleitores": 22123
   },
   {
     "municipio": "São Pedro do Iguaçu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 6854,
-    "eleitores_tse_2024": 5234
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 6854,
+    "eleitores": 5234
   },
   {
     "municipio": "São Pedro do Ivaí",
-    "territorio": "Vale do Ivaí",
-    "populacao_ibge_2022": 8691,
-    "eleitores_tse_2024": 6789
+    "territorio": "Vale Do Ivaí",
+    "uf": "PR",
+    "populacao": 8691,
+    "eleitores": 6789
   },
   {
     "municipio": "São Pedro do Paraná",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 2654,
-    "eleitores_tse_2024": 2100
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 2654,
+    "eleitores": 2100
   },
   {
     "municipio": "São Sebastião da Amoreira",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 8070,
-    "eleitores_tse_2024": 6123
+    "uf": "PR",
+    "populacao": 8070,
+    "eleitores": 6123
   },
   {
     "municipio": "São Tomé",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 5385,
-    "eleitores_tse_2024": 4321
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 5385,
+    "eleitores": 4321
   },
   {
     "municipio": "Sapopema",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 6444,
-    "eleitores_tse_2024": 4987
+    "uf": "PR",
+    "populacao": 6444,
+    "eleitores": 4987
   },
   {
     "municipio": "Sarandi",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 126057,
-    "eleitores_tse_2024": 95678
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 126057,
+    "eleitores": 95678
   },
   {
     "municipio": "Saudade do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 6137,
-    "eleitores_tse_2024": 4678
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 6137,
+    "eleitores": 4678
   },
   {
     "municipio": "Sengés",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 17112,
-    "eleitores_tse_2024": 13234
+    "uf": "PR",
+    "populacao": 17112,
+    "eleitores": 13234
   },
   {
     "municipio": "Serranópolis do Iguaçu",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 5034,
-    "eleitores_tse_2024": 3876
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 5034,
+    "eleitores": 3876
   },
   {
     "municipio": "Sertaneja",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 5761,
-    "eleitores_tse_2024": 4321
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 5761,
+    "eleitores": 4321
   },
   {
     "municipio": "Sertanópolis",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 16694,
-    "eleitores_tse_2024": 13234
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 16694,
+    "eleitores": 13234
   },
   {
     "municipio": "Siqueira Campos",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 24083,
-    "eleitores_tse_2024": 18765
+    "uf": "PR",
+    "populacao": 24083,
+    "eleitores": 18765
   },
   {
     "municipio": "Sulina",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 3440,
-    "eleitores_tse_2024": 2678
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 3440,
+    "eleitores": 2678
   },
   {
     "municipio": "Tamarana",
-    "territorio": "Norte do Paraná",
-    "populacao_ibge_2022": 12115,
-    "eleitores_tse_2024": 9123
+    "territorio": "Norte Do Paraná",
+    "uf": "PR",
+    "populacao": 12115,
+    "eleitores": 9123
   },
   {
     "municipio": "Tamboara",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 4879,
-    "eleitores_tse_2024": 3678
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 4879,
+    "eleitores": 3678
   },
   {
     "municipio": "Tapejara",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 15659,
-    "eleitores_tse_2024": 11234
+    "uf": "PR",
+    "populacao": 15659,
+    "eleitores": 11234
   },
   {
     "municipio": "Tapira",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 5743,
-    "eleitores_tse_2024": 4321
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 5743,
+    "eleitores": 4321
   },
   {
     "municipio": "Teixeira Soares",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 9565,
-    "eleitores_tse_2024": 7456
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 9565,
+    "eleitores": 7456
   },
   {
     "municipio": "Telêmaco Borba",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 73331,
-    "eleitores_tse_2024": 55678
+    "uf": "PR",
+    "populacao": 73331,
+    "eleitores": 55678
   },
   {
     "municipio": "Terra Boa",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 18654,
-    "eleitores_tse_2024": 14345
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 18654,
+    "eleitores": 14345
   },
   {
     "municipio": "Terra Rica",
-    "territorio": "Encontro das Águas e Biomas",
-    "populacao_ibge_2022": 14862,
-    "eleitores_tse_2024": 11234
+    "territorio": "Encontro Das Águas E Biomas",
+    "uf": "PR",
+    "populacao": 14862,
+    "eleitores": 11234
   },
   {
     "municipio": "Terra Roxa",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 18448,
-    "eleitores_tse_2024": 14345
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 18448,
+    "eleitores": 14345
   },
   {
     "municipio": "Tibagi",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 18612,
-    "eleitores_tse_2024": 14345
+    "uf": "PR",
+    "populacao": 18612,
+    "eleitores": 14345
   },
   {
     "municipio": "Tijucas do Sul",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 17717,
-    "eleitores_tse_2024": 13234
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 17717,
+    "eleitores": 13234
   },
   {
     "municipio": "Toledo",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 156123,
-    "eleitores_tse_2024": 118765
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 156123,
+    "eleitores": 118765
   },
   {
     "municipio": "Tomazina",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 9659,
-    "eleitores_tse_2024": 7456
+    "uf": "PR",
+    "populacao": 9659,
+    "eleitores": 7456
   },
   {
     "municipio": "Três Barras do Paraná",
-    "territorio": "Riquezas do Oeste",
-    "populacao_ibge_2022": 11142,
-    "eleitores_tse_2024": 8345
+    "territorio": "Riquezas Do Oeste",
+    "uf": "PR",
+    "populacao": 11142,
+    "eleitores": 8345
   },
   {
     "municipio": "Tunas do Paraná",
-    "territorio": "Rotas do Pinhão",
-    "populacao_ibge_2022": 8617,
-    "eleitores_tse_2024": 6456
+    "territorio": "Rotas Do Pinhão",
+    "uf": "PR",
+    "populacao": 8617,
+    "eleitores": 6456
   },
   {
     "municipio": "Tuneiras do Oeste",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 10332,
-    "eleitores_tse_2024": 7890
+    "uf": "PR",
+    "populacao": 10332,
+    "eleitores": 7890
   },
   {
     "municipio": "Tupãssi",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 8088,
-    "eleitores_tse_2024": 6123
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 8088,
+    "eleitores": 6123
   },
   {
     "municipio": "Turvo",
-    "territorio": "Terra dos Pinheirais",
-    "populacao_ibge_2022": 16147,
-    "eleitores_tse_2024": 11234
+    "territorio": "Terra Dos Pinheirais",
+    "uf": "PR",
+    "populacao": 16147,
+    "eleitores": 11234
   },
   {
     "municipio": "Ubiratã",
-    "territorio": "Ecoaventuras, História e Sabores",
-    "populacao_ibge_2022": 24733,
-    "eleitores_tse_2024": 18765
+    "territorio": "Ecoaventuras, História E Sabores",
+    "uf": "PR",
+    "populacao": 24733,
+    "eleitores": 18765
   },
   {
     "municipio": "Umuarama",
     "territorio": "Cinturão Verde",
-    "populacao_ibge_2022": 117148,
-    "eleitores_tse_2024": 87654
+    "uf": "PR",
+    "populacao": 117148,
+    "eleitores": 87654
   },
   {
     "municipio": "União da Vitória",
-    "territorio": "Sul do Paraná",
-    "populacao_ibge_2022": 55238,
-    "eleitores_tse_2024": 41234
+    "territorio": "Sul Do Paraná",
+    "uf": "PR",
+    "populacao": 55238,
+    "eleitores": 41234
   },
   {
     "municipio": "Uniflor",
-    "territorio": "Encanto dos Ipês",
-    "populacao_ibge_2022": 2136,
-    "eleitores_tse_2024": 1789
+    "territorio": "Encanto Dos Ipês",
+    "uf": "PR",
+    "populacao": 2136,
+    "eleitores": 1789
   },
   {
     "municipio": "Uraí",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 10378,
-    "eleitores_tse_2024": 7890
+    "uf": "PR",
+    "populacao": 10378,
+    "eleitores": 7890
   },
   {
     "municipio": "Wenceslau Braz",
     "territorio": "Norte Pioneiro",
-    "populacao_ibge_2022": 18894,
-    "eleitores_tse_2024": 14345
+    "uf": "PR",
+    "populacao": 18894,
+    "eleitores": 14345
   },
   {
     "municipio": "Ventania",
     "territorio": "Campos Gerais",
-    "populacao_ibge_2022": 9682,
-    "eleitores_tse_2024": 7456
+    "uf": "PR",
+    "populacao": 9682,
+    "eleitores": 7456
   },
   {
     "municipio": "Vera Cruz do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
-    "populacao_ibge_2022": 9326,
-    "eleitores_tse_2024": 6789
+    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
+    "uf": "PR",
+    "populacao": 9326,
+    "eleitores": 6789
   },
   {
     "municipio": "Verê",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 7929,
-    "eleitores_tse_2024": 6123
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 7929,
+    "eleitores": 6123
   },
   {
     "municipio": "Alto Paraíso",
-    "territorio": "Águas do Arenito Caiuá",
-    "populacao_ibge_2022": 3059,
-    "eleitores_tse_2024": 2456
+    "territorio": "Águas Do Arenito Caiuá",
+    "uf": "PR",
+    "populacao": 3059,
+    "eleitores": 2456
   },
   {
     "municipio": "Virmond",
-    "territorio": "Entre Matas, Morros e Rios",
-    "populacao_ibge_2022": 3813,
-    "eleitores_tse_2024": 2987
+    "territorio": "Entre Matas, Morros E Rios",
+    "uf": "PR",
+    "populacao": 3813,
+    "eleitores": 2987
   },
   {
     "municipio": "Vitorino",
-    "territorio": "Vales do Iguaçu",
-    "populacao_ibge_2022": 9942,
-    "eleitores_tse_2024": 7456
+    "territorio": "Vales Do Iguaçu",
+    "uf": "PR",
+    "populacao": 9942,
+    "eleitores": 7456
   },
   {
     "municipio": "Xambrê",
-    "territorio": "Caminho das Águas",
-    "populacao_ibge_2022": 5769,
-    "eleitores_tse_2024": 4321
+    "territorio": "Caminho Das Águas",
+    "uf": "PR",
+    "populacao": 5769,
+    "eleitores": 4321
   }
 ]

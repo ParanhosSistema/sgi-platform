@@ -1,54 +1,75 @@
-// backend/prisma/scripts/import_municipios_territorios.cjs
-// Uso: node prisma/scripts/import_municipios_territorios.cjs
-// Requisitos: Prisma Client gerado e models Municipio / TerritorioTuristico presentes.
-// Cria/atualiza territórios e municípios, vinculando-os.
-const { PrismaClient } = require('@prisma/client');
-const fs = require('fs');
-const path = require('path');
+/* backend/prisma/scripts/import_municipios_territorios.cjs */
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { PrismaClient } from '@prisma/client';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const prisma = new PrismaClient();
 
+function titleCase(s) {
+  return (s || '').toString().trim().replace(/\s+/g, ' ')
+    .split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ');
+}
+
 async function main() {
-  const dataPath = path.join(__dirname, '../data/municipios_territorios.json');
-  const items = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+  const dataPath = path.join(__dirname, '..', 'data', 'municipios_territorios.json');
+  if (!fs.existsSync(dataPath)) {
+    throw new Error(`Arquivo de dados não encontrado: ${dataPath}`);
+  }
+  const items = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 
-  let created = 0, updated = 0;
+  let terrCache = new Map();
+
   for (const item of items) {
-    const nomeMunicipio = item.municipio?.trim();
-    const nomeTerritorio = (item.territorio || 'Sem Território').trim();
+    const municipio = titleCase(item.municipio);
+    const territorio = titleCase(item.territorio || '');
+    const uf = (item.uf || 'PR').toUpperCase();
+    const populacao = item.populacao ?? null;
+    const eleitores = item.eleitores ?? null;
 
-    const territorio = await prisma.territorioTuristico.upsert({
-      where: { nome: nomeTerritorio },
-      update: {},
-      create: { nome: nomeTerritorio }
+    let territorioId = null;
+    if (territorio) {
+      if (!terrCache.has(territorio)) {
+        // try find by name (non-unique safe)
+        let terr = await prisma.territorioTuristico.findFirst({ where: { nome: territorio } });
+        if (!terr) {
+          terr = await prisma.territorioTuristico.create({ data: { nome: territorio } });
+        }
+        terrCache.set(territorio, terr.id);
+      }
+      territorioId = terrCache.get(territorio);
+    }
+
+    // try to find Municipio by name&UF
+    let muni = await prisma.municipio.findFirst({
+      where: { nome: municipio, uf }
     });
 
-    const existing = await prisma.municipio.findUnique({ where: { nome: nomeMunicipio } });
-    if (existing) {
+    if (muni) {
       await prisma.municipio.update({
-        where: { nome: nomeMunicipio },
-        data: { territorioId: territorio.id }
+        where: { id: muni.id },
+        data: { territorioId, populacao: populacao ?? undefined, eleitores: eleitores ?? undefined }
       });
-      updated++;
+      console.log(`↻ Atualizado: ${municipio} (${uf})`);
     } else {
       await prisma.municipio.create({
-        data: {
-          nome: nomeMunicipio,
-          territorioId: territorio.id
-        }
+        data: { nome: municipio, uf, territorioId, populacao, eleitores }
       });
-      created++;
+      console.log(`＋ Criado: ${municipio} (${uf})`);
     }
   }
 
-  console.log(`Import concluído. Criados: ${created}, Atualizados: ${updated}, Total processado: ${items.length}`);
+  // summary
+  const totalM = await prisma.municipio.count({ where: { uf: 'PR' } });
+  const totalT = await prisma.territorioTuristico.count();
+  console.log(`\n✅ Importação concluída. Municípios PR: ${totalM} | Territórios: ${totalT}`);
 }
 
-main()
-  .catch((e) => {
-    console.error(e);
-    process.exit(1);
-  })
-  .finally(async () => {
-    await prisma.$disconnect();
-  });
+main().then(() => prisma.$disconnect()).catch(async (e) => {
+  console.error('❌ Erro importação', e);
+  await prisma.$disconnect();
+  process.exit(1);
+});

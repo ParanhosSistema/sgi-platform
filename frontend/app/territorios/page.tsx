@@ -1,29 +1,29 @@
 // frontend/app/territorios/page.tsx
 import { apiGet } from '../lib/api';
 
-export const dynamic = 'force-dynamic';
+type Territorio = {
+  id: number | string;
+  nome: string;
+  municipios?: { id: number | string; nome: string }[];
+};
 
-type Municipio = { nome: string };
-type Territorio = { id?: number; nome: string; municipios?: Municipio[] };
+export default async function Page() {
+  const data = await apiGet<Territorio[]>('/territorios');
 
-async function getData() {
-  return apiGet<Territorio[]>('/territorios');
-}
-
-export default async function TerritoriosPage() {
-  const data = await getData();
   return (
-    <main style={{padding: '24px', maxWidth: 1000, margin: '0 auto'}}>
+    <main style={{ maxWidth: 1000, margin: '40px auto', padding: 16 }}>
       <h1>Territórios Turísticos (PR)</h1>
-      <p>Total: {data.length}</p>
-      {data.map((t, idx) => (
-        <section key={idx} style={{marginBottom:'24px'}}>
-          <h2 style={{marginBottom:'8px'}}>{t.nome}</h2>
-          <ul style={{columns:2, marginTop:0}}>
-            {(t.municipios || []).map((m, i) => <li key={i}>{m.nome}</li>)}
-          </ul>
-        </section>
-      ))}
+      <p>Total: <strong>{data.length}</strong></p>
+      <ul>
+        {data.map(t => (
+          <li key={t.id} style={{ marginBottom: 12 }}>
+            <strong>{t.nome}</strong>{' '}
+            <span style={{ color: '#666' }}>
+              ({t.municipios?.length ?? 0} municípios)
+            </span>
+          </li>
+        ))}
+      </ul>
     </main>
   );
 }

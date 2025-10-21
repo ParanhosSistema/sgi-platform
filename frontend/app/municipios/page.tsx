@@ -1,32 +1,46 @@
 // frontend/app/municipios/page.tsx
 import { apiGet } from '../lib/api';
 
-export const dynamic = 'force-dynamic';
+type Municipio = {
+  id?: number | string;
+  nome: string;
+  uf?: string;
+  territorio?: { id: number; nome: string } | null;
+  territorioId?: number | null;
+  populacao?: number | null;
+  eleitores?: number | null;
+};
 
-type Municipio = { id?: number; nome: string; territorio?: { nome: string } | null; territorioId?: number };
+export default async function Page() {
+  const data = await apiGet<Municipio[]>('/municipios');
+  const total = data.length;
 
-async function getData() {
-  return apiGet<Municipio[]>('/municipios');
-}
-
-export default async function MunicipiosPage() {
-  const data = await getData();
   return (
-    <main style={{padding: '24px', maxWidth: 1000, margin: '0 auto'}}>
-      <h1>Municípios × Territórios Turísticos (PR)</h1>
-      <p>Total: {data.length}</p>
-      <table style={{width:'100%', borderCollapse:'collapse'}}>
+    <main style={{ maxWidth: 1000, margin: '40px auto', padding: 16 }}>
+      <h1>Municípios do Paraná (PR)</h1>
+      <p><strong>{total}</strong> municípios carregados da API.</p>
+      <table style={{ width: '100%', borderCollapse: 'collapse' }}>
         <thead>
           <tr>
-            <th style={{textAlign:'left', borderBottom:'1px solid #ddd', padding:'8px'}}>Município</th>
-            <th style={{textAlign:'left', borderBottom:'1px solid #ddd', padding:'8px'}}>Território</th>
+            <th style={{ textAlign: 'left', borderBottom: '1px solid #ddd', padding: 8 }}>Município</th>
+            <th style={{ textAlign: 'left', borderBottom: '1px solid #ddd', padding: 8 }}>Território</th>
+            <th style={{ textAlign: 'right', borderBottom: '1px solid #ddd', padding: 8 }}>População</th>
+            <th style={{ textAlign: 'right', borderBottom: '1px solid #ddd', padding: 8 }}>Eleitores</th>
           </tr>
         </thead>
         <tbody>
-          {data.map((m, i) => (
-            <tr key={i}>
-              <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.nome}</td>
-              <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.territorio?.nome ?? '—'}</td>
+          {data.map((m) => (
+            <tr key={`${m.id ?? m.nome}`}>
+              <td style={{ borderBottom: '1px solid #eee', padding: 8 }}>{m.nome}</td>
+              <td style={{ borderBottom: '1px solid #eee', padding: 8 }}>
+                {m.territorio?.nome ?? '—'}
+              </td>
+              <td style={{ borderBottom: '1px solid #eee', padding: 8, textAlign: 'right' }}>
+                {m.populacao?.toLocaleString('pt-BR') ?? '—'}
+              </td>
+              <td style={{ borderBottom: '1px solid #eee', padding: 8, textAlign: 'right' }}>
+                {m.eleitores?.toLocaleString('pt-BR') ?? '—'}
+              </td>
             </tr>
           ))}
         </tbody>
