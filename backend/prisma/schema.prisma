@@ -21,3 +21,21 @@ model User {
 
   @@map("users")
 }
+
+model TerritorioTuristico {
+  id          Int         @id @default(autoincrement())
+  nome        String      @unique
+  municipios  Municipio[]
+
+  @@map("territorio_turistico")
+}
+
+model Municipio {
+  id             Int                   @id @default(autoincrement())
+  nome           String
+  ibgeCode       BigInt?               @unique @map("ibge_code")
+  territorioId   Int?                  @map("territorio_id")
+  territorio     TerritorioTuristico?  @relation(fields: [territorioId], references: [id], onDelete: SetNull)
+
+  @@map("municipio")
+}
