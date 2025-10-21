@@ -1,26 +1,23 @@
-// frontend/app/territorios/page.tsx
-import { apiGet } from '../lib/api';
+import { apiFetch } from "../lib/api";
 
 type Territorio = {
-  id: number | string;
+  id?: number | string;
   nome: string;
-  municipios?: { id: number | string; nome: string }[];
+  municipios?: { nome: string }[];
 };
 
 export default async function Page() {
-  const data = await apiGet<Territorio[]>('/territorios');
-
+  const territorios = await apiFetch<Territorio[]>('/territorios');
   return (
-    <main style={{ maxWidth: 1000, margin: '40px auto', padding: 16 }}>
-      <h1>Territórios Turísticos (PR)</h1>
-      <p>Total: <strong>{data.length}</strong></p>
-      <ul>
-        {data.map(t => (
-          <li key={t.id} style={{ marginBottom: 12 }}>
-            <strong>{t.nome}</strong>{' '}
-            <span style={{ color: '#666' }}>
-              ({t.municipios?.length ?? 0} municípios)
-            </span>
+    <main style={{maxWidth: 1100, margin: '40px auto', padding: '0 16px'}}>
+      <h1>Territórios Turísticos do Paraná</h1>
+      <ul style={{lineHeight: '1.9'}}>
+        {territorios.map((t) => (
+          <li key={String(t.id || t.nome)}>
+            <strong>{t.nome}</strong>
+            {t.municipios?.length ? (
+              <span> — {t.municipios.length} municípios</span>
+            ) : null}
           </li>
         ))}
       </ul>

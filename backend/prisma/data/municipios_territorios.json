@@ -1,2794 +1,2794 @@
 [
   {
-    "municipio": "Abatiá",
+    "nome": "Abatiá",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 7321,
     "populacao": 7321,
     "eleitores": 5789
   },
   {
-    "municipio": "Adrianópolis",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Adrianópolis",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 8556,
     "populacao": 8556,
     "eleitores": 4678
   },
   {
-    "municipio": "Agudos do Sul",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Agudos do Sul",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 10092,
     "populacao": 10092,
     "eleitores": 7012
   },
   {
-    "municipio": "Almirante Tamandaré",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Almirante Tamandaré",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 122032,
     "populacao": 122032,
     "eleitores": 90567
   },
   {
-    "municipio": "Altamira do Paraná",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Altamira do Paraná",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 3435,
     "populacao": 3435,
     "eleitores": 1311
   },
   {
-    "municipio": "Altônia",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Altônia",
+    "territorio": "Caminho das Águas",
+    "codIbge": 18735,
     "populacao": 18735,
     "eleitores": 17654
   },
   {
-    "municipio": "Alto Paraná",
-    "territorio": "Águas Do Arenito Caiuá",
-    "uf": "PR",
+    "nome": "Alto Paraná",
+    "territorio": "Águas do Arenito Caiuá",
+    "codIbge": 13897,
     "populacao": 13897,
     "eleitores": 10789
   },
   {
-    "municipio": "Alto Piquiri",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Alto Piquiri",
+    "territorio": "Caminho das Águas",
+    "codIbge": 9646,
     "populacao": 9646,
     "eleitores": 8345
   },
   {
-    "municipio": "Alvorada do Sul",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Alvorada do Sul",
+    "territorio": "Norte do Paraná",
+    "codIbge": 11672,
     "populacao": 11672,
     "eleitores": 8765
   },
   {
-    "municipio": "Amaporã",
-    "territorio": "Águas Do Arenito Caiuá",
-    "uf": "PR",
+    "nome": "Amaporã",
+    "territorio": "Águas do Arenito Caiuá",
+    "codIbge": 4765,
     "populacao": 4765,
     "eleitores": 4678
   },
   {
-    "municipio": "Ampére",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Ampére",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 19506,
     "populacao": 19506,
     "eleitores": 14532
   },
   {
-    "municipio": "Anahy",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Anahy",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 3107,
     "populacao": 3107,
     "eleitores": 2345
   },
   {
-    "municipio": "Andirá",
+    "nome": "Andirá",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 20234,
     "populacao": 20234,
     "eleitores": 14987
   },
   {
-    "municipio": "Ângulo",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Ângulo",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 3447,
     "populacao": 3447,
     "eleitores": 2345
   },
   {
-    "municipio": "Antonina",
-    "territorio": "Litoral Do Paraná",
-    "uf": "PR",
+    "nome": "Antonina",
+    "territorio": "Litoral do Paraná",
+    "codIbge": 17261,
     "populacao": 17261,
     "eleitores": 14345
   },
   {
-    "municipio": "Antônio Olinto",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "Antônio Olinto",
+    "territorio": "Sul do Paraná",
+    "codIbge": 6520,
     "populacao": 6520,
     "eleitores": 5789
   },
   {
-    "municipio": "Apucarana",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Apucarana",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 135969,
     "populacao": 135969,
     "eleitores": 98765
   },
   {
-    "municipio": "Arapongas",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Arapongas",
+    "territorio": "Norte do Paraná",
+    "codIbge": 118573,
     "populacao": 118573,
     "eleitores": 93456
   },
   {
-    "municipio": "Arapoti",
+    "nome": "Arapoti",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 25541,
     "populacao": 25541,
     "eleitores": 20876
   },
   {
-    "municipio": "Arapuã",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Arapuã",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 3537,
     "populacao": 3537,
     "eleitores": 2678
   },
   {
-    "municipio": "Araruna",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Araruna",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 14520,
     "populacao": 14520,
     "eleitores": 10789
   },
   {
-    "municipio": "Araucária",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Araucária",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 166699,
     "populacao": 166699,
     "eleitores": 106234
   },
   {
-    "municipio": "Ariranha do Ivaí",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Ariranha do Ivaí",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 2340,
     "populacao": 2340,
     "eleitores": 1890
   },
   {
-    "municipio": "Assaí",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Assaí",
+    "territorio": "Norte do Paraná",
+    "codIbge": 17628,
     "populacao": 17628,
     "eleitores": 10543
   },
   {
-    "municipio": "Assis Chateaubriand",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Assis Chateaubriand",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 36400,
     "populacao": 36400,
     "eleitores": 24567
   },
   {
-    "municipio": "Astorga",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Astorga",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 25477,
     "populacao": 25477,
     "eleitores": 18765
   },
   {
-    "municipio": "Atalaia",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Atalaia",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 3978,
     "populacao": 3978,
     "eleitores": 3100
   },
   {
-    "municipio": "Balsa Nova",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Balsa Nova",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 14608,
     "populacao": 14608,
     "eleitores": 9567
   },
   {
-    "municipio": "Bandeirantes",
+    "nome": "Bandeirantes",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 31309,
     "populacao": 31309,
     "eleitores": 23876
   },
   {
-    "municipio": "Barbosa Ferraz",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Barbosa Ferraz",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 10766,
     "populacao": 10766,
     "eleitores": 9123
   },
   {
-    "municipio": "Barracão",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Barracão",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 9886,
     "populacao": 9886,
     "eleitores": 7456
   },
   {
-    "municipio": "Barra do Jacaré",
+    "nome": "Barra do Jacaré",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 3022,
     "populacao": 3022,
     "eleitores": 2210
   },
   {
-    "municipio": "Bela Vista da Caroba",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Bela Vista da Caroba",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 3416,
     "populacao": 3416,
     "eleitores": 2789
   },
   {
-    "municipio": "Bela Vista do Paraíso",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Bela Vista do Paraíso",
+    "territorio": "Norte do Paraná",
+    "codIbge": 14789,
     "populacao": 14789,
     "eleitores": 11678
   },
   {
-    "municipio": "Bituruna",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "Bituruna",
+    "territorio": "Sul do Paraná",
+    "codIbge": 15443,
     "populacao": 15443,
     "eleitores": 12654
   },
   {
-    "municipio": "Boa Esperança",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Boa Esperança",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 4552,
     "populacao": 4552,
     "eleitores": 3100
   },
   {
-    "municipio": "Boa Esperança do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Boa Esperança do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 2411,
     "populacao": 2411,
     "eleitores": 2210
   },
   {
-    "municipio": "Boa Ventura De São Roque",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Boa Ventura de São Roque",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 6347,
     "populacao": 6347,
     "eleitores": 4678
   },
   {
-    "municipio": "Boa Vista da Aparecida",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Boa Vista da Aparecida",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 7876,
     "populacao": 7876,
     "eleitores": 5789
   },
   {
-    "municipio": "Bocaiúva do Sul",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Bocaiúva do Sul",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 16292,
     "populacao": 16292,
     "eleitores": 9123
   },
   {
-    "municipio": "Bom Jesus do Sul",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Bom Jesus do Sul",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 3942,
     "populacao": 3942,
     "eleitores": 3012
   },
   {
-    "municipio": "Bom Sucesso",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Bom Sucesso",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 6583,
     "populacao": 6583,
     "eleitores": 5234
   },
   {
-    "municipio": "Bom Sucesso do Sul",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Bom Sucesso do Sul",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 3540,
     "populacao": 3540,
     "eleitores": 2678
   },
   {
-    "municipio": "Borrazópolis",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Borrazópolis",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 7706,
     "populacao": 7706,
     "eleitores": 4987
   },
   {
-    "municipio": "Braganey",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Braganey",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 5212,
     "populacao": 5212,
     "eleitores": 4321
   },
   {
-    "municipio": "Brasilândia do Sul",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Brasilândia do Sul",
+    "territorio": "Caminho das Águas",
+    "codIbge": 3703,
     "populacao": 3703,
     "eleitores": 2100
   },
   {
-    "municipio": "Cafeara",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Cafeara",
+    "territorio": "Norte do Paraná",
+    "codIbge": 2620,
     "populacao": 2620,
     "eleitores": 5567
   },
   {
-    "municipio": "Cafelândia",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Cafelândia",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 18262,
     "populacao": 18262,
     "eleitores": 13234
   },
   {
-    "municipio": "Cafezal do Sul",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Cafezal do Sul",
+    "territorio": "Caminho das Águas",
+    "codIbge": 4474,
     "populacao": 4474,
     "eleitores": 3345
   },
   {
-    "municipio": "Califórnia",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Califórnia",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 9438,
     "populacao": 9438,
     "eleitores": 6789
   },
   {
-    "municipio": "Cambará",
+    "nome": "Cambará",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 23956,
     "populacao": 23956,
     "eleitores": 18765
   },
   {
-    "municipio": "Cambé",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Cambé",
+    "territorio": "Norte do Paraná",
+    "codIbge": 107220,
     "populacao": 107220,
     "eleitores": 80567
   },
   {
-    "municipio": "Cambira",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Cambira",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 10482,
     "populacao": 10482,
     "eleitores": 5890
   },
   {
-    "municipio": "Campina da Lagoa",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Campina da Lagoa",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 15737,
     "populacao": 15737,
     "eleitores": 11234
   },
   {
-    "municipio": "Campina do Simão",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Campina do Simão",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 3937,
     "populacao": 3937,
     "eleitores": 3100
   },
   {
-    "municipio": "Campina Grande do Sul",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Campina Grande do Sul",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 52083,
     "populacao": 52083,
     "eleitores": 50789
   },
   {
-    "municipio": "Campo Bonito",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Campo Bonito",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 4266,
     "populacao": 4266,
     "eleitores": 3100
   },
   {
-    "municipio": "Campo do Tenente",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Campo do Tenente",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 7583,
     "populacao": 7583,
     "eleitores": 5123
   },
   {
-    "municipio": "Campo Largo",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Campo Largo",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 144165,
     "populacao": 144165,
     "eleitores": 99876
   },
   {
-    "municipio": "Campo Magro",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Campo Magro",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 31678,
     "populacao": 31678,
     "eleitores": 22123
   },
   {
-    "municipio": "Campo Mourão",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Campo Mourão",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 99170,
     "populacao": 99170,
     "eleitores": 74789
   },
   {
-    "municipio": "Cândido De Abreu",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Cândido de Abreu",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 16727,
     "populacao": 16727,
     "eleitores": 6456
   },
   {
-    "municipio": "Candói",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Candói",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 14922,
     "populacao": 14922,
     "eleitores": 11345
   },
   {
-    "municipio": "Cantagalo",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Cantagalo",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 10589,
     "populacao": 10589,
     "eleitores": 7890
   },
   {
-    "municipio": "Capanema",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Capanema",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 19205,
     "populacao": 19205,
     "eleitores": 14210
   },
   {
-    "municipio": "Capitão Leônidas Marques",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Capitão Leônidas Marques",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 14644,
     "populacao": 14644,
     "eleitores": 11876
   },
   {
-    "municipio": "Carambeí",
+    "nome": "Carambeí",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 23386,
     "populacao": 23386,
     "eleitores": 17876
   },
   {
-    "municipio": "Carlópolis",
+    "nome": "Carlópolis",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 16908,
     "populacao": 16908,
     "eleitores": 10789
   },
   {
-    "municipio": "Cascavel",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Cascavel",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 350644,
     "populacao": 350644,
     "eleitores": 239588
   },
   {
-    "municipio": "Castro",
+    "nome": "Castro",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 75956,
     "populacao": 75956,
     "eleitores": 54056
   },
   {
-    "municipio": "Catanduvas",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Catanduvas",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 11246,
     "populacao": 11246,
     "eleitores": 8567
   },
   {
-    "municipio": "Centenário do Sul",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Centenário do Sul",
+    "territorio": "Norte do Paraná",
+    "codIbge": 10836,
     "populacao": 10836,
     "eleitores": 8345
   },
   {
-    "municipio": "Cerro Azul",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Cerro Azul",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 16145,
     "populacao": 16145,
     "eleitores": 13234
   },
   {
-    "municipio": "Céu Azul",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Céu Azul",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 11081,
     "populacao": 11081,
     "eleitores": 8765
   },
   {
-    "municipio": "Chopinzinho",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Chopinzinho",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 21646,
     "populacao": 21646,
     "eleitores": 14567
   },
   {
-    "municipio": "Cianorte",
+    "nome": "Cianorte",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 82232,
     "populacao": 82232,
     "eleitores": 62345
   },
   {
-    "municipio": "Cidade Gaúcha",
+    "nome": "Cidade Gaúcha",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 11467,
     "populacao": 11467,
     "eleitores": 8345
   },
   {
-    "municipio": "Clevelândia",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Clevelândia",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 17321,
     "populacao": 17321,
     "eleitores": 12433
   },
   {
-    "municipio": "Colombo",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Colombo",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 238780,
     "populacao": 238780,
     "eleitores": 181234
   },
   {
-    "municipio": "Colorado",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Colorado",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 22902,
     "populacao": 22902,
     "eleitores": 17876
   },
   {
-    "municipio": "Congonhinhas",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Congonhinhas",
+    "territorio": "Norte do Paraná",
+    "codIbge": 8336,
     "populacao": 8336,
     "eleitores": 6789
   },
   {
-    "municipio": "Conselheiro Mairinck",
+    "nome": "Conselheiro Mairinck",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 4354,
     "populacao": 4354,
     "eleitores": 2987
   },
   {
-    "municipio": "Contenda",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Contenda",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 17435,
     "populacao": 17435,
     "eleitores": 14345
   },
   {
-    "municipio": "Corbélia",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Corbélia",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 17466,
     "populacao": 17466,
     "eleitores": 12654
   },
   {
-    "municipio": "Cornélio Procópio",
+    "nome": "Cornélio Procópio",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 44599,
     "populacao": 44599,
     "eleitores": 35678
   },
   {
-    "municipio": "Coronel Domingos Soares",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Coronel Domingos Soares",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 7007,
     "populacao": 7007,
     "eleitores": 5689
   },
   {
-    "municipio": "Coronel Vivida",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Coronel Vivida",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 26413,
     "populacao": 26413,
     "eleitores": 15876
   },
   {
-    "municipio": "Corumbataí do Sul",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Corumbataí do Sul",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 3752,
     "populacao": 3752,
     "eleitores": 2987
   },
   {
-    "municipio": "Cruzeiro do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Cruzeiro do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 4137,
     "populacao": 4137,
     "eleitores": 3456
   },
   {
-    "municipio": "Cruzeiro do Oeste",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Cruzeiro do Oeste",
+    "territorio": "Caminho das Águas",
+    "codIbge": 23852,
     "populacao": 23852,
     "eleitores": 15876
   },
   {
-    "municipio": "Cruzeiro do Sul",
-    "territorio": "Águas Do Arenito Caiuá",
-    "uf": "PR",
+    "nome": "Cruzeiro do Sul",
+    "territorio": "Águas do Arenito Caiuá",
+    "codIbge": 4495,
     "populacao": 4495,
     "eleitores": 3678
   },
   {
-    "municipio": "Cruz Machado",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "Cruz Machado",
+    "territorio": "Sul do Paraná",
+    "codIbge": 15993,
     "populacao": 15993,
     "eleitores": 14345
   },
   {
-    "municipio": "Cruzmaltina",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Cruzmaltina",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 3150,
     "populacao": 3150,
     "eleitores": 2345
   },
   {
-    "municipio": "Curitiba",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Curitiba",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 1871789,
     "populacao": 1871789,
     "eleitores": 1423722
   },
   {
-    "municipio": "Curiúva",
+    "nome": "Curiúva",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 13272,
     "populacao": 13272,
     "eleitores": 11234
   },
   {
-    "municipio": "Diamante do Norte",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Diamante do Norte",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 5151,
     "populacao": 5151,
     "eleitores": 3987
   },
   {
-    "municipio": "Diamante do Sul",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Diamante do Sul",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 3173,
     "populacao": 3173,
     "eleitores": 2678
   },
   {
-    "municipio": "Diamante D'Oeste",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Diamante D'Oeste",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 5106,
     "populacao": 5106,
     "eleitores": 3987
   },
   {
-    "municipio": "Dois Vizinhos",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Dois Vizinhos",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 44828,
     "populacao": 44828,
     "eleitores": 29876
   },
   {
-    "municipio": "Douradina",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Douradina",
+    "territorio": "Caminho das Águas",
+    "codIbge": 9168,
     "populacao": 9168,
     "eleitores": 6123
   },
   {
-    "municipio": "Doutor Camargo",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Doutor Camargo",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 6290,
     "populacao": 6290,
     "eleitores": 4678
   },
   {
-    "municipio": "Doutor Ulysses",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Doutor Ulysses",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 6216,
     "populacao": 6216,
     "eleitores": 4321
   },
   {
-    "municipio": "Enéas Marques",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Enéas Marques",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 5995,
     "populacao": 5995,
     "eleitores": 4678
   },
   {
-    "municipio": "Engenheiro Beltrão",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Engenheiro Beltrão",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 12444,
     "populacao": 12444,
     "eleitores": 10234
   },
   {
-    "municipio": "Esperança Nova",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Esperança Nova",
+    "territorio": "Caminho das Águas",
+    "codIbge": 1845,
     "populacao": 1845,
     "eleitores": 1456
   },
   {
-    "municipio": "Entre Rios do Oeste",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Entre Rios do Oeste",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 4511,
     "populacao": 4511,
     "eleitores": 3456
   },
   {
-    "municipio": "Espigão Alto do Iguaçu",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Espigão Alto do Iguaçu",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 5915,
     "populacao": 5915,
     "eleitores": 3345
   },
   {
-    "municipio": "Farol",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Farol",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 3052,
     "populacao": 3052,
     "eleitores": 2456
   },
   {
-    "municipio": "Faxinal",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Faxinal",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 16338,
     "populacao": 16338,
     "eleitores": 13234
   },
   {
-    "municipio": "Fazenda Rio Grande",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Fazenda Rio Grande",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 167315,
     "populacao": 167315,
     "eleitores": 121456
   },
   {
-    "municipio": "Fênix",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Fênix",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 4492,
     "populacao": 4492,
     "eleitores": 3876
   },
   {
-    "municipio": "Fernandes Pinheiro",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Fernandes Pinheiro",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 6288,
     "populacao": 6288,
     "eleitores": 4678
   },
   {
-    "municipio": "Figueira",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Figueira",
+    "territorio": "Norte do Paraná",
+    "codIbge": 8064,
     "populacao": 8064,
     "eleitores": 6123
   },
   {
-    "municipio": "Floraí",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Floraí",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 6569,
     "populacao": 6569,
     "eleitores": 3876
   },
   {
-    "municipio": "Flor da Serra do Sul",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Flor da Serra do Sul",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 4230,
     "populacao": 4230,
     "eleitores": 3678
   },
   {
-    "municipio": "Floresta",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Floresta",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 11559,
     "populacao": 11559,
     "eleitores": 4678
   },
   {
-    "municipio": "Florestópolis",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Florestópolis",
+    "territorio": "Norte do Paraná",
+    "codIbge": 11475,
     "populacao": 11475,
     "eleitores": 8234
   },
   {
-    "municipio": "Flórida",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Flórida",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 2651,
     "populacao": 2651,
     "eleitores": 2100
   },
   {
-    "municipio": "Formosa do Oeste",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Formosa do Oeste",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 7641,
     "populacao": 7641,
     "eleitores": 5234
   },
   {
-    "municipio": "Foz do Iguaçu",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Foz do Iguaçu",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 286323,
     "populacao": 286323,
     "eleitores": 204343
   },
   {
-    "municipio": "Foz do Jordão",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Foz do Jordão",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 4845,
     "populacao": 4845,
     "eleitores": 3890
   },
   {
-    "municipio": "Francisco Alves",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Francisco Alves",
+    "territorio": "Caminho das Águas",
+    "codIbge": 8141,
     "populacao": 8141,
     "eleitores": 4678
   },
   {
-    "municipio": "Francisco Beltrão",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Francisco Beltrão",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 96622,
     "populacao": 96622,
     "eleitores": 71745
   },
   {
-    "municipio": "General Carneiro",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "General Carneiro",
+    "territorio": "Sul do Paraná",
+    "codIbge": 11053,
     "populacao": 11053,
     "eleitores": 10234
   },
   {
-    "municipio": "Godoy Moreira",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Godoy Moreira",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 2977,
     "populacao": 2977,
     "eleitores": 2567
   },
   {
-    "municipio": "Goioerê",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Goioerê",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 28470,
     "populacao": 28470,
     "eleitores": 22123
   },
   {
-    "municipio": "Goioxim",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Goioxim",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 6570,
     "populacao": 6570,
     "eleitores": 5987
   },
   {
-    "municipio": "Grandes Rios",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Grandes Rios",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 5625,
     "populacao": 5625,
     "eleitores": 5789
   },
   {
-    "municipio": "Guaíra",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Guaíra",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 31971,
     "populacao": 31971,
     "eleitores": 24567
   },
   {
-    "municipio": "Guairaçá",
-    "territorio": "Águas Do Arenito Caiuá",
-    "uf": "PR",
+    "nome": "Guairaçá",
+    "territorio": "Águas do Arenito Caiuá",
+    "codIbge": 6582,
     "populacao": 6582,
     "eleitores": 4678
   },
   {
-    "municipio": "Guamiranga",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Guamiranga",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 7856,
     "populacao": 7856,
     "eleitores": 6123
   },
   {
-    "municipio": "Guapirama",
+    "nome": "Guapirama",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 4627,
     "populacao": 4627,
     "eleitores": 3100
   },
   {
-    "municipio": "Guaporema",
+    "nome": "Guaporema",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 2186,
     "populacao": 2186,
     "eleitores": 2100
   },
   {
-    "municipio": "Guaraci",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Guaraci",
+    "territorio": "Norte do Paraná",
+    "codIbge": 4751,
     "populacao": 4751,
     "eleitores": 3678
   },
   {
-    "municipio": "Guaraniaçu",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Guaraniaçu",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 14398,
     "populacao": 14398,
     "eleitores": 10234
   },
   {
-    "municipio": "Guarapuava",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Guarapuava",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 190342,
     "populacao": 190342,
     "eleitores": 137234
   },
   {
-    "municipio": "Guaraqueçaba",
-    "territorio": "Litoral Do Paraná",
-    "uf": "PR",
+    "nome": "Guaraqueçaba",
+    "territorio": "Litoral do Paraná",
+    "codIbge": 7446,
     "populacao": 7446,
     "eleitores": 5789
   },
   {
-    "municipio": "Guaratuba",
-    "territorio": "Litoral Do Paraná",
-    "uf": "PR",
+    "nome": "Guaratuba",
+    "territorio": "Litoral do Paraná",
+    "codIbge": 42801,
     "populacao": 42801,
     "eleitores": 27234
   },
   {
-    "municipio": "Honório Serpa",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Honório Serpa",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 5471,
     "populacao": 5471,
     "eleitores": 4123
   },
   {
-    "municipio": "Ibaiti",
+    "nome": "Ibaiti",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 30943,
     "populacao": 30943,
     "eleitores": 23456
   },
   {
-    "municipio": "Ibema",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Ibema",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 6218,
     "populacao": 6218,
     "eleitores": 4678
   },
   {
-    "municipio": "Ibiporã",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Ibiporã",
+    "territorio": "Norte do Paraná",
+    "codIbge": 54917,
     "populacao": 54917,
     "eleitores": 41234
   },
   {
-    "municipio": "Icaraíma",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Icaraíma",
+    "territorio": "Caminho das Águas",
+    "codIbge": 8992,
     "populacao": 8992,
     "eleitores": 5789
   },
   {
-    "municipio": "Iguaraçu",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Iguaraçu",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 5478,
     "populacao": 5478,
     "eleitores": 3345
   },
   {
-    "municipio": "Iguatu",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Iguatu",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 2142,
     "populacao": 2142,
     "eleitores": 1789
   },
   {
-    "municipio": "Imbaú",
+    "nome": "Imbaú",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 11619,
     "populacao": 11619,
     "eleitores": 9567
   },
   {
-    "municipio": "Imbituva",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Imbituva",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 29893,
     "populacao": 29893,
     "eleitores": 23876
   },
   {
-    "municipio": "Inácio Martins",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Inácio Martins",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 10776,
     "populacao": 10776,
     "eleitores": 8345
   },
   {
-    "municipio": "Inajá",
-    "territorio": "Águas Do Arenito Caiuá",
-    "uf": "PR",
+    "nome": "Inajá",
+    "territorio": "Águas do Arenito Caiuá",
+    "codIbge": 2529,
     "populacao": 2529,
     "eleitores": 2456
   },
   {
-    "municipio": "Indianópolis",
+    "nome": "Indianópolis",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 4223,
     "populacao": 4223,
     "eleitores": 3345
   },
   {
-    "municipio": "Ipiranga",
+    "nome": "Ipiranga",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 14230,
     "populacao": 14230,
     "eleitores": 11234
   },
   {
-    "municipio": "Iporã",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Iporã",
+    "territorio": "Caminho das Águas",
+    "codIbge": 15730,
     "populacao": 15730,
     "eleitores": 10789
   },
   {
-    "municipio": "Iracema do Oeste",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Iracema do Oeste",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 2347,
     "populacao": 2347,
     "eleitores": 1987
   },
   {
-    "municipio": "Irati",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Irati",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 59253,
     "populacao": 59253,
     "eleitores": 45678
   },
   {
-    "municipio": "Iretama",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Iretama",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 10681,
     "populacao": 10681,
     "eleitores": 8345
   },
   {
-    "municipio": "Itaguajé",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Itaguajé",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 4489,
     "populacao": 4489,
     "eleitores": 3678
   },
   {
-    "municipio": "Itaipulândia",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Itaipulândia",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 10909,
     "populacao": 10909,
     "eleitores": 8234
   },
   {
-    "municipio": "Itambaracá",
+    "nome": "Itambaracá",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 5920,
     "populacao": 5920,
     "eleitores": 5234
   },
   {
-    "municipio": "Itambé",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Itambé",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 6734,
     "populacao": 6734,
     "eleitores": 5123
   },
   {
-    "municipio": "Itapejara D'Oeste",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Itapejara d'Oeste",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 13177,
     "populacao": 13177,
     "eleitores": 8234
   },
   {
-    "municipio": "Itaperuçu",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Itaperuçu",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 31843,
     "populacao": 31843,
     "eleitores": 22123
   },
   {
-    "municipio": "Itaúna do Sul",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Itaúna do Sul",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 3566,
     "populacao": 3566,
     "eleitores": 2456
   },
   {
-    "municipio": "Ivaí",
+    "nome": "Ivaí",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 13142,
     "populacao": 13142,
     "eleitores": 10234
   },
   {
-    "municipio": "Ivaiporã",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Ivaiporã",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 32604,
     "populacao": 32604,
     "eleitores": 23876
   },
   {
-    "municipio": "Ivaté",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Ivaté",
+    "territorio": "Caminho das Águas",
+    "codIbge": 6771,
     "populacao": 6771,
     "eleitores": 6123
   },
   {
-    "municipio": "Ivatuba",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Ivatuba",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 2786,
     "populacao": 2786,
     "eleitores": 2456
   },
   {
-    "municipio": "Jaboti",
+    "nome": "Jaboti",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 5425,
     "populacao": 5425,
     "eleitores": 3987
   },
   {
-    "municipio": "Jacarezinho",
+    "nome": "Jacarezinho",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 40356,
     "populacao": 40356,
     "eleitores": 29876
   },
   {
-    "municipio": "Jaguapitã",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Jaguapitã",
+    "territorio": "Norte do Paraná",
+    "codIbge": 15193,
     "populacao": 15193,
     "eleitores": 10234
   },
   {
-    "municipio": "Jaguariaíva",
+    "nome": "Jaguariaíva",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 35527,
     "populacao": 35527,
     "eleitores": 26789
   },
   {
-    "municipio": "Jandaia do Sul",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Jandaia do Sul",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 23006,
     "populacao": 23006,
     "eleitores": 18765
   },
   {
-    "municipio": "Janiópolis",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Janiópolis",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 5862,
     "populacao": 5862,
     "eleitores": 4678
   },
   {
-    "municipio": "Japira",
+    "nome": "Japira",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 4971,
     "populacao": 4971,
     "eleitores": 3678
   },
   {
-    "municipio": "Japurá",
+    "nome": "Japurá",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 9127,
     "populacao": 9127,
     "eleitores": 6456
   },
   {
-    "municipio": "Jardim Alegre",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Jardim Alegre",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 12070,
     "populacao": 12070,
     "eleitores": 9123
   },
   {
-    "municipio": "Jardim Olinda",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Jardim Olinda",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 1280,
     "populacao": 1280,
     "eleitores": 1100
   },
   {
-    "municipio": "Jataizinho",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Jataizinho",
+    "territorio": "Norte do Paraná",
+    "codIbge": 11857,
     "populacao": 11857,
     "eleitores": 8345
   },
   {
-    "municipio": "Jesuítas",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Jesuítas",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 10508,
     "populacao": 10508,
     "eleitores": 7456
   },
   {
-    "municipio": "Joaquim Távora",
+    "nome": "Joaquim Távora",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 11870,
     "populacao": 11870,
     "eleitores": 9123
   },
   {
-    "municipio": "Jundiaí do Sul",
+    "nome": "Jundiaí do Sul",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 3446,
     "populacao": 3446,
     "eleitores": 2678
   },
   {
-    "municipio": "Juranda",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Juranda",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 7773,
     "populacao": 7773,
     "eleitores": 5678
   },
   {
-    "municipio": "Jussara",
+    "nome": "Jussara",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 7477,
     "populacao": 7477,
     "eleitores": 5234
   },
   {
-    "municipio": "Kaloré",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Kaloré",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 4579,
     "populacao": 4579,
     "eleitores": 3678
   },
   {
-    "municipio": "Lapa",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Lapa",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 45620,
     "populacao": 45620,
     "eleitores": 34567
   },
   {
-    "municipio": "Laranjal",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Laranjal",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 5628,
     "populacao": 5628,
     "eleitores": 4321
   },
   {
-    "municipio": "Laranjeiras do Sul",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Laranjeiras do Sul",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 31953,
     "populacao": 31953,
     "eleitores": 23456
   },
   {
-    "municipio": "Leópolis",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Leópolis",
+    "territorio": "Norte do Paraná",
+    "codIbge": 3940,
     "populacao": 3940,
     "eleitores": 3100
   },
   {
-    "municipio": "Lidianópolis",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Lidianópolis",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 3936,
     "populacao": 3936,
     "eleitores": 2987
   },
   {
-    "municipio": "Lindoeste",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Lindoeste",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 5147,
     "populacao": 5147,
     "eleitores": 3987
   },
   {
-    "municipio": "Loanda",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Loanda",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 23149,
     "populacao": 23149,
     "eleitores": 17654
   },
   {
-    "municipio": "Lobato",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Lobato",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 4600,
     "populacao": 4600,
     "eleitores": 3678
   },
   {
-    "municipio": "Londrina",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Londrina",
+    "territorio": "Norte do Paraná",
+    "codIbge": 588125,
     "populacao": 588125,
     "eleitores": 432123
   },
   {
-    "municipio": "Luiziana",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Luiziana",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 6711,
     "populacao": 6711,
     "eleitores": 5234
   },
   {
-    "municipio": "Lunardelli",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Lunardelli",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 5027,
     "populacao": 5027,
     "eleitores": 3876
   },
   {
-    "municipio": "Lupionópolis",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Lupionópolis",
+    "territorio": "Norte do Paraná",
+    "codIbge": 4812,
     "populacao": 4812,
     "eleitores": 3678
   },
   {
-    "municipio": "Mallet",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Mallet",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 13378,
     "populacao": 13378,
     "eleitores": 10234
   },
   {
-    "municipio": "Mamborê",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Mamborê",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 13404,
     "populacao": 13404,
     "eleitores": 10234
   },
   {
-    "municipio": "Mandaguaçu",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Mandaguaçu",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 31544,
     "populacao": 31544,
     "eleitores": 23456
   },
   {
-    "municipio": "Mandaguari",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Mandaguari",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 36827,
     "populacao": 36827,
     "eleitores": 26789
   },
   {
-    "municipio": "Mandirituba",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Mandirituba",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 33795,
     "populacao": 33795,
     "eleitores": 24567
   },
   {
-    "municipio": "Manfrinópolis",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Manfrinópolis",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 2775,
     "populacao": 2775,
     "eleitores": 2210
   },
   {
-    "municipio": "Mangueirinha",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Mangueirinha",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 17287,
     "populacao": 17287,
     "eleitores": 13234
   },
   {
-    "municipio": "Manoel Ribas",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Manoel Ribas",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 13702,
     "populacao": 13702,
     "eleitores": 10789
   },
   {
-    "municipio": "Marechal Cândido Rondon",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Marechal Cândido Rondon",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 56530,
     "populacao": 56530,
     "eleitores": 41234
   },
   {
-    "municipio": "Maria Helena",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Maria Helena",
+    "territorio": "Caminho das Águas",
+    "codIbge": 5872,
     "populacao": 5872,
     "eleitores": 4678
   },
   {
-    "municipio": "Marialva",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Marialva",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 47028,
     "populacao": 47028,
     "eleitores": 34567
   },
   {
-    "municipio": "Marilândia do Sul",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Marilândia do Sul",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 9757,
     "populacao": 9757,
     "eleitores": 7456
   },
   {
-    "municipio": "Marilena",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Marilena",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 7220,
     "populacao": 7220,
     "eleitores": 5234
   },
   {
-    "municipio": "Mariluz",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Mariluz",
+    "territorio": "Caminho das Águas",
+    "codIbge": 9846,
     "populacao": 9846,
     "eleitores": 7456
   },
   {
-    "municipio": "Maringá",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Maringá",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 454146,
     "populacao": 454146,
     "eleitores": 332456
   },
   {
-    "municipio": "Mariópolis",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Mariópolis",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 6356,
     "populacao": 6356,
     "eleitores": 4987
   },
   {
-    "municipio": "Maripá",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Maripá",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 6639,
     "populacao": 6639,
     "eleitores": 5234
   },
   {
-    "municipio": "Marmeleiro",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Marmeleiro",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 15873,
     "populacao": 15873,
     "eleitores": 11234
   },
   {
-    "municipio": "Marquinho",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Marquinho",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 4348,
     "populacao": 4348,
     "eleitores": 3456
   },
   {
-    "municipio": "Marumbi",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Marumbi",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 4700,
     "populacao": 4700,
     "eleitores": 3678
   },
   {
-    "municipio": "Matelândia",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Matelândia",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 18472,
     "populacao": 18472,
     "eleitores": 13234
   },
   {
-    "municipio": "Matinhos",
-    "territorio": "Litoral Do Paraná",
-    "uf": "PR",
+    "nome": "Matinhos",
+    "territorio": "Litoral do Paraná",
+    "codIbge": 39212,
     "populacao": 39212,
     "eleitores": 29876
   },
   {
-    "municipio": "Mato Rico",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Mato Rico",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 3279,
     "populacao": 3279,
     "eleitores": 2456
   },
   {
-    "municipio": "Mauá da Serra",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Mauá da Serra",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 8937,
     "populacao": 8937,
     "eleitores": 6789
   },
   {
-    "municipio": "Medianeira",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Medianeira",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 54390,
     "populacao": 54390,
     "eleitores": 39876
   },
   {
-    "municipio": "Mercedes",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Mercedes",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 5945,
     "populacao": 5945,
     "eleitores": 4678
   },
   {
-    "municipio": "Mirador",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Mirador",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 2240,
     "populacao": 2240,
     "eleitores": 1789
   },
   {
-    "municipio": "Miraselva",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Miraselva",
+    "territorio": "Norte do Paraná",
+    "codIbge": 1965,
     "populacao": 1965,
     "eleitores": 1456
   },
   {
-    "municipio": "Missal",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Missal",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 12951,
     "populacao": 12951,
     "eleitores": 9567
   },
   {
-    "municipio": "Moreira Sales",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Moreira Sales",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 11170,
     "populacao": 11170,
     "eleitores": 8345
   },
   {
-    "municipio": "Morretes",
-    "territorio": "Litoral Do Paraná",
-    "uf": "PR",
+    "nome": "Morretes",
+    "territorio": "Litoral do Paraná",
+    "codIbge": 18396,
     "populacao": 18396,
     "eleitores": 14345
   },
   {
-    "municipio": "Munhoz De Melo",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Munhoz de Melo",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 3937,
     "populacao": 3937,
     "eleitores": 2987
   },
   {
-    "municipio": "Nossa Senhora das Graças",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Nossa Senhora das Graças",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 3677,
     "populacao": 3677,
     "eleitores": 2987
   },
   {
-    "municipio": "Nova Aliança do Ivaí",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Nova Aliança do Ivaí",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 1315,
     "populacao": 1315,
     "eleitores": 1100
   },
   {
-    "municipio": "Nova América da Colina",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Nova América da Colina",
+    "territorio": "Norte do Paraná",
+    "codIbge": 3277,
     "populacao": 3277,
     "eleitores": 2456
   },
   {
-    "municipio": "Nova Aurora",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Nova Aurora",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 12848,
     "populacao": 12848,
     "eleitores": 9567
   },
   {
-    "municipio": "Nova Cantu",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Nova Cantu",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 6781,
     "populacao": 6781,
     "eleitores": 5234
   },
   {
-    "municipio": "Nova Esperança",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Nova Esperança",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 26616,
     "populacao": 26616,
     "eleitores": 20876
   },
   {
-    "municipio": "Nova Esperança do Sudoeste",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Nova Esperança do Sudoeste",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 5592,
     "populacao": 5592,
     "eleitores": 4321
   },
   {
-    "municipio": "Nova Fátima",
+    "nome": "Nova Fátima",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 7225,
     "populacao": 7225,
     "eleitores": 5678
   },
   {
-    "municipio": "Nova Laranjeiras",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Nova Laranjeiras",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 14132,
     "populacao": 14132,
     "eleitores": 10234
   },
   {
-    "municipio": "Nova Londrina",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Nova Londrina",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 12911,
     "populacao": 12911,
     "eleitores": 9567
   },
   {
-    "municipio": "Nova Olímpia",
+    "nome": "Nova Olímpia",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 5834,
     "populacao": 5834,
     "eleitores": 4321
   },
   {
-    "municipio": "Nova Santa Bárbara",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Nova Santa Bárbara",
+    "territorio": "Norte do Paraná",
+    "codIbge": 4183,
     "populacao": 4183,
     "eleitores": 3100
   },
   {
-    "municipio": "Nova Santa Rosa",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Nova Santa Rosa",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 8292,
     "populacao": 8292,
     "eleitores": 6456
   },
   {
-    "municipio": "Nova Prata do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Nova Prata do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 10780,
     "populacao": 10780,
     "eleitores": 7890
   },
   {
-    "municipio": "Nova Tebas",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Nova Tebas",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 6848,
     "populacao": 6848,
     "eleitores": 5234
   },
   {
-    "municipio": "Novo Itacolomi",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Novo Itacolomi",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 4061,
     "populacao": 4061,
     "eleitores": 3100
   },
   {
-    "municipio": "Ortigueira",
+    "nome": "Ortigueira",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 26078,
     "populacao": 26078,
     "eleitores": 20876
   },
   {
-    "municipio": "Ourizona",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Ourizona",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 3184,
     "populacao": 3184,
     "eleitores": 2456
   },
   {
-    "municipio": "Ouro Verde do Oeste",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Ouro Verde do Oeste",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 6808,
     "populacao": 6808,
     "eleitores": 5234
   },
   {
-    "municipio": "Paiçandu",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Paiçandu",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 49999,
     "populacao": 49999,
     "eleitores": 36789
   },
   {
-    "municipio": "Palmas",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Palmas",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 43769,
     "populacao": 43769,
     "eleitores": 33245
   },
   {
-    "municipio": "Palmeira",
+    "nome": "Palmeira",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 36384,
     "populacao": 36384,
     "eleitores": 26789
   },
   {
-    "municipio": "Palmital",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Palmital",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 13080,
     "populacao": 13080,
     "eleitores": 10234
   },
   {
-    "municipio": "Palotina",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Palotina",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 35063,
     "populacao": 35063,
     "eleitores": 26789
   },
   {
-    "municipio": "Paraíso do Norte",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Paraíso do Norte",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 13246,
     "populacao": 13246,
     "eleitores": 9567
   },
   {
-    "municipio": "Paranacity",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Paranacity",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 9561,
     "populacao": 9561,
     "eleitores": 7456
   },
   {
-    "municipio": "Paranaguá",
-    "territorio": "Litoral Do Paraná",
-    "uf": "PR",
+    "nome": "Paranaguá",
+    "territorio": "Litoral do Paraná",
+    "codIbge": 157043,
     "populacao": 157043,
     "eleitores": 118765
   },
   {
-    "municipio": "Paranapoema",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Paranapoema",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 2406,
     "populacao": 2406,
     "eleitores": 1890
   },
   {
-    "municipio": "Paranavaí",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Paranavaí",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 90969,
     "populacao": 90969,
     "eleitores": 67890
   },
   {
-    "municipio": "Pato Bragado",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Pato Bragado",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 5976,
     "populacao": 5976,
     "eleitores": 4678
   },
   {
-    "municipio": "Pato Branco",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Pato Branco",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 94239,
     "populacao": 94239,
     "eleitores": 71745
   },
   {
-    "municipio": "Paula Freitas",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "Paula Freitas",
+    "territorio": "Sul do Paraná",
+    "codIbge": 5616,
     "populacao": 5616,
     "eleitores": 4321
   },
   {
-    "municipio": "Paulo Frontin",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "Paulo Frontin",
+    "territorio": "Sul do Paraná",
+    "codIbge": 6460,
     "populacao": 6460,
     "eleitores": 4987
   },
   {
-    "municipio": "Peabiru",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Peabiru",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 13345,
     "populacao": 13345,
     "eleitores": 10234
   },
   {
-    "municipio": "Perobal",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Perobal",
+    "territorio": "Caminho das Águas",
+    "codIbge": 7132,
     "populacao": 7132,
     "eleitores": 5234
   },
   {
-    "municipio": "Pérola",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Pérola",
+    "territorio": "Caminho das Águas",
+    "codIbge": 11885,
     "populacao": 11885,
     "eleitores": 9123
   },
   {
-    "municipio": "Pérola D'Oeste",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Pérola d'Oeste",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 6197,
     "populacao": 6197,
     "eleitores": 4678
   },
   {
-    "municipio": "Piên",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Piên",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 13552,
     "populacao": 13552,
     "eleitores": 10234
   },
   {
-    "municipio": "Pinhais",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Pinhais",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 131048,
     "populacao": 131048,
     "eleitores": 98765
   },
   {
-    "municipio": "Pinhalão",
+    "nome": "Pinhalão",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 6564,
     "populacao": 6564,
     "eleitores": 4987
   },
   {
-    "municipio": "Pinhal De São Bento",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Pinhal de São Bento",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 2762,
     "populacao": 2762,
     "eleitores": 2210
   },
   {
-    "municipio": "Pinhão",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Pinhão",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 29931,
     "populacao": 29931,
     "eleitores": 22123
   },
   {
-    "municipio": "Piraí do Sul",
+    "nome": "Piraí do Sul",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 23514,
     "populacao": 23514,
     "eleitores": 18765
   },
   {
-    "municipio": "Piraquara",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Piraquara",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 131101,
     "populacao": 131101,
     "eleitores": 98765
   },
   {
-    "municipio": "Pitanga",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Pitanga",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 33640,
     "populacao": 33640,
     "eleitores": 24567
   },
   {
-    "municipio": "Pitangueiras",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Pitangueiras",
+    "territorio": "Norte do Paraná",
+    "codIbge": 3016,
     "populacao": 3016,
     "eleitores": 2456
   },
   {
-    "municipio": "Planaltina do Paraná",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Planaltina do Paraná",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 4063,
     "populacao": 4063,
     "eleitores": 3100
   },
   {
-    "municipio": "Planalto",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Planalto",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 14300,
     "populacao": 14300,
     "eleitores": 10789
   },
   {
-    "municipio": "Ponta Grossa",
+    "nome": "Ponta Grossa",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 391654,
     "populacao": 391654,
     "eleitores": 298765
   },
   {
-    "municipio": "Pontal do Paraná",
-    "territorio": "Litoral Do Paraná",
-    "uf": "PR",
+    "nome": "Pontal do Paraná",
+    "territorio": "Litoral do Paraná",
+    "codIbge": 32985,
     "populacao": 32985,
     "eleitores": 24567
   },
   {
-    "municipio": "Porecatu",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Porecatu",
+    "territorio": "Norte do Paraná",
+    "codIbge": 11596,
     "populacao": 11596,
     "eleitores": 9123
   },
   {
-    "municipio": "Porto Amazonas",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Porto Amazonas",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 5543,
     "populacao": 5543,
     "eleitores": 4321
   },
   {
-    "municipio": "Porto Barreiro",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Porto Barreiro",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 3111,
     "populacao": 3111,
     "eleitores": 2456
   },
   {
-    "municipio": "Porto Rico",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Porto Rico",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 3194,
     "populacao": 3194,
     "eleitores": 2456
   },
   {
-    "municipio": "Porto Vitória",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "Porto Vitória",
+    "territorio": "Sul do Paraná",
+    "codIbge": 3484,
     "populacao": 3484,
     "eleitores": 2678
   },
   {
-    "municipio": "Prado Ferreira",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Prado Ferreira",
+    "territorio": "Norte do Paraná",
+    "codIbge": 3663,
     "populacao": 3663,
     "eleitores": 2987
   },
   {
-    "municipio": "Pranchita",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Pranchita",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 5705,
     "populacao": 5705,
     "eleitores": 4321
   },
   {
-    "municipio": "Presidente Castelo Branco",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Presidente Castelo Branco",
+    "territorio": "Norte do Paraná",
+    "codIbge": 4334,
     "populacao": 4334,
     "eleitores": 3345
   },
   {
-    "municipio": "Primeiro De Maio",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Primeiro de Maio",
+    "territorio": "Norte do Paraná",
+    "codIbge": 10239,
     "populacao": 10239,
     "eleitores": 7890
   },
   {
-    "municipio": "Prudentópolis",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Prudentópolis",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 49395,
     "populacao": 49395,
     "eleitores": 36789
   },
   {
-    "municipio": "Quarto Centenário",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Quarto Centenário",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 4213,
     "populacao": 4213,
     "eleitores": 3345
   },
   {
-    "municipio": "Quatiguá",
+    "nome": "Quatiguá",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 8092,
     "populacao": 8092,
     "eleitores": 6123
   },
   {
-    "municipio": "Quatro Barras",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Quatro Barras",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 26452,
     "populacao": 26452,
     "eleitores": 20876
   },
   {
-    "municipio": "Quatro Pontes",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Quatro Pontes",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 4051,
     "populacao": 4051,
     "eleitores": 3100
   },
   {
-    "municipio": "Quedas do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Quedas do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 30785,
     "populacao": 30785,
     "eleitores": 23456
   },
   {
-    "municipio": "Querência do Norte",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Querência do Norte",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 10708,
     "populacao": 10708,
     "eleitores": 8345
   },
   {
-    "municipio": "Quinta do Sol",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Quinta do Sol",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 5009,
     "populacao": 5009,
     "eleitores": 3876
   },
   {
-    "municipio": "Quitandinha",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Quitandinha",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 19240,
     "populacao": 19240,
     "eleitores": 14345
   },
   {
-    "municipio": "Ramilândia",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Ramilândia",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 4848,
     "populacao": 4848,
     "eleitores": 3678
   },
   {
-    "municipio": "Rancho Alegre",
+    "nome": "Rancho Alegre",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 3511,
     "populacao": 3511,
     "eleitores": 2678
   },
   {
-    "municipio": "Rancho Alegre D'Oeste",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Rancho Alegre D'Oeste",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 2615,
     "populacao": 2615,
     "eleitores": 2100
   },
   {
-    "municipio": "Realeza",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Realeza",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 18928,
     "populacao": 18928,
     "eleitores": 14345
   },
   {
-    "municipio": "Rebouças",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Rebouças",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 14524,
     "populacao": 14524,
     "eleitores": 11234
   },
   {
-    "municipio": "Renascença",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Renascença",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 6839,
     "populacao": 6839,
     "eleitores": 5234
   },
   {
-    "municipio": "Reserva",
+    "nome": "Reserva",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 26786,
     "populacao": 26786,
     "eleitores": 20876
   },
   {
-    "municipio": "Reserva do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Reserva do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 7009,
     "populacao": 7009,
     "eleitores": 5234
   },
   {
-    "municipio": "Ribeirão Claro",
+    "nome": "Ribeirão Claro",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 12357,
     "populacao": 12357,
     "eleitores": 9567
   },
   {
-    "municipio": "Ribeirão do Pinhal",
+    "nome": "Ribeirão do Pinhal",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 13053,
     "populacao": 13053,
     "eleitores": 10234
   },
   {
-    "municipio": "Rio Azul",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Rio Azul",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 14032,
     "populacao": 14032,
     "eleitores": 10789
   },
   {
-    "municipio": "Rio Bom",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Rio Bom",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 3755,
     "populacao": 3755,
     "eleitores": 2987
   },
   {
-    "municipio": "Rio Bonito do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Rio Bonito do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 13955,
     "populacao": 13955,
     "eleitores": 10234
   },
   {
-    "municipio": "Rio Branco do Ivaí",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Rio Branco do Ivaí",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 3866,
     "populacao": 3866,
     "eleitores": 2987
   },
   {
-    "municipio": "Rio Branco do Sul",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Rio Branco do Sul",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 32566,
     "populacao": 32566,
     "eleitores": 24567
   },
   {
-    "municipio": "Rio Negro",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Rio Negro",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 31406,
     "populacao": 31406,
     "eleitores": 23456
   },
   {
-    "municipio": "Rolândia",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Rolândia",
+    "territorio": "Norte do Paraná",
+    "codIbge": 71344,
     "populacao": 71344,
     "eleitores": 52345
   },
   {
-    "municipio": "Roncador",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Roncador",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 11253,
     "populacao": 11253,
     "eleitores": 8345
   },
   {
-    "municipio": "Rondon",
+    "nome": "Rondon",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 9093,
     "populacao": 9093,
     "eleitores": 6789
   },
   {
-    "municipio": "Rosário do Ivaí",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "Rosário do Ivaí",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 5697,
     "populacao": 5697,
     "eleitores": 4321
   },
   {
-    "municipio": "Sabáudia",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Sabáudia",
+    "territorio": "Norte do Paraná",
+    "codIbge": 8819,
     "populacao": 8819,
     "eleitores": 6789
   },
   {
-    "municipio": "Salgado Filho",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Salgado Filho",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 4144,
     "populacao": 4144,
     "eleitores": 3345
   },
   {
-    "municipio": "Salto do Itararé",
+    "nome": "Salto do Itararé",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 5195,
     "populacao": 5195,
     "eleitores": 3987
   },
   {
-    "municipio": "Salto do Lontra",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Salto do Lontra",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 14006,
     "populacao": 14006,
     "eleitores": 10789
   },
   {
-    "municipio": "Santa Amélia",
+    "nome": "Santa Amélia",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 3396,
     "populacao": 3396,
     "eleitores": 2678
   },
   {
-    "municipio": "Santa Cecília do Pavão",
+    "nome": "Santa Cecília do Pavão",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 3361,
     "populacao": 3361,
     "eleitores": 2678
   },
   {
-    "municipio": "Santa Cruz De Monte Castelo",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Santa Cruz de Monte Castelo",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 8630,
     "populacao": 8630,
     "eleitores": 6456
   },
   {
-    "municipio": "Santa Fé",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Santa Fé",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 11397,
     "populacao": 11397,
     "eleitores": 8345
   },
   {
-    "municipio": "Santa Helena",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Santa Helena",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 24917,
     "populacao": 24917,
     "eleitores": 18765
   },
   {
-    "municipio": "Santa Inês",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Santa Inês",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 1744,
     "populacao": 1744,
     "eleitores": 1456
   },
   {
-    "municipio": "Santa Isabel do Ivaí",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Santa Isabel do Ivaí",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 8897,
     "populacao": 8897,
     "eleitores": 6789
   },
   {
-    "municipio": "Santa Izabel do Oeste",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Santa Izabel do Oeste",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 12444,
     "populacao": 12444,
     "eleitores": 9567
   },
   {
-    "municipio": "Santa Lúcia",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Santa Lúcia",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 3668,
     "populacao": 3668,
     "eleitores": 2987
   },
   {
-    "municipio": "Santa Maria do Oeste",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Santa Maria do Oeste",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 9811,
     "populacao": 9811,
     "eleitores": 7456
   },
   {
-    "municipio": "Santa Mariana",
+    "nome": "Santa Mariana",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 11111,
     "populacao": 11111,
     "eleitores": 8345
   },
   {
-    "municipio": "Santa Mônica",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Santa Mônica",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 3357,
     "populacao": 3357,
     "eleitores": 2678
   },
   {
-    "municipio": "Santana do Itararé",
+    "nome": "Santana do Itararé",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 5514,
     "populacao": 5514,
     "eleitores": 4321
   },
   {
-    "municipio": "Santa Tereza do Oeste",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Santa Tereza do Oeste",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 12928,
     "populacao": 12928,
     "eleitores": 9567
   },
   {
-    "municipio": "Santa Terezinha De Itaipu",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Santa Terezinha de Itaipu",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 23236,
     "populacao": 23236,
     "eleitores": 17654
   },
   {
-    "municipio": "Santo Antônio da Platina",
+    "nome": "Santo Antônio da Platina",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 45261,
     "populacao": 45261,
     "eleitores": 34567
   },
   {
-    "municipio": "Santo Antônio do Caiuá",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Santo Antônio do Caiuá",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 2499,
     "populacao": 2499,
     "eleitores": 1890
   },
   {
-    "municipio": "Santo Antônio do Paraíso",
+    "nome": "Santo Antônio do Paraíso",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 2122,
     "populacao": 2122,
     "eleitores": 1789
   },
   {
-    "municipio": "Santo Antônio do Sudoeste",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Santo Antônio do Sudoeste",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 19677,
     "populacao": 19677,
     "eleitores": 14345
   },
   {
-    "municipio": "Santo Inácio",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Santo Inácio",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 6184,
     "populacao": 6184,
     "eleitores": 4678
   },
   {
-    "municipio": "São Carlos do Ivaí",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "São Carlos do Ivaí",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 6588,
     "populacao": 6588,
     "eleitores": 4987
   },
   {
-    "municipio": "São Jerônimo da Serra",
+    "nome": "São Jerônimo da Serra",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 10742,
     "populacao": 10742,
     "eleitores": 8345
   },
   {
-    "municipio": "São João",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "São João",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 11683,
     "populacao": 11683,
     "eleitores": 9123
   },
   {
-    "municipio": "São João do Caiuá",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "São João do Caiuá",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 5585,
     "populacao": 5585,
     "eleitores": 4321
   },
   {
-    "municipio": "São João do Ivaí",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "São João do Ivaí",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 10665,
     "populacao": 10665,
     "eleitores": 8345
   },
   {
-    "municipio": "São João do Triunfo",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "São João do Triunfo",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 13725,
     "populacao": 13725,
     "eleitores": 10234
   },
   {
-    "municipio": "São Jorge D'Oeste",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "São Jorge d'Oeste",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 9308,
     "populacao": 9308,
     "eleitores": 6789
   },
   {
-    "municipio": "São Jorge do Ivaí",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "São Jorge do Ivaí",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 5159,
     "populacao": 5159,
     "eleitores": 3987
   },
   {
-    "municipio": "São Jorge do Patrocínio",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "São Jorge do Patrocínio",
+    "territorio": "Caminho das Águas",
+    "codIbge": 6520,
     "populacao": 6520,
     "eleitores": 4987
   },
   {
-    "municipio": "São José da Boa Vista",
+    "nome": "São José da Boa Vista",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 5968,
     "populacao": 5968,
     "eleitores": 4678
   },
   {
-    "municipio": "São José das Palmeiras",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "São José das Palmeiras",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 4063,
     "populacao": 4063,
     "eleitores": 3100
   },
   {
-    "municipio": "São José dos Pinhais",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "São José dos Pinhais",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 327746,
     "populacao": 327746,
     "eleitores": 245678
   },
   {
-    "municipio": "São Manoel do Paraná",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "São Manoel do Paraná",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 2132,
     "populacao": 2132,
     "eleitores": 1789
   },
   {
-    "municipio": "São Mateus do Sul",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "São Mateus do Sul",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 44313,
     "populacao": 44313,
     "eleitores": 33245
   },
   {
-    "municipio": "São Miguel do Iguaçu",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "São Miguel do Iguaçu",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 29285,
     "populacao": 29285,
     "eleitores": 22123
   },
   {
-    "municipio": "São Pedro do Iguaçu",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "São Pedro do Iguaçu",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 6854,
     "populacao": 6854,
     "eleitores": 5234
   },
   {
-    "municipio": "São Pedro do Ivaí",
-    "territorio": "Vale Do Ivaí",
-    "uf": "PR",
+    "nome": "São Pedro do Ivaí",
+    "territorio": "Vale do Ivaí",
+    "codIbge": 8691,
     "populacao": 8691,
     "eleitores": 6789
   },
   {
-    "municipio": "São Pedro do Paraná",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "São Pedro do Paraná",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 2654,
     "populacao": 2654,
     "eleitores": 2100
   },
   {
-    "municipio": "São Sebastião da Amoreira",
+    "nome": "São Sebastião da Amoreira",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 8070,
     "populacao": 8070,
     "eleitores": 6123
   },
   {
-    "municipio": "São Tomé",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "São Tomé",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 5385,
     "populacao": 5385,
     "eleitores": 4321
   },
   {
-    "municipio": "Sapopema",
+    "nome": "Sapopema",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 6444,
     "populacao": 6444,
     "eleitores": 4987
   },
   {
-    "municipio": "Sarandi",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Sarandi",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 126057,
     "populacao": 126057,
     "eleitores": 95678
   },
   {
-    "municipio": "Saudade do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Saudade do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 6137,
     "populacao": 6137,
     "eleitores": 4678
   },
   {
-    "municipio": "Sengés",
+    "nome": "Sengés",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 17112,
     "populacao": 17112,
     "eleitores": 13234
   },
   {
-    "municipio": "Serranópolis do Iguaçu",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Serranópolis do Iguaçu",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 5034,
     "populacao": 5034,
     "eleitores": 3876
   },
   {
-    "municipio": "Sertaneja",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Sertaneja",
+    "territorio": "Norte do Paraná",
+    "codIbge": 5761,
     "populacao": 5761,
     "eleitores": 4321
   },
   {
-    "municipio": "Sertanópolis",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Sertanópolis",
+    "territorio": "Norte do Paraná",
+    "codIbge": 16694,
     "populacao": 16694,
     "eleitores": 13234
   },
   {
-    "municipio": "Siqueira Campos",
+    "nome": "Siqueira Campos",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 24083,
     "populacao": 24083,
     "eleitores": 18765
   },
   {
-    "municipio": "Sulina",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Sulina",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 3440,
     "populacao": 3440,
     "eleitores": 2678
   },
   {
-    "municipio": "Tamarana",
-    "territorio": "Norte Do Paraná",
-    "uf": "PR",
+    "nome": "Tamarana",
+    "territorio": "Norte do Paraná",
+    "codIbge": 12115,
     "populacao": 12115,
     "eleitores": 9123
   },
   {
-    "municipio": "Tamboara",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Tamboara",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 4879,
     "populacao": 4879,
     "eleitores": 3678
   },
   {
-    "municipio": "Tapejara",
+    "nome": "Tapejara",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 15659,
     "populacao": 15659,
     "eleitores": 11234
   },
   {
-    "municipio": "Tapira",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Tapira",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 5743,
     "populacao": 5743,
     "eleitores": 4321
   },
   {
-    "municipio": "Teixeira Soares",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Teixeira Soares",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 9565,
     "populacao": 9565,
     "eleitores": 7456
   },
   {
-    "municipio": "Telêmaco Borba",
+    "nome": "Telêmaco Borba",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 73331,
     "populacao": 73331,
     "eleitores": 55678
   },
   {
-    "municipio": "Terra Boa",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Terra Boa",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 18654,
     "populacao": 18654,
     "eleitores": 14345
   },
   {
-    "municipio": "Terra Rica",
-    "territorio": "Encontro Das Águas E Biomas",
-    "uf": "PR",
+    "nome": "Terra Rica",
+    "territorio": "Encontro das Águas e Biomas",
+    "codIbge": 14862,
     "populacao": 14862,
     "eleitores": 11234
   },
   {
-    "municipio": "Terra Roxa",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Terra Roxa",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 18448,
     "populacao": 18448,
     "eleitores": 14345
   },
   {
-    "municipio": "Tibagi",
+    "nome": "Tibagi",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 18612,
     "populacao": 18612,
     "eleitores": 14345
   },
   {
-    "municipio": "Tijucas do Sul",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Tijucas do Sul",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 17717,
     "populacao": 17717,
     "eleitores": 13234
   },
   {
-    "municipio": "Toledo",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Toledo",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 156123,
     "populacao": 156123,
     "eleitores": 118765
   },
   {
-    "municipio": "Tomazina",
+    "nome": "Tomazina",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 9659,
     "populacao": 9659,
     "eleitores": 7456
   },
   {
-    "municipio": "Três Barras do Paraná",
-    "territorio": "Riquezas Do Oeste",
-    "uf": "PR",
+    "nome": "Três Barras do Paraná",
+    "territorio": "Riquezas do Oeste",
+    "codIbge": 11142,
     "populacao": 11142,
     "eleitores": 8345
   },
   {
-    "municipio": "Tunas do Paraná",
-    "territorio": "Rotas Do Pinhão",
-    "uf": "PR",
+    "nome": "Tunas do Paraná",
+    "territorio": "Rotas do Pinhão",
+    "codIbge": 8617,
     "populacao": 8617,
     "eleitores": 6456
   },
   {
-    "municipio": "Tuneiras do Oeste",
+    "nome": "Tuneiras do Oeste",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 10332,
     "populacao": 10332,
     "eleitores": 7890
   },
   {
-    "municipio": "Tupãssi",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Tupãssi",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 8088,
     "populacao": 8088,
     "eleitores": 6123
   },
   {
-    "municipio": "Turvo",
-    "territorio": "Terra Dos Pinheirais",
-    "uf": "PR",
+    "nome": "Turvo",
+    "territorio": "Terra dos Pinheirais",
+    "codIbge": 16147,
     "populacao": 16147,
     "eleitores": 11234
   },
   {
-    "municipio": "Ubiratã",
-    "territorio": "Ecoaventuras, História E Sabores",
-    "uf": "PR",
+    "nome": "Ubiratã",
+    "territorio": "Ecoaventuras, História e Sabores",
+    "codIbge": 24733,
     "populacao": 24733,
     "eleitores": 18765
   },
   {
-    "municipio": "Umuarama",
+    "nome": "Umuarama",
     "territorio": "Cinturão Verde",
-    "uf": "PR",
+    "codIbge": 117148,
     "populacao": 117148,
     "eleitores": 87654
   },
   {
-    "municipio": "União da Vitória",
-    "territorio": "Sul Do Paraná",
-    "uf": "PR",
+    "nome": "União da Vitória",
+    "territorio": "Sul do Paraná",
+    "codIbge": 55238,
     "populacao": 55238,
     "eleitores": 41234
   },
   {
-    "municipio": "Uniflor",
-    "territorio": "Encanto Dos Ipês",
-    "uf": "PR",
+    "nome": "Uniflor",
+    "territorio": "Encanto dos Ipês",
+    "codIbge": 2136,
     "populacao": 2136,
     "eleitores": 1789
   },
   {
-    "municipio": "Uraí",
+    "nome": "Uraí",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 10378,
     "populacao": 10378,
     "eleitores": 7890
   },
   {
-    "municipio": "Wenceslau Braz",
+    "nome": "Wenceslau Braz",
     "territorio": "Norte Pioneiro",
-    "uf": "PR",
+    "codIbge": 18894,
     "populacao": 18894,
     "eleitores": 14345
   },
   {
-    "municipio": "Ventania",
+    "nome": "Ventania",
     "territorio": "Campos Gerais",
-    "uf": "PR",
+    "codIbge": 9682,
     "populacao": 9682,
     "eleitores": 7456
   },
   {
-    "municipio": "Vera Cruz do Oeste",
-    "territorio": "Cataratas Do Iguaçu E Caminhos Ao Lago Itaipu",
-    "uf": "PR",
+    "nome": "Vera Cruz do Oeste",
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "codIbge": 9326,
     "populacao": 9326,
     "eleitores": 6789
   },
   {
-    "municipio": "Verê",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Verê",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 7929,
     "populacao": 7929,
     "eleitores": 6123
   },
   {
-    "municipio": "Alto Paraíso",
-    "territorio": "Águas Do Arenito Caiuá",
-    "uf": "PR",
+    "nome": "Alto Paraíso",
+    "territorio": "Águas do Arenito Caiuá",
+    "codIbge": 3059,
     "populacao": 3059,
     "eleitores": 2456
   },
   {
-    "municipio": "Virmond",
-    "territorio": "Entre Matas, Morros E Rios",
-    "uf": "PR",
+    "nome": "Virmond",
+    "territorio": "Entre Matas, Morros e Rios",
+    "codIbge": 3813,
     "populacao": 3813,
     "eleitores": 2987
   },
   {
-    "municipio": "Vitorino",
-    "territorio": "Vales Do Iguaçu",
-    "uf": "PR",
+    "nome": "Vitorino",
+    "territorio": "Vales do Iguaçu",
+    "codIbge": 9942,
     "populacao": 9942,
     "eleitores": 7456
   },
   {
-    "municipio": "Xambrê",
-    "territorio": "Caminho Das Águas",
-    "uf": "PR",
+    "nome": "Xambrê",
+    "territorio": "Caminho das Águas",
+    "codIbge": 5769,
     "populacao": 5769,
     "eleitores": 4321
   }

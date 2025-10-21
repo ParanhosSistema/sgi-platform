@@ -1,48 +1,45 @@
-// frontend/app/municipios/page.tsx
-import { apiGet } from '../lib/api';
+import { apiFetch } from "../lib/api";
 
 type Municipio = {
   id?: number | string;
   nome: string;
-  uf?: string;
-  territorio?: { id: number; nome: string } | null;
-  territorioId?: number | null;
+  codIbge?: number;
+  territorio?: { nome: string } | null;
+  territorioNome?: string | null;
   populacao?: number | null;
   eleitores?: number | null;
 };
 
 export default async function Page() {
-  const data = await apiGet<Municipio[]>('/municipios');
-  const total = data.length;
-
+  const municipios = await apiFetch<Municipio[]>('/municipios');
+  const total = municipios.length;
   return (
-    <main style={{ maxWidth: 1000, margin: '40px auto', padding: 16 }}>
-      <h1>Municípios do Paraná (PR)</h1>
-      <p><strong>{total}</strong> municípios carregados da API.</p>
-      <table style={{ width: '100%', borderCollapse: 'collapse' }}>
+    <main style={{maxWidth: 1100, margin: '40px auto', padding: '0 16px'}}>
+      <h1>Municípios × Territórios Turísticos (PR)</h1>
+      <p style={{opacity:.8}}>Total: {total}</p>
+      <table style={{width:'100%', borderCollapse:'collapse'}}>
         <thead>
           <tr>
-            <th style={{ textAlign: 'left', borderBottom: '1px solid #ddd', padding: 8 }}>Município</th>
-            <th style={{ textAlign: 'left', borderBottom: '1px solid #ddd', padding: 8 }}>Território</th>
-            <th style={{ textAlign: 'right', borderBottom: '1px solid #ddd', padding: 8 }}>População</th>
-            <th style={{ textAlign: 'right', borderBottom: '1px solid #ddd', padding: 8 }}>Eleitores</th>
+            <th style={{textAlign:'left', borderBottom:'1px solid #ddd', padding:'8px'}}>Município</th>
+            <th style={{textAlign:'left', borderBottom:'1px solid #ddd', padding:'8px'}}>Território</th>
+            <th style={{textAlign:'left', borderBottom:'1px solid #ddd', padding:'8px'}}>IBGE</th>
+            <th style={{textAlign:'left', borderBottom:'1px solid #ddd', padding:'8px'}}>População</th>
+            <th style={{textAlign:'left', borderBottom:'1px solid #ddd', padding:'8px'}}>Eleitores</th>
           </tr>
         </thead>
         <tbody>
-          {data.map((m) => (
-            <tr key={`${m.id ?? m.nome}`}>
-              <td style={{ borderBottom: '1px solid #eee', padding: 8 }}>{m.nome}</td>
-              <td style={{ borderBottom: '1px solid #eee', padding: 8 }}>
-                {m.territorio?.nome ?? '—'}
-              </td>
-              <td style={{ borderBottom: '1px solid #eee', padding: 8, textAlign: 'right' }}>
-                {m.populacao?.toLocaleString('pt-BR') ?? '—'}
-              </td>
-              <td style={{ borderBottom: '1px solid #eee', padding: 8, textAlign: 'right' }}>
-                {m.eleitores?.toLocaleString('pt-BR') ?? '—'}
-              </td>
-            </tr>
-          ))}
+          {municipios.map((m) => {
+            const terr = (m as any).territorio?.nome || (m as any).territorioNome || '';
+            return (
+              <tr key={String(m.id || m.codIbge || m.nome)}>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.nome}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{terr}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.codIbge ?? ''}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.populacao ?? ''}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.eleitores ?? ''}</td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
     </main>
