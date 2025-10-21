@@ -1,1598 +1,3194 @@
 [
   {
+    "ibge_code": 7321,
     "municipio": "Abatiá",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8556,
     "municipio": "Adrianópolis",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10092,
     "municipio": "Agudos do Sul",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 122032,
     "municipio": "Almirante Tamandaré",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3435,
     "municipio": "Altamira do Paraná",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18735,
     "municipio": "Altônia",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13897,
     "municipio": "Alto Paraná",
-    "territorio": "Águas do Arenito Caiuá"
+    "territorio": "Águas do Arenito Caiuá",
+    "territorio_slug": "aguas-do-arenito-caiua",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9646,
     "municipio": "Alto Piquiri",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11672,
     "municipio": "Alvorada do Sul",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4765,
     "municipio": "Amaporã",
-    "territorio": "Águas do Arenito Caiuá"
+    "territorio": "Águas do Arenito Caiuá",
+    "territorio_slug": "aguas-do-arenito-caiua",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 19506,
     "municipio": "Ampére",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3107,
     "municipio": "Anahy",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 20234,
     "municipio": "Andirá",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3447,
     "municipio": "Ângulo",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17261,
     "municipio": "Antonina",
-    "territorio": "Litoral do Paraná"
+    "territorio": "Litoral do Paraná",
+    "territorio_slug": "litoral-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6520,
     "municipio": "Antônio Olinto",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 135969,
     "municipio": "Apucarana",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 118573,
     "municipio": "Arapongas",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 25541,
     "municipio": "Arapoti",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3537,
     "municipio": "Arapuã",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14520,
     "municipio": "Araruna",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 166699,
     "municipio": "Araucária",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2340,
     "municipio": "Ariranha do Ivaí",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17628,
     "municipio": "Assaí",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 36400,
     "municipio": "Assis Chateaubriand",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 25477,
     "municipio": "Astorga",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3978,
     "municipio": "Atalaia",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14608,
     "municipio": "Balsa Nova",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 31309,
     "municipio": "Bandeirantes",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10766,
     "municipio": "Barbosa Ferraz",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9886,
     "municipio": "Barracão",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3022,
     "municipio": "Barra do Jacaré",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3416,
     "municipio": "Bela Vista da Caroba",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14789,
     "municipio": "Bela Vista do Paraíso",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 15443,
     "municipio": "Bituruna",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4552,
     "municipio": "Boa Esperança",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2411,
     "municipio": "Boa Esperança do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6347,
     "municipio": "Boa Ventura de São Roque",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7876,
     "municipio": "Boa Vista da Aparecida",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 16292,
     "municipio": "Bocaiúva do Sul",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3942,
     "municipio": "Bom Jesus do Sul",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6583,
     "municipio": "Bom Sucesso",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3540,
     "municipio": "Bom Sucesso do Sul",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7706,
     "municipio": "Borrazópolis",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5212,
     "municipio": "Braganey",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3703,
     "municipio": "Brasilândia do Sul",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2620,
     "municipio": "Cafeara",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18262,
     "municipio": "Cafelândia",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4474,
     "municipio": "Cafezal do Sul",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9438,
     "municipio": "Califórnia",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 23956,
     "municipio": "Cambará",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 107220,
     "municipio": "Cambé",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10482,
     "municipio": "Cambira",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 15737,
     "municipio": "Campina da Lagoa",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3937,
     "municipio": "Campina do Simão",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 52083,
     "municipio": "Campina Grande do Sul",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4266,
     "municipio": "Campo Bonito",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7583,
     "municipio": "Campo do Tenente",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 144165,
     "municipio": "Campo Largo",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 31678,
     "municipio": "Campo Magro",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 99170,
     "municipio": "Campo Mourão",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 16727,
     "municipio": "Cândido de Abreu",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14922,
     "municipio": "Candói",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10589,
     "municipio": "Cantagalo",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 19205,
     "municipio": "Capanema",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14644,
     "municipio": "Capitão Leônidas Marques",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 23386,
     "municipio": "Carambeí",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 16908,
     "municipio": "Carlópolis",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 350644,
     "municipio": "Cascavel",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 75956,
     "municipio": "Castro",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11246,
     "municipio": "Catanduvas",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10836,
     "municipio": "Centenário do Sul",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 16145,
     "municipio": "Cerro Azul",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11081,
     "municipio": "Céu Azul",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 21646,
     "municipio": "Chopinzinho",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 82232,
     "municipio": "Cianorte",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11467,
     "municipio": "Cidade Gaúcha",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17321,
     "municipio": "Clevelândia",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 238780,
     "municipio": "Colombo",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 22902,
     "municipio": "Colorado",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8336,
     "municipio": "Congonhinhas",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4354,
     "municipio": "Conselheiro Mairinck",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17435,
     "municipio": "Contenda",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17466,
     "municipio": "Corbélia",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 44599,
     "municipio": "Cornélio Procópio",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7007,
     "municipio": "Coronel Domingos Soares",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 26413,
     "municipio": "Coronel Vivida",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3752,
     "municipio": "Corumbataí do Sul",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4137,
     "municipio": "Cruzeiro do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 23852,
     "municipio": "Cruzeiro do Oeste",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4495,
     "municipio": "Cruzeiro do Sul",
-    "territorio": "Águas do Arenito Caiuá"
+    "territorio": "Águas do Arenito Caiuá",
+    "territorio_slug": "aguas-do-arenito-caiua",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 15993,
     "municipio": "Cruz Machado",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3150,
     "municipio": "Cruzmaltina",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 1871789,
     "municipio": "Curitiba",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13272,
     "municipio": "Curiúva",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5151,
     "municipio": "Diamante do Norte",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3173,
     "municipio": "Diamante do Sul",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5106,
     "municipio": "Diamante D'Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 44828,
     "municipio": "Dois Vizinhos",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9168,
     "municipio": "Douradina",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6290,
     "municipio": "Doutor Camargo",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6216,
     "municipio": "Doutor Ulysses",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5995,
     "municipio": "Enéas Marques",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12444,
     "municipio": "Engenheiro Beltrão",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 1845,
     "municipio": "Esperança Nova",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4511,
     "municipio": "Entre Rios do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5915,
     "municipio": "Espigão Alto do Iguaçu",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3052,
     "municipio": "Farol",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 16338,
     "municipio": "Faxinal",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 167315,
     "municipio": "Fazenda Rio Grande",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4492,
     "municipio": "Fênix",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6288,
     "municipio": "Fernandes Pinheiro",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8064,
     "municipio": "Figueira",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6569,
     "municipio": "Floraí",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4230,
     "municipio": "Flor da Serra do Sul",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11559,
     "municipio": "Floresta",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11475,
     "municipio": "Florestópolis",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2651,
     "municipio": "Flórida",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7641,
     "municipio": "Formosa do Oeste",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 286323,
     "municipio": "Foz do Iguaçu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4845,
     "municipio": "Foz do Jordão",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8141,
     "municipio": "Francisco Alves",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 96622,
     "municipio": "Francisco Beltrão",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11053,
     "municipio": "General Carneiro",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2977,
     "municipio": "Godoy Moreira",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 28470,
     "municipio": "Goioerê",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6570,
     "municipio": "Goioxim",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5625,
     "municipio": "Grandes Rios",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 31971,
     "municipio": "Guaíra",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6582,
     "municipio": "Guairaçá",
-    "territorio": "Águas do Arenito Caiuá"
+    "territorio": "Águas do Arenito Caiuá",
+    "territorio_slug": "aguas-do-arenito-caiua",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7856,
     "municipio": "Guamiranga",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4627,
     "municipio": "Guapirama",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2186,
     "municipio": "Guaporema",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4751,
     "municipio": "Guaraci",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14398,
     "municipio": "Guaraniaçu",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 190342,
     "municipio": "Guarapuava",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7446,
     "municipio": "Guaraqueçaba",
-    "territorio": "Litoral do Paraná"
+    "territorio": "Litoral do Paraná",
+    "territorio_slug": "litoral-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 42801,
     "municipio": "Guaratuba",
-    "territorio": "Litoral do Paraná"
+    "territorio": "Litoral do Paraná",
+    "territorio_slug": "litoral-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5471,
     "municipio": "Honório Serpa",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 30943,
     "municipio": "Ibaiti",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6218,
     "municipio": "Ibema",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 54917,
     "municipio": "Ibiporã",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8992,
     "municipio": "Icaraíma",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5478,
     "municipio": "Iguaraçu",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2142,
     "municipio": "Iguatu",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11619,
     "municipio": "Imbaú",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 29893,
     "municipio": "Imbituva",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10776,
     "municipio": "Inácio Martins",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2529,
     "municipio": "Inajá",
-    "territorio": "Águas do Arenito Caiuá"
+    "territorio": "Águas do Arenito Caiuá",
+    "territorio_slug": "aguas-do-arenito-caiua",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4223,
     "municipio": "Indianópolis",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14230,
     "municipio": "Ipiranga",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 15730,
     "municipio": "Iporã",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2347,
     "municipio": "Iracema do Oeste",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 59253,
     "municipio": "Irati",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10681,
     "municipio": "Iretama",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4489,
     "municipio": "Itaguajé",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10909,
     "municipio": "Itaipulândia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5920,
     "municipio": "Itambaracá",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6734,
     "municipio": "Itambé",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13177,
     "municipio": "Itapejara d'Oeste",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 31843,
     "municipio": "Itaperuçu",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3566,
     "municipio": "Itaúna do Sul",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13142,
     "municipio": "Ivaí",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 32604,
     "municipio": "Ivaiporã",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6771,
     "municipio": "Ivaté",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2786,
     "municipio": "Ivatuba",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5425,
     "municipio": "Jaboti",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 40356,
     "municipio": "Jacarezinho",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 15193,
     "municipio": "Jaguapitã",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 35527,
     "municipio": "Jaguariaíva",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 23006,
     "municipio": "Jandaia do Sul",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5862,
     "municipio": "Janiópolis",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4971,
     "municipio": "Japira",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9127,
     "municipio": "Japurá",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12070,
     "municipio": "Jardim Alegre",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 1280,
     "municipio": "Jardim Olinda",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11857,
     "municipio": "Jataizinho",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10508,
     "municipio": "Jesuítas",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11870,
     "municipio": "Joaquim Távora",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3446,
     "municipio": "Jundiaí do Sul",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7773,
     "municipio": "Juranda",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7477,
     "municipio": "Jussara",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4579,
     "municipio": "Kaloré",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 45620,
     "municipio": "Lapa",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5628,
     "municipio": "Laranjal",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 31953,
     "municipio": "Laranjeiras do Sul",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3940,
     "municipio": "Leópolis",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3936,
     "municipio": "Lidianópolis",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5147,
     "municipio": "Lindoeste",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 23149,
     "municipio": "Loanda",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4600,
     "municipio": "Lobato",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 588125,
     "municipio": "Londrina",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6711,
     "municipio": "Luiziana",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5027,
     "municipio": "Lunardelli",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4812,
     "municipio": "Lupionópolis",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13378,
     "municipio": "Mallet",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13404,
     "municipio": "Mamborê",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 31544,
     "municipio": "Mandaguaçu",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 36827,
     "municipio": "Mandaguari",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 33795,
     "municipio": "Mandirituba",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2775,
     "municipio": "Manfrinópolis",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17287,
     "municipio": "Mangueirinha",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13702,
     "municipio": "Manoel Ribas",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 56530,
     "municipio": "Marechal Cândido Rondon",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5872,
     "municipio": "Maria Helena",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 47028,
     "municipio": "Marialva",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9757,
     "municipio": "Marilândia do Sul",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7220,
     "municipio": "Marilena",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9846,
     "municipio": "Mariluz",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 454146,
     "municipio": "Maringá",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6356,
     "municipio": "Mariópolis",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6639,
     "municipio": "Maripá",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 15873,
     "municipio": "Marmeleiro",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4348,
     "municipio": "Marquinho",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4700,
     "municipio": "Marumbi",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18472,
     "municipio": "Matelândia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 39212,
     "municipio": "Matinhos",
-    "territorio": "Litoral do Paraná"
+    "territorio": "Litoral do Paraná",
+    "territorio_slug": "litoral-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3279,
     "municipio": "Mato Rico",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8937,
     "municipio": "Mauá da Serra",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 54390,
     "municipio": "Medianeira",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5945,
     "municipio": "Mercedes",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2240,
     "municipio": "Mirador",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 1965,
     "municipio": "Miraselva",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12951,
     "municipio": "Missal",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11170,
     "municipio": "Moreira Sales",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18396,
     "municipio": "Morretes",
-    "territorio": "Litoral do Paraná"
+    "territorio": "Litoral do Paraná",
+    "territorio_slug": "litoral-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3937,
     "municipio": "Munhoz de Melo",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3677,
     "municipio": "Nossa Senhora das Graças",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 1315,
     "municipio": "Nova Aliança do Ivaí",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3277,
     "municipio": "Nova América da Colina",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12848,
     "municipio": "Nova Aurora",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6781,
     "municipio": "Nova Cantu",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 26616,
     "municipio": "Nova Esperança",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5592,
     "municipio": "Nova Esperança do Sudoeste",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7225,
     "municipio": "Nova Fátima",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14132,
     "municipio": "Nova Laranjeiras",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12911,
     "municipio": "Nova Londrina",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5834,
     "municipio": "Nova Olímpia",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4183,
     "municipio": "Nova Santa Bárbara",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8292,
     "municipio": "Nova Santa Rosa",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10780,
     "municipio": "Nova Prata do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6848,
     "municipio": "Nova Tebas",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4061,
     "municipio": "Novo Itacolomi",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 26078,
     "municipio": "Ortigueira",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3184,
     "municipio": "Ourizona",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6808,
     "municipio": "Ouro Verde do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 49999,
     "municipio": "Paiçandu",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 43769,
     "municipio": "Palmas",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 36384,
     "municipio": "Palmeira",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13080,
     "municipio": "Palmital",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 35063,
     "municipio": "Palotina",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13246,
     "municipio": "Paraíso do Norte",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9561,
     "municipio": "Paranacity",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 157043,
     "municipio": "Paranaguá",
-    "territorio": "Litoral do Paraná"
+    "territorio": "Litoral do Paraná",
+    "territorio_slug": "litoral-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2406,
     "municipio": "Paranapoema",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 90969,
     "municipio": "Paranavaí",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5976,
     "municipio": "Pato Bragado",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 94239,
     "municipio": "Pato Branco",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5616,
     "municipio": "Paula Freitas",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6460,
     "municipio": "Paulo Frontin",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13345,
     "municipio": "Peabiru",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7132,
     "municipio": "Perobal",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11885,
     "municipio": "Pérola",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6197,
     "municipio": "Pérola d'Oeste",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13552,
     "municipio": "Piên",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 131048,
     "municipio": "Pinhais",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6564,
     "municipio": "Pinhalão",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2762,
     "municipio": "Pinhal de São Bento",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 29931,
     "municipio": "Pinhão",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 23514,
     "municipio": "Piraí do Sul",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 131101,
     "municipio": "Piraquara",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 33640,
     "municipio": "Pitanga",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3016,
     "municipio": "Pitangueiras",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4063,
     "municipio": "Planaltina do Paraná",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14300,
     "municipio": "Planalto",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 391654,
     "municipio": "Ponta Grossa",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 32985,
     "municipio": "Pontal do Paraná",
-    "territorio": "Litoral do Paraná"
+    "territorio": "Litoral do Paraná",
+    "territorio_slug": "litoral-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11596,
     "municipio": "Porecatu",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5543,
     "municipio": "Porto Amazonas",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3111,
     "municipio": "Porto Barreiro",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3194,
     "municipio": "Porto Rico",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3484,
     "municipio": "Porto Vitória",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3663,
     "municipio": "Prado Ferreira",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5705,
     "municipio": "Pranchita",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4334,
     "municipio": "Presidente Castelo Branco",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10239,
     "municipio": "Primeiro de Maio",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 49395,
     "municipio": "Prudentópolis",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4213,
     "municipio": "Quarto Centenário",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8092,
     "municipio": "Quatiguá",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 26452,
     "municipio": "Quatro Barras",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4051,
     "municipio": "Quatro Pontes",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 30785,
     "municipio": "Quedas do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10708,
     "municipio": "Querência do Norte",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5009,
     "municipio": "Quinta do Sol",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 19240,
     "municipio": "Quitandinha",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4848,
     "municipio": "Ramilândia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3511,
     "municipio": "Rancho Alegre",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2615,
     "municipio": "Rancho Alegre D'Oeste",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18928,
     "municipio": "Realeza",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14524,
     "municipio": "Rebouças",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6839,
     "municipio": "Renascença",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 26786,
     "municipio": "Reserva",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7009,
     "municipio": "Reserva do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12357,
     "municipio": "Ribeirão Claro",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13053,
     "municipio": "Ribeirão do Pinhal",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14032,
     "municipio": "Rio Azul",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3755,
     "municipio": "Rio Bom",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13955,
     "municipio": "Rio Bonito do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3866,
     "municipio": "Rio Branco do Ivaí",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 32566,
     "municipio": "Rio Branco do Sul",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 31406,
     "municipio": "Rio Negro",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 71344,
     "municipio": "Rolândia",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11253,
     "municipio": "Roncador",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9093,
     "municipio": "Rondon",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5697,
     "municipio": "Rosário do Ivaí",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8819,
     "municipio": "Sabáudia",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4144,
     "municipio": "Salgado Filho",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5195,
     "municipio": "Salto do Itararé",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14006,
     "municipio": "Salto do Lontra",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3396,
     "municipio": "Santa Amélia",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3361,
     "municipio": "Santa Cecília do Pavão",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8630,
     "municipio": "Santa Cruz de Monte Castelo",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11397,
     "municipio": "Santa Fé",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 24917,
     "municipio": "Santa Helena",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 1744,
     "municipio": "Santa Inês",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8897,
     "municipio": "Santa Isabel do Ivaí",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12444,
     "municipio": "Santa Izabel do Oeste",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3668,
     "municipio": "Santa Lúcia",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9811,
     "municipio": "Santa Maria do Oeste",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11111,
     "municipio": "Santa Mariana",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3357,
     "municipio": "Santa Mônica",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5514,
     "municipio": "Santana do Itararé",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12928,
     "municipio": "Santa Tereza do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 23236,
     "municipio": "Santa Terezinha de Itaipu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 45261,
     "municipio": "Santo Antônio da Platina",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2499,
     "municipio": "Santo Antônio do Caiuá",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2122,
     "municipio": "Santo Antônio do Paraíso",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 19677,
     "municipio": "Santo Antônio do Sudoeste",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6184,
     "municipio": "Santo Inácio",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6588,
     "municipio": "São Carlos do Ivaí",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10742,
     "municipio": "São Jerônimo da Serra",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11683,
     "municipio": "São João",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5585,
     "municipio": "São João do Caiuá",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10665,
     "municipio": "São João do Ivaí",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 13725,
     "municipio": "São João do Triunfo",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9308,
     "municipio": "São Jorge d'Oeste",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5159,
     "municipio": "São Jorge do Ivaí",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6520,
     "municipio": "São Jorge do Patrocínio",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5968,
     "municipio": "São José da Boa Vista",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4063,
     "municipio": "São José das Palmeiras",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 327746,
     "municipio": "São José dos Pinhais",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2132,
     "municipio": "São Manoel do Paraná",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 44313,
     "municipio": "São Mateus do Sul",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 29285,
     "municipio": "São Miguel do Iguaçu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6854,
     "municipio": "São Pedro do Iguaçu",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8691,
     "municipio": "São Pedro do Ivaí",
-    "territorio": "Vale do Ivaí"
+    "territorio": "Vale do Ivaí",
+    "territorio_slug": "vale-do-ivai",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2654,
     "municipio": "São Pedro do Paraná",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8070,
     "municipio": "São Sebastião da Amoreira",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5385,
     "municipio": "São Tomé",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6444,
     "municipio": "Sapopema",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 126057,
     "municipio": "Sarandi",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 6137,
     "municipio": "Saudade do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17112,
     "municipio": "Sengés",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5034,
     "municipio": "Serranópolis do Iguaçu",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5761,
     "municipio": "Sertaneja",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 16694,
     "municipio": "Sertanópolis",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 24083,
     "municipio": "Siqueira Campos",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3440,
     "municipio": "Sulina",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 12115,
     "municipio": "Tamarana",
-    "territorio": "Norte do Paraná"
+    "territorio": "Norte do Paraná",
+    "territorio_slug": "norte-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 4879,
     "municipio": "Tamboara",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 15659,
     "municipio": "Tapejara",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5743,
     "municipio": "Tapira",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9565,
     "municipio": "Teixeira Soares",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 73331,
     "municipio": "Telêmaco Borba",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18654,
     "municipio": "Terra Boa",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 14862,
     "municipio": "Terra Rica",
-    "territorio": "Encontro das Águas e Biomas"
+    "territorio": "Encontro das Águas e Biomas",
+    "territorio_slug": "encontro-das-aguas-e-biomas",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18448,
     "municipio": "Terra Roxa",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18612,
     "municipio": "Tibagi",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 17717,
     "municipio": "Tijucas do Sul",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 156123,
     "municipio": "Toledo",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9659,
     "municipio": "Tomazina",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 11142,
     "municipio": "Três Barras do Paraná",
-    "territorio": "Riquezas do Oeste"
+    "territorio": "Riquezas do Oeste",
+    "territorio_slug": "riquezas-do-oeste",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8617,
     "municipio": "Tunas do Paraná",
-    "territorio": "Rotas do Pinhão"
+    "territorio": "Rotas do Pinhão",
+    "territorio_slug": "rotas-do-pinhao",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10332,
     "municipio": "Tuneiras do Oeste",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 8088,
     "municipio": "Tupãssi",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 16147,
     "municipio": "Turvo",
-    "territorio": "Terra dos Pinheirais"
+    "territorio": "Terra dos Pinheirais",
+    "territorio_slug": "terra-dos-pinheirais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 24733,
     "municipio": "Ubiratã",
-    "territorio": "Ecoaventuras, História e Sabores"
+    "territorio": "Ecoaventuras, História e Sabores",
+    "territorio_slug": "ecoaventuras-historia-e-sabores",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 117148,
     "municipio": "Umuarama",
-    "territorio": "Cinturão Verde"
+    "territorio": "Cinturão Verde",
+    "territorio_slug": "cinturao-verde",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 55238,
     "municipio": "União da Vitória",
-    "territorio": "Sul do Paraná"
+    "territorio": "Sul do Paraná",
+    "territorio_slug": "sul-do-parana",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 2136,
     "municipio": "Uniflor",
-    "territorio": "Encanto dos Ipês"
+    "territorio": "Encanto dos Ipês",
+    "territorio_slug": "encanto-dos-ipes",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 10378,
     "municipio": "Uraí",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 18894,
     "municipio": "Wenceslau Braz",
-    "territorio": "Norte Pioneiro"
+    "territorio": "Norte Pioneiro",
+    "territorio_slug": "norte-pioneiro",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9682,
     "municipio": "Ventania",
-    "territorio": "Campos Gerais"
+    "territorio": "Campos Gerais",
+    "territorio_slug": "campos-gerais",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9326,
     "municipio": "Vera Cruz do Oeste",
-    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu"
+    "territorio": "Cataratas do Iguaçu e Caminhos ao Lago Itaipu",
+    "territorio_slug": "cataratas-do-iguacu-e-caminhos-ao-lago-itaipu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 7929,
     "municipio": "Verê",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3059,
     "municipio": "Alto Paraíso",
-    "territorio": "Águas do Arenito Caiuá"
+    "territorio": "Águas do Arenito Caiuá",
+    "territorio_slug": "aguas-do-arenito-caiua",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 3813,
     "municipio": "Virmond",
-    "territorio": "Entre Matas, Morros e Rios"
+    "territorio": "Entre Matas, Morros e Rios",
+    "territorio_slug": "entre-matas-morros-e-rios",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 9942,
     "municipio": "Vitorino",
-    "territorio": "Vales do Iguaçu"
+    "territorio": "Vales do Iguaçu",
+    "territorio_slug": "vales-do-iguacu",
+    "population": null,
+    "electorate": null
   },
   {
+    "ibge_code": 5769,
     "municipio": "Xambrê",
-    "territorio": "Caminho das Águas"
+    "territorio": "Caminho das Águas",
+    "territorio_slug": "caminho-das-aguas",
+    "population": null,
+    "electorate": null
   }
 ]
