@@ -36,6 +36,111 @@ model Municipio {
   ibgeCode       BigInt?               @unique @map("ibge_code")
   territorioId   Int?                  @map("territorio_id")
   territorio     TerritorioTuristico?  @relation(fields: [territorioId], references: [id], onDelete: SetNull)
+  
+  // Relações com Eleições e Demografia
+  mandates       Mandate[]
+  populationStats PopulationStat[]
+  electorateStats ElectorateStat[]
+  councilSeats   CouncilSeatsConfig[]
 
   @@map("municipio")
+}
+
+// === ELECTIONS & DEMOGRAPHICS MODELS ===
+
+enum Office {
+  PREFEITO
+  VICE_PREFEITO
+  VEREADOR
+}
+
+model Party {
+  id           String   @id @default(cuid())
+  sigla        String   @unique
+  nome         String
+  tseNumber    Int?     @map("tse_number")
+  colorHex     String?  @map("color_hex")
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  people       Person[]
+  mandates     Mandate[]
+
+  @@map("party")
+}
+
+model Person {
+  id           String   @id @default(cuid())
+  fullName     String   @map("full_name")
+  photoUrl     String?  @map("photo_url")
+  email        String?  @unique
+  phone        String?
+  instagram    String?
+  facebook     String?
+  twitterX     String?  @map("twitter_x")
+  partyId      String?  @map("party_id")
+  party        Party?   @relation(fields: [partyId], references: [id])
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  mandates     Mandate[]
+
+  @@map("person")
+}
+
+model Mandate {
+  id             String    @id @default(cuid())
+  municipalityId Int       @map("municipality_id")
+  municipality   Municipio @relation(fields: [municipalityId], references: [id])
+  office         Office
+  personId       String    @map("person_id")
+  person         Person    @relation(fields: [personId], references: [id])
+  partyId        String?   @map("party_id")
+  party          Party?    @relation(fields: [partyId], references: [id])
+  legislature    String
+  seatNumber     Int?      @map("seat_number")
+  electionYear   Int       @map("election_year")
+  termStart      DateTime? @map("term_start")
+  termEnd        DateTime? @map("term_end")
+  createdAt      DateTime  @default(now()) @map("created_at")
+  updatedAt      DateTime  @updatedAt @map("updated_at")
+
+  @@index([municipalityId, office])
+  @@index([office, electionYear])
+  @@map("mandate")
+}
+
+model PopulationStat {
+  id             String    @id @default(cuid())
+  municipalityId Int       @map("municipality_id")
+  municipality   Municipio @relation(fields: [municipalityId], references: [id])
+  referenceYear  Int       @map("reference_year")
+  population     Int
+
+  @@unique([municipalityId, referenceYear])
+  @@index([referenceYear])
+  @@map("population_stat")
+}
+
+model ElectorateStat {
+  id             String    @id @default(cuid())
+  municipalityId Int       @map("municipality_id")
+  municipality   Municipio @relation(fields: [municipalityId], references: [id])
+  referenceYear  Int       @map("reference_year")
+  electorate     Int
+
+  @@unique([municipalityId, referenceYear])
+  @@index([referenceYear])
+  @@map("electorate_stat")
+}
+
+model CouncilSeatsConfig {
+  id             String    @id @default(cuid())
+  municipalityId Int       @map("municipality_id")
+  municipality   Municipio @relation(fields: [municipalityId], references: [id])
+  referenceYear  Int       @map("reference_year")
+  seats          Int
+
+  @@unique([municipalityId, referenceYear])
+  @@map("council_seats_config")
 }
