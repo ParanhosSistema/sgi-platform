@@ -7,8 +7,10 @@ import { TerritoriosController } from './modules/territorios.controller';
 import { AgendaController } from './modules/agenda.controller';
 import { PrismaService } from './prisma.service';
 import { AgendaService } from './modules/agenda.service';
+import { MapaModule } from './modules/mapa.module';
 
 @Module({
+  imports: [MapaModule],
   controllers: [HealthController, AuthController, SeedController, MunicipiosController, TerritoriosController, AgendaController],
   providers: [PrismaService, AgendaService],
 })
