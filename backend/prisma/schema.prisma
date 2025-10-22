@@ -68,6 +68,8 @@ model Party {
   tseCode  Int?
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+  
+  mandates Mandate[]
 }
 
 model Person {
