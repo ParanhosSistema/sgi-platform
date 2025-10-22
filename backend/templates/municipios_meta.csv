@@ -1,0 +1,4 @@
+municipio_ibge_id,municipio_nome,uf,territorio_turistico,brasao_url,classificacao,populacao_ibge_2022,eleitores_tse_2024,latitude,longitude
+4104808,Cascavel,PR,Cataratas do Iguaçu e Caminhos ao Lago de Itaipu,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bras%C3%A3o_Cascavel.svg/800px-Bras%C3%A3o_Cascavel.svg.png,OURO,,,-24.9555,-53.4552
+4106902,Curitiba,PR,Rotas do Pinhão,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bras%C3%A3o_de_Curitiba.svg/800px-Bras%C3%A3o_de_Curitiba.svg.png,OURO,,,-25.4284,-49.2733
+4108304,Foz do Iguaçu,PR,Cataratas do Iguaçu e Caminhos ao Lago de Itaipu,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bras%C3%A3o_de_Foz_do_Igua%C3%A7u.svg/800px-Bras%C3%A3o_de_Foz_do_Igua%C3%A7u.svg.png,OURO,,,-25.5469,-54.5882
