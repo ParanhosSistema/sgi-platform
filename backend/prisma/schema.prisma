@@ -10,6 +10,12 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum ClassificacaoMunicipio {
+  OURO
+  PRATA
+  BRONZE
+}
+
 model User {
   id        String   @id @default(uuid())
   email     String   @unique
@@ -36,6 +42,61 @@ model Municipio {
   ibgeCode       BigInt?               @unique @map("ibge_code")
   territorioId   Int?                  @map("territorio_id")
   territorio     TerritorioTuristico?  @relation(fields: [territorioId], references: [id], onDelete: SetNull)
+  
+  // Novos campos para módulo de eleições e demografia
+  uf             String?               @default("PR")
+  latitude       Float?
+  longitude      Float?
+  brasaoUrl      String?               @map("brasao_url")
+  classificacao  ClassificacaoMunicipio?
+  populacao2022  Int?                  @map("populacao_2022")
+  eleitores2024  Int?                  @map("eleitores_2024")
+  
+  // Relações com módulo de eleições
+  politicos      Politico[]
+  eleicoes       EleicaoCandidatoMunicipio[]
 
   @@map("municipio")
+}
+
+model Politico {
+  id               Int      @id @default(autoincrement())
+  municipioId      Int      @map("municipio_id")
+  cargo            String   // PREFEITO | VICE_PREFEITO | VEREADOR
+  nome             String
+  partidoSigla     String?  @map("partido_sigla")
+  partidoNome      String?  @map("partido_nome")
+  fotoUrl          String?  @map("foto_url")
+  anoInicioMandato Int?     @map("ano_inicio_mandato")
+  anoFimMandato    Int?     @map("ano_fim_mandato")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  municipio        Municipio @relation(fields: [municipioId], references: [id], onDelete: Cascade)
+  
+  @@index([municipioId, cargo])
+  @@map("politico")
+}
+
+model EleicaoCandidatoMunicipio {
+  id                 Int      @id @default(autoincrement())
+  ano                Int
+  turno              Int      @default(1)
+  cargo              String   // DEPUTADO ESTADUAL
+  uf                 String   @default("PR")
+  municipioId        Int      @map("municipio_id")
+  candidatoNome      String   @map("candidato_nome")
+  numero             Int?
+  partidoSigla       String?  @map("partido_sigla")
+  partidoNome        String?  @map("partido_nome")
+  votos              Int
+  percentualVotos    Float?   @map("percentual_votos")
+  createdAt          DateTime @default(now()) @map("created_at")
+  updatedAt          DateTime @updatedAt @map("updated_at")
+
+  municipio          Municipio @relation(fields: [municipioId], references: [id], onDelete: Cascade)
+
+  @@index([ano, municipioId])
+  @@unique([ano, cargo, municipioId, candidatoNome])
+  @@map("eleicao_candidato_municipio")
 }
