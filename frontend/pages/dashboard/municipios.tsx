@@ -7,8 +7,13 @@ interface Municipio {
   id: string;
   nome: string;
   codigo_ibge?: string;
+  ibgeCode?: string;  // Campo da API
   populacao?: number;
   territorio_id?: string;
+  territorio?: {  // Objeto da API
+    id: string;
+    nome: string;
+  };
   createdAt?: string;
 }
 
@@ -104,9 +109,9 @@ export default function Municipios() {
     setEditingId(municipio.id);
     setFormData({
       nome: municipio.nome,
-      codigo_ibge: municipio.codigo_ibge || '',
+      codigo_ibge: municipio.ibgeCode || municipio.codigo_ibge || '',
       populacao: municipio.populacao ? municipio.populacao.toString() : '',
-      territorio_id: municipio.territorio_id || ''
+      territorio_id: municipio.territorio?.id || municipio.territorio_id || ''
     });
     setShowForm(true);
   };
@@ -266,10 +271,10 @@ export default function Municipios() {
                   municipios.map((m) => (
                     <tr key={m.id}>
                       <td style={styles.td}>{m.nome}</td>
-                      <td style={styles.td}>{m.codigo_ibge || '-'}</td>
+                      <td style={styles.td}>{m.ibgeCode || m.codigo_ibge || '-'}</td>
                       <td style={styles.td}>{m.populacao?.toLocaleString('pt-BR') || '-'}</td>
                       <td style={styles.td}>
-                        {territorios.find(t => t.id === m.territorio_id)?.nome || '-'}
+                        {m.territorio?.nome || territorios.find(t => t.id === m.territorio_id)?.nome || '-'}
                       </td>
                       <td style={styles.td}>
                         <button onClick={() => handleEdit(m)} style={styles.editBtn}>Editar</button>
