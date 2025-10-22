@@ -18,6 +18,9 @@
     "baseUrl": ".",
     "allowJs": true,
     "esModuleInterop": true,
+    "paths": {
+      "@/*": ["./*"]
+    },
     "plugins": [
       {
         "name": "next"

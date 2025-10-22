@@ -1,13 +1,17 @@
 import Link from 'next/link';
 import { apiFetch } from "../lib/api";
 
-type Municipio = {
-  id?: number | string;
+type Territorio = {
+  id: string;
   nome: string;
-  codIbge?: number;
-  ibgeCode?: string;
-  territorio?: { nome: string } | null;
-  territorioNome?: string | null;
+};
+
+type Municipio = {
+  id: string;
+  nome: string;
+  ibgeCode: string;
+  territorio?: Territorio | null;
+  territorio_id?: string | null;
   populacao?: number | null;
   eleitores?: number | null;
 };
@@ -31,23 +35,26 @@ export default async function Page() {
         </thead>
         <tbody>
           {municipios.map((m) => {
-            const terr = (m as any).territorio?.nome || (m as any).territorioNome || '';
-            const ibgeCode = m.ibgeCode || m.codIbge?.toString();
+            const territorioNome = m.territorio?.nome || '-';
+            const ibgeCode = m.ibgeCode || '-';
+            const populacao = m.populacao ? m.populacao.toLocaleString('pt-BR') : '-';
+            const eleitores = m.eleitores ? m.eleitores.toLocaleString('pt-BR') : '-';
+            
             return (
-              <tr key={String(m.id || m.codIbge || m.nome)}>
+              <tr key={m.id}>
                 <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>
-                  {ibgeCode ? (
-                    <Link href={`/municipios/${ibgeCode}`} style={{ color: '#0070f3', textDecoration: 'none' }}>
+                  {m.ibgeCode ? (
+                    <Link href={`/municipios/${m.ibgeCode}`} style={{ color: '#0070f3', textDecoration: 'none' }}>
                       {m.nome}
                     </Link>
                   ) : (
                     m.nome
                   )}
                 </td>
-                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{terr}</td>
-                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{ibgeCode ?? ''}</td>
-                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.populacao ?? ''}</td>
-                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.eleitores ?? ''}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{territorioNome}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{ibgeCode}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{populacao}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{eleitores}</td>
               </tr>
             );
           })}
