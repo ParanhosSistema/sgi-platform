@@ -1,0 +1,5 @@
+ibge,name,party,photo_url
+4106902,Vereador A,PT,
+4106902,Vereador B,PL,
+4106902,Vereador C,PSD,
+# Liste todos os eleitos por município (uma linha por vereador)

@@ -1,9 +1,11 @@
+import Link from 'next/link';
 import { apiFetch } from "../lib/api";
 
 type Municipio = {
   id?: number | string;
   nome: string;
   codIbge?: number;
+  ibgeCode?: string;
   territorio?: { nome: string } | null;
   territorioNome?: string | null;
   populacao?: number | null;
@@ -30,11 +32,20 @@ export default async function Page() {
         <tbody>
           {municipios.map((m) => {
             const terr = (m as any).territorio?.nome || (m as any).territorioNome || '';
+            const ibgeCode = m.ibgeCode || m.codIbge?.toString();
             return (
               <tr key={String(m.id || m.codIbge || m.nome)}>
-                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.nome}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>
+                  {ibgeCode ? (
+                    <Link href={`/municipios/${ibgeCode}`} style={{ color: '#0070f3', textDecoration: 'none' }}>
+                      {m.nome}
+                    </Link>
+                  ) : (
+                    m.nome
+                  )}
+                </td>
                 <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{terr}</td>
-                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.codIbge ?? ''}</td>
+                <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{ibgeCode ?? ''}</td>
                 <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.populacao ?? ''}</td>
                 <td style={{borderBottom:'1px solid #eee', padding:'8px'}}>{m.eleitores ?? ''}</td>
               </tr>
