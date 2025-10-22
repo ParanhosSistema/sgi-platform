@@ -34,8 +34,8 @@ async function main() {
     let rows = [];
     if (fs.existsSync(fallback)) {
       console.log(`[IBGE] Using local CSV fallback: ${fallback}`);
-      const { readCSVSync } = require('./helpers/csv.cjs');
-      rows = readCSVSync(fallback);
+      const { parseCSV } = require('./helpers/csv.cjs');
+      rows = parseCSV(fallback);
     } else {
       console.log('[IBGE] Remote fetch not implemented in this offline bundle. Provide CSV at prisma/data/ibge_population_'+year+'.csv');
       return;

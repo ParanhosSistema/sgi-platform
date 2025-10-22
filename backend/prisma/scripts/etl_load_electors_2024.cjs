@@ -8,7 +8,7 @@
 
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
-const { readCSVSync } = require('./helpers/csv.cjs');
+const { parseCSV } = require('./helpers/csv.cjs');
 const path = require('path');
 
 function arg(k, def=null) {
@@ -23,7 +23,7 @@ const year = 2024;
 
 async function main() {
   console.log(`[TSE] Loading electors from ${file}`);
-  const rows = readCSVSync(path.isAbsolute(file) ? file : path.join(process.cwd(), file));
+  const rows = parseCSV(path.isAbsolute(file) ? file : path.join(process.cwd(), file));
   let upserts = 0;
   for (const r of rows) {
     const ibge = parseInt(r.ibge, 10);

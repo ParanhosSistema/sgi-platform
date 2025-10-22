@@ -14,7 +14,7 @@
 
 const { PrismaClient, MandateRole } = require('@prisma/client');
 const prisma = new PrismaClient();
-const { readCSVSync } = require('./helpers/csv.cjs');
+const { parseCSV } = require('./helpers/csv.cjs');
 const path = require('path');
 
 function arg(k, def=null) {
@@ -67,12 +67,12 @@ async function createMandate(ibge, role, name, partySigla, photoUrl) {
 
 async function main() {
   console.log(`[OFFICERS] Importing parties from ${partiesFile}`);
-  const parties = readCSVSync(ensureAbs(partiesFile));
+  const parties = parseCSV(ensureAbs(partiesFile));
   for (const p of parties) await upsertParty(p);
   console.log(`[OFFICERS] Parties upserted: ${parties.length}`);
 
   console.log(`[OFFICERS] Importing mayors from ${mayorsFile}`);
-  const mayors = readCSVSync(ensureAbs(mayorsFile));
+  const mayors = parseCSV(ensureAbs(mayorsFile));
   for (const m of mayors) {
     const ibge = parseInt(m.ibge, 10);
     if (!ibge || !m.name) continue;
@@ -81,7 +81,7 @@ async function main() {
   console.log(`[OFFICERS] Mayors imported: ${mayors.length}`);
 
   console.log(`[OFFICERS] Importing vice-mayors from ${vicesFile}`);
-  const vices = readCSVSync(ensureAbs(vicesFile));
+  const vices = parseCSV(ensureAbs(vicesFile));
   for (const v of vices) {
     const ibge = parseInt(v.ibge, 10);
     if (!ibge || !v.name) continue;
@@ -90,7 +90,7 @@ async function main() {
   console.log(`[OFFICERS] Vice-mayors imported: ${vices.length}`);
 
   console.log(`[OFFICERS] Importing councillors from ${councFile}`);
-  const cs = readCSVSync(ensureAbs(councFile));
+  const cs = parseCSV(ensureAbs(councFile));
   let cCount = 0;
   for (const c of cs) {
     const ibge = parseInt(c.ibge, 10);
