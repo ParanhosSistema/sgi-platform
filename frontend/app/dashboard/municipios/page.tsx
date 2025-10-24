@@ -32,13 +32,27 @@ export default function MunicipiosPage() {
   const territorios = useMemo(() => {
     const set = new Set<string>();
     data.forEach((m) => {
-      if (m.territorio && typeof m.territorio === 'object' && m.territorio.nome) {
-        set.add(m.territorio.nome);
-      } else if (typeof m.territorio === 'string') {
-        set.add(m.territorio);
+      let territorioNome: string | null = null;
+      
+      if (m.territorio) {
+        if (typeof m.territorio === 'object' && 'nome' in m.territorio) {
+          territorioNome = String(m.territorio.nome);
+        } else if (typeof m.territorio === 'string') {
+          territorioNome = m.territorio;
+        }
+      }
+      
+      if (territorioNome && territorioNome.trim()) {
+        set.add(territorioNome);
       }
     });
-    return Array.from(set).sort((a, b) => a.localeCompare(b, "pt-BR"));
+    
+    // Garantir que ordenação funciona com strings
+    return Array.from(set).sort((a, b) => {
+      const strA = String(a);
+      const strB = String(b);
+      return strA.localeCompare(strB, "pt-BR");
+    });
   }, [data]);
 
   const filtered = useMemo(() => {
