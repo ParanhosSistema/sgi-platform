@@ -6,7 +6,10 @@ import Link from "next/link";
 type Municipio = {
   id: number;
   nome: string;
-  territorio: string;
+  territorio: {
+    id: number;
+    nome: string;
+  };
 };
 
 const API_URL = "https://sgi-platform-backend.onrender.com/municipios";
@@ -31,7 +34,7 @@ export default function MunicipiosPage() {
 
   const territorios = useMemo(() => {
     const set = new Set<string>();
-    data.forEach((m) => set.add(m.territorio));
+    data.forEach((m) => set.add(m.territorio.nome));
     return Array.from(set).sort((a, b) => a.localeCompare(b, "pt-BR"));
   }, [data]);
 
@@ -39,7 +42,7 @@ export default function MunicipiosPage() {
     const term = q.trim().toLowerCase();
     return data.filter((m) => {
       const matchQ = !term || m.nome.toLowerCase().includes(term);
-      const matchT = !territorio || m.territorio === territorio;
+      const matchT = !territorio || m.territorio.nome === territorio;
       return matchQ && matchT;
     }).sort((a, b) => a.nome.localeCompare(b.nome, "pt-BR"));
   }, [data, q, territorio]);
@@ -105,7 +108,7 @@ export default function MunicipiosPage() {
             {filtered.map((m) => (
               <tr key={m.id} className="hover:bg-gray-50">
                 <td className="p-2 border">{m.nome}</td>
-                <td className="p-2 border">{m.territorio}</td>
+                <td className="p-2 border">{m.territorio.nome}</td>
                 <td className="p-2 border">
                   <Link
                     className="underline"
