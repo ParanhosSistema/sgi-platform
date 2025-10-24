@@ -31,10 +31,10 @@ export default function MunicipioDetailPage() {
   }, []);
 
   const mun = useMemo(() => {
-    if (!data) return null;
+    if (!data || !params) return null;
     const idNum = Number(params.id);
     return data.find((m) => m.id === idNum) ?? null;
-  }, [data, params.id]);
+  }, [data, params]);
 
   if (loading) return <div className="p-6 text-gray-600">Carregando...</div>;
   if (error) return <div className="p-6 text-red-600">Erro: {error}</div>;
