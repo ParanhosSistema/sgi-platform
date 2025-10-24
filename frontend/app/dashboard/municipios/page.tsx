@@ -31,7 +31,13 @@ export default function MunicipiosPage() {
 
   const territorios = useMemo(() => {
     const set = new Set<string>();
-    data.forEach((m) => set.add(m.territorio));
+    data.forEach((m) => {
+      if (m.territorio && typeof m.territorio === 'object' && m.territorio.nome) {
+        set.add(m.territorio.nome);
+      } else if (typeof m.territorio === 'string') {
+        set.add(m.territorio);
+      }
+    });
     return Array.from(set).sort((a, b) => a.localeCompare(b, "pt-BR"));
   }, [data]);
 
@@ -39,7 +45,8 @@ export default function MunicipiosPage() {
     const term = q.trim().toLowerCase();
     return data.filter((m) => {
       const matchQ = !term || m.nome.toLowerCase().includes(term);
-      const matchT = !territorio || m.territorio === territorio;
+      const territorioNome = typeof m.territorio === 'object' ? m.territorio.nome : m.territorio;
+      const matchT = !territorio || territorioNome === territorio;
       return matchQ && matchT;
     }).sort((a, b) => a.nome.localeCompare(b.nome, "pt-BR"));
   }, [data, q, territorio]);
@@ -105,7 +112,7 @@ export default function MunicipiosPage() {
             {filtered.map((m) => (
               <tr key={m.id} className="hover:bg-gray-50">
                 <td className="p-2 border">{m.nome}</td>
-                <td className="p-2 border">{m.territorio}</td>
+                <td className="p-2 border">{typeof m.territorio === 'object' ? m.territorio.nome : m.territorio}</td>
                 <td className="p-2 border">
                   <Link
                     className="underline"
