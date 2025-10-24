@@ -31,36 +31,15 @@ export default function MunicipiosPage() {
 
   const territorios = useMemo(() => {
     const set = new Set<string>();
-    data.forEach((m) => {
-      let territorioNome: string | null = null;
-      
-      if (m.territorio) {
-        if (typeof m.territorio === 'object' && 'nome' in m.territorio) {
-          territorioNome = String(m.territorio.nome);
-        } else if (typeof m.territorio === 'string') {
-          territorioNome = m.territorio;
-        }
-      }
-      
-      if (territorioNome && territorioNome.trim()) {
-        set.add(territorioNome);
-      }
-    });
-    
-    // Garantir que ordenação funciona com strings
-    return Array.from(set).sort((a, b) => {
-      const strA = String(a);
-      const strB = String(b);
-      return strA.localeCompare(strB, "pt-BR");
-    });
+    data.forEach((m) => set.add(m.territorio));
+    return Array.from(set).sort((a, b) => a.localeCompare(b, "pt-BR"));
   }, [data]);
 
   const filtered = useMemo(() => {
     const term = q.trim().toLowerCase();
     return data.filter((m) => {
       const matchQ = !term || m.nome.toLowerCase().includes(term);
-      const territorioNome = typeof m.territorio === 'object' ? m.territorio.nome : m.territorio;
-      const matchT = !territorio || territorioNome === territorio;
+      const matchT = !territorio || m.territorio === territorio;
       return matchQ && matchT;
     }).sort((a, b) => a.nome.localeCompare(b.nome, "pt-BR"));
   }, [data, q, territorio]);
@@ -126,7 +105,7 @@ export default function MunicipiosPage() {
             {filtered.map((m) => (
               <tr key={m.id} className="hover:bg-gray-50">
                 <td className="p-2 border">{m.nome}</td>
-                <td className="p-2 border">{typeof m.territorio === 'object' ? m.territorio.nome : m.territorio}</td>
+                <td className="p-2 border">{m.territorio}</td>
                 <td className="p-2 border">
                   <Link
                     className="underline"
