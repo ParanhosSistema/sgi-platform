@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { safeCompare, Dir } from '../_lib/safeCompare';
+import { safeCompare, Dir } from '../../_lib/safeCompare';
 
 interface Territorio {
   id: string;
