@@ -1,16 +1,34 @@
 export type Dir = 'asc' | 'desc';
 
-export function isNumericLike(v: unknown): boolean {
-  if (typeof v === 'number') return Number.isFinite(v);
-  if (typeof v === 'string') return v.trim() !== '' && !Number.isNaN(Number(v));
+function isNumericLike(val: any): boolean {
+  if (val == null) return false;
+  if (typeof val === 'number') return Number.isFinite(val);
+  if (typeof val === 'string') {
+    const trimmed = val.trim();
+    if (trimmed === '') return false;
+    const num = Number(trimmed);
+    return Number.isFinite(num);
+  }
   return false;
 }
 
-export function safeCompare(a: unknown, b: unknown, dir: Dir = 'asc'): number {
-  const m = dir === 'asc' ? 1 : -1;
-  if (a == null && b == null) return 0;
-  if (a == null) return -1 * m;
-  if (b == null) return 1 * m;
-  if (isNumericLike(a) && isNumericLike(b)) return (Number(a) - Number(b)) * m;
-  return String(a).localeCompare(String(b)) * m;
+export function safeCompare(a: any, b: any, dir: Dir = 'asc'): number {
+  const aIsNum = isNumericLike(a);
+  const bIsNum = isNumericLike(b);
+  
+  if (aIsNum && bIsNum) {
+    const numA = Number(a);
+    const numB = Number(b);
+    return dir === 'asc' ? numA - numB : numB - numA;
+  }
+  
+  if (aIsNum && !bIsNum) return dir === 'asc' ? -1 : 1;
+  if (!aIsNum && bIsNum) return dir === 'asc' ? 1 : -1;
+  
+  const strA = String(a ?? '').toLowerCase();
+  const strB = String(b ?? '').toLowerCase();
+  
+  if (strA < strB) return dir === 'asc' ? -1 : 1;
+  if (strA > strB) return dir === 'asc' ? 1 : -1;
+  return 0;
 }
